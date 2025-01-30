@@ -1,2 +1,1 @@
-# DestiNation
-nazwa robocza
+Katarzyna Michalska & Matwej Novgorodtstev project
