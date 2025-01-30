@@ -1,0 +1,5011 @@
+,Region,Weather Score,Date
+0,Karlsruhe,6.0,2025-01-20
+1,Karlsruhe,5.0,2025-01-21
+2,Karlsruhe,0.05,2025-01-22
+3,Karlsruhe,-3.0,2025-01-23
+4,Karlsruhe,3.0,2025-01-24
+5,Karlsruhe,7.0,2025-01-25
+6,Karlsruhe,2.0,2025-01-26
+7,Karlsruhe,8.0,2025-01-27
+8,Karlsruhe,-4.0,2025-01-28
+9,Karlsruhe,8.0,2025-01-29
+10,Karlsruhe,3.0,2025-01-30
+11,Karlsruhe,8.0,2025-01-31
+12,Karlsruhe,8.0,2025-02-01
+13,Karlsruhe,8.0,2025-02-02
+14,Karlsruhe,8.0,2025-02-03
+15,Ostschweiz,6.0,2025-01-20
+16,Ostschweiz,8.0,2025-01-21
+17,Ostschweiz,3.0,2025-01-22
+18,Ostschweiz,-3.65,2025-01-23
+19,Ostschweiz,8.0,2025-01-24
+20,Ostschweiz,13.0,2025-01-25
+21,Ostschweiz,3.0,2025-01-26
+22,Ostschweiz,3.0,2025-01-27
+23,Ostschweiz,0.0,2025-01-28
+24,Ostschweiz,2.9,2025-01-29
+25,Ostschweiz,8.0,2025-01-30
+26,Ostschweiz,10.0,2025-01-31
+27,Ostschweiz,10.0,2025-02-01
+28,Ostschweiz,8.0,2025-02-02
+29,Ostschweiz,6.0,2025-02-03
+30,Střední Čechy,3.0,2025-01-20
+31,Střední Čechy,5.0,2025-01-21
+32,Střední Čechy,5.0,2025-01-22
+33,Střední Čechy,1.75,2025-01-23
+34,Střední Čechy,0.0,2025-01-24
+35,Střední Čechy,8.0,2025-01-25
+36,Střední Čechy,8.0,2025-01-26
+37,Střední Čechy,3.0,2025-01-27
+38,Střední Čechy,6.0,2025-01-28
+39,Střední Čechy,8.0,2025-01-29
+40,Střední Čechy,3.0,2025-01-30
+41,Střední Čechy,8.0,2025-01-31
+42,Střední Čechy,8.0,2025-02-01
+43,Střední Čechy,6.0,2025-02-02
+44,Střední Čechy,6.0,2025-02-03
+45,Région lémanique,6.0,2025-01-20
+46,Région lémanique,6.0,2025-01-21
+47,Région lémanique,-1.0,2025-01-22
+48,Région lémanique,-4.0,2025-01-23
+49,Région lémanique,8.0,2025-01-24
+50,Région lémanique,11.0,2025-01-25
+51,Région lémanique,1.0,2025-01-26
+52,Région lémanique,8.0,2025-01-27
+53,Région lémanique,-6.0,2025-01-28
+54,Région lémanique,-1.0,2025-01-29
+55,Région lémanique,8.0,2025-01-30
+56,Région lémanique,8.0,2025-01-31
+57,Région lémanique,8.0,2025-02-01
+58,Région lémanique,2.0,2025-02-02
+59,Région lémanique,0.0,2025-02-03
+60,Prov. Vlaams-Brabant,-0.8,2025-01-20
+61,Prov. Vlaams-Brabant,6.0,2025-01-21
+62,Prov. Vlaams-Brabant,-5.0,2025-01-22
+63,Prov. Vlaams-Brabant,-7.0,2025-01-23
+64,Prov. Vlaams-Brabant,-5.0,2025-01-24
+65,Prov. Vlaams-Brabant,-1.0,2025-01-25
+66,Prov. Vlaams-Brabant,2.0,2025-01-26
+67,Prov. Vlaams-Brabant,-1.0,2025-01-27
+68,Prov. Vlaams-Brabant,-8.0,2025-01-28
+69,Prov. Vlaams-Brabant,-4.0,2025-01-29
+70,Prov. Vlaams-Brabant,6.0,2025-01-30
+71,Prov. Vlaams-Brabant,13.0,2025-01-31
+72,Prov. Vlaams-Brabant,8.0,2025-02-01
+73,Prov. Vlaams-Brabant,8.0,2025-02-02
+74,Prov. Vlaams-Brabant,8.0,2025-02-03
+75,Severoiztochen,8.0,2025-01-20
+76,Severoiztochen,6.0,2025-01-21
+77,Severoiztochen,8.0,2025-01-22
+78,Severoiztochen,8.0,2025-01-23
+79,Severoiztochen,8.0,2025-01-24
+80,Severoiztochen,8.0,2025-01-25
+81,Severoiztochen,6.0,2025-01-26
+82,Severoiztochen,6.0,2025-01-27
+83,Severoiztochen,8.0,2025-01-28
+84,Severoiztochen,13.0,2025-01-29
+85,Severoiztochen,8.0,2025-01-30
+86,Severoiztochen,2.0,2025-01-31
+87,Severoiztochen,0.0,2025-02-01
+88,Severoiztochen,4.3,2025-02-02
+89,Severoiztochen,-5.1,2025-02-03
+90,Jihozápad,3.0,2025-01-20
+91,Jihozápad,3.0,2025-01-21
+92,Jihozápad,3.0,2025-01-22
+93,Jihozápad,1.45,2025-01-23
+94,Jihozápad,8.0,2025-01-24
+95,Jihozápad,8.0,2025-01-25
+96,Jihozápad,8.0,2025-01-26
+97,Jihozápad,5.0,2025-01-27
+98,Jihozápad,6.0,2025-01-28
+99,Jihozápad,8.0,2025-01-29
+100,Jihozápad,3.0,2025-01-30
+101,Jihozápad,6.0,2025-01-31
+102,Jihozápad,8.0,2025-02-01
+103,Jihozápad,6.0,2025-02-02
+104,Jihozápad,6.0,2025-02-03
+105,Kýpros,16.0,2025-01-20
+106,Kýpros,13.0,2025-01-21
+107,Kýpros,-4.0,2025-01-22
+108,Kýpros,0.0,2025-01-23
+109,Kýpros,3.0,2025-01-24
+110,Kýpros,10.0,2025-01-25
+111,Kýpros,8.0,2025-01-26
+112,Kýpros,10.0,2025-01-27
+113,Kýpros,13.0,2025-01-28
+114,Kýpros,10.0,2025-01-29
+115,Kýpros,10.0,2025-01-30
+116,Kýpros,13.0,2025-01-31
+117,Kýpros,7.0,2025-02-01
+118,Kýpros,7.0,2025-02-02
+119,Kýpros,3.0,2025-02-03
+120,Praha,6.0,2025-01-20
+121,Praha,5.0,2025-01-21
+122,Praha,5.0,2025-01-22
+123,Praha,1.75,2025-01-23
+124,Praha,8.0,2025-01-24
+125,Praha,8.0,2025-01-25
+126,Praha,8.0,2025-01-26
+127,Praha,3.0,2025-01-27
+128,Praha,6.0,2025-01-28
+129,Praha,8.0,2025-01-29
+130,Praha,3.0,2025-01-30
+131,Praha,8.0,2025-01-31
+132,Praha,8.0,2025-02-01
+133,Praha,6.0,2025-02-02
+134,Praha,6.0,2025-02-03
+135,Yugoiztochen,6.0,2025-01-20
+136,Yugoiztochen,10.0,2025-01-21
+137,Yugoiztochen,3.0,2025-01-22
+138,Yugoiztochen,8.0,2025-01-23
+139,Yugoiztochen,8.0,2025-01-24
+140,Yugoiztochen,13.0,2025-01-25
+141,Yugoiztochen,13.0,2025-01-26
+142,Yugoiztochen,13.0,2025-01-27
+143,Yugoiztochen,8.0,2025-01-28
+144,Yugoiztochen,13.0,2025-01-29
+145,Yugoiztochen,11.0,2025-01-30
+146,Yugoiztochen,2.0,2025-01-31
+147,Yugoiztochen,2.0,2025-02-01
+148,Yugoiztochen,5.0,2025-02-02
+149,Yugoiztochen,-2.55,2025-02-03
+150,Burgenland,-3.0,2025-01-20
+151,Burgenland,5.0,2025-01-21
+152,Burgenland,6.0,2025-01-22
+153,Burgenland,5.45,2025-01-23
+154,Burgenland,8.0,2025-01-24
+155,Burgenland,6.0,2025-01-25
+156,Burgenland,6.0,2025-01-26
+157,Burgenland,8.0,2025-01-27
+158,Burgenland,8.0,2025-01-28
+159,Burgenland,-1.0,2025-01-29
+160,Burgenland,6.0,2025-01-30
+161,Burgenland,8.0,2025-01-31
+162,Burgenland,8.0,2025-02-01
+163,Burgenland,2.0,2025-02-02
+164,Burgenland,0.0,2025-02-03
+165,Tübingen,6.0,2025-01-20
+166,Tübingen,10.0,2025-01-21
+167,Tübingen,1.0,2025-01-22
+168,Tübingen,-7.0,2025-01-23
+169,Tübingen,8.0,2025-01-24
+170,Tübingen,13.0,2025-01-25
+171,Tübingen,2.0,2025-01-26
+172,Tübingen,8.0,2025-01-27
+173,Tübingen,-5.0,2025-01-28
+174,Tübingen,8.0,2025-01-29
+175,Tübingen,8.0,2025-01-30
+176,Tübingen,10.0,2025-01-31
+177,Tübingen,8.0,2025-02-01
+178,Tübingen,8.0,2025-02-02
+179,Tübingen,6.0,2025-02-03
+180,Steiermark,6.0,2025-01-20
+181,Steiermark,8.0,2025-01-21
+182,Steiermark,8.0,2025-01-22
+183,Steiermark,5.0,2025-01-23
+184,Steiermark,6.0,2025-01-24
+185,Steiermark,8.0,2025-01-25
+186,Steiermark,8.0,2025-01-26
+187,Steiermark,8.0,2025-01-27
+188,Steiermark,8.0,2025-01-28
+189,Steiermark,3.0,2025-01-29
+190,Steiermark,8.0,2025-01-30
+191,Steiermark,8.0,2025-01-31
+192,Steiermark,8.0,2025-02-01
+193,Steiermark,8.0,2025-02-02
+194,Steiermark,6.0,2025-02-03
+195,Prov. West-Vlaanderen,-0.8,2025-01-20
+196,Prov. West-Vlaanderen,6.0,2025-01-21
+197,Prov. West-Vlaanderen,-2.5,2025-01-22
+198,Prov. West-Vlaanderen,-5.0,2025-01-23
+199,Prov. West-Vlaanderen,-5.0,2025-01-24
+200,Prov. West-Vlaanderen,-1.0,2025-01-25
+201,Prov. West-Vlaanderen,2.0,2025-01-26
+202,Prov. West-Vlaanderen,-9.0,2025-01-27
+203,Prov. West-Vlaanderen,-8.0,2025-01-28
+204,Prov. West-Vlaanderen,-5.0,2025-01-29
+205,Prov. West-Vlaanderen,2.0,2025-01-30
+206,Prov. West-Vlaanderen,2.0,2025-01-31
+207,Prov. West-Vlaanderen,8.0,2025-02-01
+208,Prov. West-Vlaanderen,8.0,2025-02-02
+209,Prov. West-Vlaanderen,8.0,2025-02-03
+210,Prov. Limburg (BE),3.0,2025-01-20
+211,Prov. Limburg (BE),6.0,2025-01-21
+212,Prov. Limburg (BE),-2.5,2025-01-22
+213,Prov. Limburg (BE),-7.0,2025-01-23
+214,Prov. Limburg (BE),-1.0,2025-01-24
+215,Prov. Limburg (BE),-1.0,2025-01-25
+216,Prov. Limburg (BE),2.0,2025-01-26
+217,Prov. Limburg (BE),0.0,2025-01-27
+218,Prov. Limburg (BE),-7.0,2025-01-28
+219,Prov. Limburg (BE),-3.0,2025-01-29
+220,Prov. Limburg (BE),8.0,2025-01-30
+221,Prov. Limburg (BE),13.0,2025-01-31
+222,Prov. Limburg (BE),8.0,2025-02-01
+223,Prov. Limburg (BE),8.0,2025-02-02
+224,Prov. Limburg (BE),8.0,2025-02-03
+225,Veri,8.3,2025-01-20
+226,Veri,-4.0,2025-01-21
+227,Veri,-3.0,2025-01-22
+228,Veri,0.0,2025-01-23
+229,Veri,8.0,2025-01-24
+230,Veri,1.0,2025-01-25
+231,Veri,-1.0,2025-01-26
+232,Veri,6.5,2025-01-27
+233,Veri,-1.1,2025-01-28
+234,Veri,6.0,2025-01-29
+235,Veri,6.0,2025-01-30
+236,Veri,8.0,2025-01-31
+237,Veri,8.0,2025-02-01
+238,Veri,8.0,2025-02-02
+239,Veri,8.0,2025-02-03
+240,Prov. Oost-Vlaanderen,-1.65,2025-01-20
+241,Prov. Oost-Vlaanderen,6.0,2025-01-21
+242,Prov. Oost-Vlaanderen,-3.35,2025-01-22
+243,Prov. Oost-Vlaanderen,-6.0,2025-01-23
+244,Prov. Oost-Vlaanderen,-5.0,2025-01-24
+245,Prov. Oost-Vlaanderen,-1.0,2025-01-25
+246,Prov. Oost-Vlaanderen,2.0,2025-01-26
+247,Prov. Oost-Vlaanderen,-1.0,2025-01-27
+248,Prov. Oost-Vlaanderen,-8.0,2025-01-28
+249,Prov. Oost-Vlaanderen,-4.0,2025-01-29
+250,Prov. Oost-Vlaanderen,2.0,2025-01-30
+251,Prov. Oost-Vlaanderen,11.0,2025-01-31
+252,Prov. Oost-Vlaanderen,8.0,2025-02-01
+253,Prov. Oost-Vlaanderen,8.0,2025-02-02
+254,Prov. Oost-Vlaanderen,8.0,2025-02-03
+255,Yugozapaden,6.0,2025-01-20
+256,Yugozapaden,3.45,2025-01-21
+257,Yugozapaden,2.6,2025-01-22
+258,Yugozapaden,6.0,2025-01-23
+259,Yugozapaden,1.0,2025-01-24
+260,Yugozapaden,6.0,2025-01-25
+261,Yugozapaden,8.0,2025-01-26
+262,Yugozapaden,10.0,2025-01-27
+263,Yugozapaden,10.0,2025-01-28
+264,Yugozapaden,8.0,2025-01-29
+265,Yugozapaden,8.0,2025-01-30
+266,Yugozapaden,6.0,2025-01-31
+267,Yugozapaden,8.0,2025-02-01
+268,Yugozapaden,-4.25,2025-02-02
+269,Yugozapaden,0.9,2025-02-03
+270,Jihovýchod,-3.0,2025-01-20
+271,Jihovýchod,0.45,2025-01-21
+272,Jihovýchod,-1.55,2025-01-22
+273,Jihovýchod,0.6,2025-01-23
+274,Jihovýchod,5.0,2025-01-24
+275,Jihovýchod,5.0,2025-01-25
+276,Jihovýchod,6.0,2025-01-26
+277,Jihovýchod,3.0,2025-01-27
+278,Jihovýchod,2.0,2025-01-28
+279,Jihovýchod,8.0,2025-01-29
+280,Jihovýchod,6.0,2025-01-30
+281,Jihovýchod,4.0,2025-01-31
+282,Jihovýchod,6.0,2025-02-01
+283,Jihovýchod,0.0,2025-02-02
+284,Jihovýchod,6.0,2025-02-03
+285,Ticino,-1.35,2025-01-20
+286,Ticino,2.9,2025-01-21
+287,Ticino,-1.65,2025-01-22
+288,Ticino,-2.5,2025-01-23
+289,Ticino,6.0,2025-01-24
+290,Ticino,0.9,2025-01-25
+291,Ticino,1.2,2025-01-26
+292,Ticino,0.05,2025-01-27
+293,Ticino,-0.8,2025-01-28
+294,Ticino,0.05,2025-01-29
+295,Ticino,6.0,2025-01-30
+296,Ticino,6.0,2025-01-31
+297,Ticino,6.0,2025-02-01
+298,Ticino,8.0,2025-02-02
+299,Ticino,6.0,2025-02-03
+300,Illes Balears,9.0,2025-01-20
+301,Illes Balears,8.0,2025-01-21
+302,Illes Balears,16.0,2025-01-22
+303,Illes Balears,18.0,2025-01-23
+304,Illes Balears,18.0,2025-01-24
+305,Illes Balears,16.0,2025-01-25
+306,Illes Balears,13.0,2025-01-26
+307,Illes Balears,12.0,2025-01-27
+308,Illes Balears,9.0,2025-01-28
+309,Illes Balears,4.0,2025-01-29
+310,Illes Balears,11.0,2025-01-30
+311,Illes Balears,10.0,2025-01-31
+312,Illes Balears,9.0,2025-02-01
+313,Illes Balears,13.0,2025-02-02
+314,Illes Balears,13.0,2025-02-03
+315,Tirol,2.0,2025-01-20
+316,Tirol,6.3,2025-01-21
+317,Tirol,4.0,2025-01-22
+318,Tirol,-1.1,2025-01-23
+319,Tirol,6.6,2025-01-24
+320,Tirol,6.0,2025-01-25
+321,Tirol,6.5,2025-01-26
+322,Tirol,1.75,2025-01-27
+323,Tirol,1.75,2025-01-28
+324,Tirol,2.9,2025-01-29
+325,Tirol,6.0,2025-01-30
+326,Tirol,8.0,2025-01-31
+327,Tirol,6.0,2025-02-01
+328,Tirol,8.0,2025-02-02
+329,Tirol,8.0,2025-02-03
+330,Niederösterreich,-3.0,2025-01-20
+331,Niederösterreich,0.45,2025-01-21
+332,Niederösterreich,3.0,2025-01-22
+333,Niederösterreich,0.0,2025-01-23
+334,Niederösterreich,2.0,2025-01-24
+335,Niederösterreich,8.0,2025-01-25
+336,Niederösterreich,8.0,2025-01-26
+337,Niederösterreich,6.0,2025-01-27
+338,Niederösterreich,-3.0,2025-01-28
+339,Niederösterreich,5.0,2025-01-29
+340,Niederösterreich,2.0,2025-01-30
+341,Niederösterreich,6.0,2025-01-31
+342,Niederösterreich,8.0,2025-02-01
+343,Niederösterreich,8.0,2025-02-02
+344,Niederösterreich,6.0,2025-02-03
+345,Freiburg,6.0,2025-01-20
+346,Freiburg,8.0,2025-01-21
+347,Freiburg,-2.0,2025-01-22
+348,Freiburg,-8.0,2025-01-23
+349,Freiburg,8.0,2025-01-24
+350,Freiburg,13.0,2025-01-25
+351,Freiburg,0.0,2025-01-26
+352,Freiburg,13.0,2025-01-27
+353,Freiburg,-6.0,2025-01-28
+354,Freiburg,2.0,2025-01-29
+355,Freiburg,8.0,2025-01-30
+356,Freiburg,10.0,2025-01-31
+357,Freiburg,8.0,2025-02-01
+358,Freiburg,8.0,2025-02-02
+359,Freiburg,8.0,2025-02-03
+360,Oberbayern,6.0,2025-01-20
+361,Oberbayern,8.0,2025-01-21
+362,Oberbayern,6.0,2025-01-22
+363,Oberbayern,-4.8,2025-01-23
+364,Oberbayern,8.0,2025-01-24
+365,Oberbayern,8.0,2025-01-25
+366,Oberbayern,-1.0,2025-01-26
+367,Oberbayern,3.0,2025-01-27
+368,Oberbayern,-3.0,2025-01-28
+369,Oberbayern,8.0,2025-01-29
+370,Oberbayern,8.0,2025-01-30
+371,Oberbayern,6.0,2025-01-31
+372,Oberbayern,8.0,2025-02-01
+373,Oberbayern,8.0,2025-02-02
+374,Oberbayern,6.0,2025-02-03
+375,Zentralschweiz,6.0,2025-01-20
+376,Zentralschweiz,8.0,2025-01-21
+377,Zentralschweiz,3.75,2025-01-22
+378,Zentralschweiz,-0.5,2025-01-23
+379,Zentralschweiz,8.0,2025-01-24
+380,Zentralschweiz,6.0,2025-01-25
+381,Zentralschweiz,-4.25,2025-01-26
+382,Zentralschweiz,0.5,2025-01-27
+383,Zentralschweiz,-9.8,2025-01-28
+384,Zentralschweiz,3.6,2025-01-29
+385,Zentralschweiz,4.0,2025-01-30
+386,Zentralschweiz,4.0,2025-01-31
+387,Zentralschweiz,6.0,2025-02-01
+388,Zentralschweiz,6.0,2025-02-02
+389,Zentralschweiz,3.0,2025-02-03
+390,Severen tsentralen,8.0,2025-01-20
+391,Severen tsentralen,8.0,2025-01-21
+392,Severen tsentralen,7.45,2025-01-22
+393,Severen tsentralen,15.0,2025-01-23
+394,Severen tsentralen,10.0,2025-01-24
+395,Severen tsentralen,13.0,2025-01-25
+396,Severen tsentralen,13.0,2025-01-26
+397,Severen tsentralen,15.0,2025-01-27
+398,Severen tsentralen,13.0,2025-01-28
+399,Severen tsentralen,13.0,2025-01-29
+400,Severen tsentralen,8.0,2025-01-30
+401,Severen tsentralen,8.0,2025-01-31
+402,Severen tsentralen,6.0,2025-02-01
+403,Severen tsentralen,3.45,2025-02-02
+404,Severen tsentralen,2.6,2025-02-03
+405,Vorarlberg,6.0,2025-01-20
+406,Vorarlberg,6.0,2025-01-21
+407,Vorarlberg,6.0,2025-01-22
+408,Vorarlberg,-0.8,2025-01-23
+409,Vorarlberg,8.6,2025-01-24
+410,Vorarlberg,8.0,2025-01-25
+411,Vorarlberg,6.5,2025-01-26
+412,Vorarlberg,-0.25,2025-01-27
+413,Vorarlberg,-0.25,2025-01-28
+414,Vorarlberg,3.6,2025-01-29
+415,Vorarlberg,6.0,2025-01-30
+416,Vorarlberg,0.9,2025-01-31
+417,Vorarlberg,6.0,2025-02-01
+418,Vorarlberg,6.0,2025-02-02
+419,Vorarlberg,6.0,2025-02-03
+420,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,-4.65,2025-01-20
+421,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,6.0,2025-01-21
+422,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,-4.0,2025-01-22
+423,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,-7.0,2025-01-23
+424,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,-5.0,2025-01-24
+425,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,-1.0,2025-01-25
+426,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,2.0,2025-01-26
+427,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,-9.0,2025-01-27
+428,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,-9.0,2025-01-28
+429,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,-4.0,2025-01-29
+430,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,6.0,2025-01-30
+431,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,11.0,2025-01-31
+432,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,8.0,2025-02-01
+433,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,8.0,2025-02-02
+434,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,8.0,2025-02-03
+435,Prov. Antwerpen,-0.8,2025-01-20
+436,Prov. Antwerpen,6.0,2025-01-21
+437,Prov. Antwerpen,-2.5,2025-01-22
+438,Prov. Antwerpen,-6.0,2025-01-23
+439,Prov. Antwerpen,-5.0,2025-01-24
+440,Prov. Antwerpen,-1.0,2025-01-25
+441,Prov. Antwerpen,2.0,2025-01-26
+442,Prov. Antwerpen,-1.0,2025-01-27
+443,Prov. Antwerpen,-8.0,2025-01-28
+444,Prov. Antwerpen,-4.0,2025-01-29
+445,Prov. Antwerpen,6.0,2025-01-30
+446,Prov. Antwerpen,13.0,2025-01-31
+447,Prov. Antwerpen,8.0,2025-02-01
+448,Prov. Antwerpen,8.0,2025-02-02
+449,Prov. Antwerpen,8.0,2025-02-03
+450,Prov. Liège,5.0,2025-01-21
+451,Prov. Liège,12.0,2025-01-22
+452,Prov. Liège,18.0,2025-01-23
+453,Prov. Liège,10.0,2025-01-24
+454,Prov. Liège,12.0,2025-01-25
+455,Prov. Liège,12.0,2025-01-26
+456,Prov. Liège,14.0,2025-01-27
+457,Prov. Liège,14.0,2025-01-28
+458,Prov. Liège,12.0,2025-01-29
+459,Prov. Liège,9.0,2025-01-30
+460,Prov. Liège,7.0,2025-01-31
+461,Prov. Liège,6.0,2025-02-01
+462,Prov. Liège,6.0,2025-02-02
+463,Prov. Liège,4.0,2025-02-03
+464,Prov. Liège,4.0,2025-02-04
+465,Espace Mittelland,6.0,2025-01-20
+466,Espace Mittelland,6.0,2025-01-21
+467,Espace Mittelland,5.0,2025-01-22
+468,Espace Mittelland,-1.65,2025-01-23
+469,Espace Mittelland,8.0,2025-01-24
+470,Espace Mittelland,8.0,2025-01-25
+471,Espace Mittelland,5.0,2025-01-26
+472,Espace Mittelland,5.0,2025-01-27
+473,Espace Mittelland,1.0,2025-01-28
+474,Espace Mittelland,2.0,2025-01-29
+475,Espace Mittelland,8.0,2025-01-30
+476,Espace Mittelland,10.0,2025-01-31
+477,Espace Mittelland,10.0,2025-02-01
+478,Espace Mittelland,10.0,2025-02-02
+479,Espace Mittelland,6.0,2025-02-03
+480,Nordwestschweiz,6.0,2025-01-20
+481,Nordwestschweiz,10.0,2025-01-21
+482,Nordwestschweiz,0.0,2025-01-22
+483,Nordwestschweiz,-8.0,2025-01-23
+484,Nordwestschweiz,8.0,2025-01-24
+485,Nordwestschweiz,13.0,2025-01-25
+486,Nordwestschweiz,2.9,2025-01-26
+487,Nordwestschweiz,8.0,2025-01-27
+488,Nordwestschweiz,-1.0,2025-01-28
+489,Nordwestschweiz,8.0,2025-01-29
+490,Nordwestschweiz,8.0,2025-01-30
+491,Nordwestschweiz,8.0,2025-01-31
+492,Nordwestschweiz,10.0,2025-02-01
+493,Nordwestschweiz,8.0,2025-02-02
+494,Nordwestschweiz,6.0,2025-02-03
+495,Yuzhen tsentralen,8.0,2025-01-20
+496,Yuzhen tsentralen,5.45,2025-01-21
+497,Yuzhen tsentralen,8.3,2025-01-22
+498,Yuzhen tsentralen,8.0,2025-01-23
+499,Yuzhen tsentralen,8.0,2025-01-24
+500,Yuzhen tsentralen,13.0,2025-01-25
+501,Yuzhen tsentralen,10.0,2025-01-26
+502,Yuzhen tsentralen,15.0,2025-01-27
+503,Yuzhen tsentralen,10.0,2025-01-28
+504,Yuzhen tsentralen,8.0,2025-01-29
+505,Yuzhen tsentralen,8.0,2025-01-30
+506,Yuzhen tsentralen,6.0,2025-01-31
+507,Yuzhen tsentralen,1.75,2025-02-01
+508,Yuzhen tsentralen,1.75,2025-02-02
+509,Yuzhen tsentralen,3.6,2025-02-03
+510,Oberösterreich,-3.0,2025-01-20
+511,Oberösterreich,3.0,2025-01-21
+512,Oberösterreich,6.0,2025-01-22
+513,Oberösterreich,0.05,2025-01-23
+514,Oberösterreich,0.05,2025-01-24
+515,Oberösterreich,8.0,2025-01-25
+516,Oberösterreich,8.0,2025-01-26
+517,Oberösterreich,3.0,2025-01-27
+518,Oberösterreich,-3.0,2025-01-28
+519,Oberösterreich,8.0,2025-01-29
+520,Oberösterreich,8.0,2025-01-30
+521,Oberösterreich,2.0,2025-01-31
+522,Oberösterreich,8.0,2025-02-01
+523,Oberösterreich,8.0,2025-02-02
+524,Oberösterreich,6.0,2025-02-03
+525,Qender,13.0,2025-01-20
+526,Qender,-2.0,2025-01-21
+527,Qender,5.0,2025-01-22
+528,Qender,10.0,2025-01-23
+529,Qender,9.0,2025-01-24
+530,Qender,15.0,2025-01-25
+531,Qender,13.0,2025-01-26
+532,Qender,13.0,2025-01-27
+533,Qender,13.0,2025-01-28
+534,Qender,13.0,2025-01-29
+535,Qender,13.0,2025-01-30
+536,Qender,13.0,2025-01-31
+537,Qender,13.0,2025-02-01
+538,Qender,7.0,2025-02-02
+539,Qender,2.0,2025-02-03
+540,Jug,-2.1,2025-01-20
+541,Jug,-2.4,2025-01-21
+542,Jug,-7.2,2025-01-22
+543,Jug,-1.9,2025-01-23
+544,Jug,-6.65,2025-01-24
+545,Jug,1.0,2025-01-25
+546,Jug,-5.95,2025-01-26
+547,Jug,-5.1,2025-01-27
+548,Jug,4.7,2025-01-28
+549,Jug,1.5,2025-01-29
+550,Jug,-1.25,2025-01-30
+551,Jug,0.9,2025-01-31
+552,Jug,-3.25,2025-02-01
+553,Jug,1.6,2025-02-02
+554,Jug,3.5,2025-02-03
+555,Zürich,6.0,2025-01-20
+556,Zürich,8.0,2025-01-21
+557,Zürich,1.75,2025-01-22
+558,Zürich,-0.5,2025-01-23
+559,Zürich,6.0,2025-01-24
+560,Zürich,13.0,2025-01-25
+561,Zürich,5.0,2025-01-26
+562,Zürich,3.0,2025-01-27
+563,Zürich,2.0,2025-01-28
+564,Zürich,2.9,2025-01-29
+565,Zürich,8.0,2025-01-30
+566,Zürich,10.0,2025-01-31
+567,Zürich,10.0,2025-02-01
+568,Zürich,8.0,2025-02-02
+569,Zürich,6.0,2025-02-03
+570,Severovýchod,3.0,2025-01-20
+571,Severovýchod,5.0,2025-01-21
+572,Severovýchod,3.0,2025-01-22
+573,Severovýchod,1.75,2025-01-23
+574,Severovýchod,3.75,2025-01-24
+575,Severovýchod,3.0,2025-01-25
+576,Severovýchod,6.0,2025-01-26
+577,Severovýchod,3.45,2025-01-27
+578,Severovýchod,1.0,2025-01-28
+579,Severovýchod,1.0,2025-01-29
+580,Severovýchod,6.0,2025-01-30
+581,Severovýchod,6.0,2025-01-31
+582,Severovýchod,6.0,2025-02-01
+583,Severovýchod,6.0,2025-02-02
+584,Severovýchod,6.0,2025-02-03
+585,Salzburg,8.0,2025-01-20
+586,Salzburg,8.0,2025-01-21
+587,Salzburg,6.0,2025-01-22
+588,Salzburg,0.05,2025-01-23
+589,Salzburg,2.9,2025-01-24
+590,Salzburg,13.0,2025-01-25
+591,Salzburg,8.0,2025-01-26
+592,Salzburg,10.0,2025-01-27
+593,Salzburg,3.0,2025-01-28
+594,Salzburg,3.0,2025-01-29
+595,Salzburg,8.0,2025-01-30
+596,Salzburg,8.0,2025-01-31
+597,Salzburg,8.0,2025-02-01
+598,Salzburg,6.0,2025-02-02
+599,Salzburg,6.0,2025-02-03
+600,Kärnten,6.0,2025-01-20
+601,Kärnten,8.0,2025-01-21
+602,Kärnten,6.3,2025-01-22
+603,Kärnten,2.05,2025-01-23
+604,Kärnten,0.05,2025-01-24
+605,Kärnten,6.0,2025-01-25
+606,Kärnten,6.0,2025-01-26
+607,Kärnten,0.9,2025-01-27
+608,Kärnten,2.0,2025-01-28
+609,Kärnten,1.75,2025-01-29
+610,Kärnten,8.0,2025-01-30
+611,Kärnten,6.0,2025-01-31
+612,Kärnten,8.0,2025-02-01
+613,Kärnten,8.0,2025-02-02
+614,Kärnten,6.0,2025-02-03
+615,Prov. Brabant Wallon,-3.8,2025-01-20
+616,Prov. Brabant Wallon,8.0,2025-01-21
+617,Prov. Brabant Wallon,-2.5,2025-01-22
+618,Prov. Brabant Wallon,-7.0,2025-01-23
+619,Prov. Brabant Wallon,-5.0,2025-01-24
+620,Prov. Brabant Wallon,-1.0,2025-01-25
+621,Prov. Brabant Wallon,2.0,2025-01-26
+622,Prov. Brabant Wallon,-9.0,2025-01-27
+623,Prov. Brabant Wallon,-9.0,2025-01-28
+624,Prov. Brabant Wallon,-4.0,2025-01-29
+625,Prov. Brabant Wallon,6.0,2025-01-30
+626,Prov. Brabant Wallon,11.0,2025-01-31
+627,Prov. Brabant Wallon,8.0,2025-02-01
+628,Prov. Brabant Wallon,8.0,2025-02-02
+629,Prov. Brabant Wallon,8.0,2025-02-03
+630,Moravskoslezsko,0.0,2025-01-20
+631,Moravskoslezsko,6.0,2025-01-21
+632,Moravskoslezsko,0.0,2025-01-22
+633,Moravskoslezsko,-3.0,2025-01-23
+634,Moravskoslezsko,3.0,2025-01-24
+635,Moravskoslezsko,2.0,2025-01-25
+636,Moravskoslezsko,3.0,2025-01-26
+637,Moravskoslezsko,3.0,2025-01-27
+638,Moravskoslezsko,7.0,2025-01-28
+639,Moravskoslezsko,3.0,2025-01-29
+640,Moravskoslezsko,8.0,2025-01-30
+641,Moravskoslezsko,3.0,2025-01-31
+642,Moravskoslezsko,2.0,2025-02-01
+643,Moravskoslezsko,-4.25,2025-02-02
+644,Moravskoslezsko,4.0,2025-02-03
+645,Wien,-3.0,2025-01-20
+646,Wien,0.45,2025-01-21
+647,Wien,3.45,2025-01-22
+648,Wien,5.45,2025-01-23
+649,Wien,8.0,2025-01-24
+650,Wien,8.0,2025-01-25
+651,Wien,8.0,2025-01-26
+652,Wien,2.0,2025-01-27
+653,Wien,1.0,2025-01-28
+654,Wien,3.0,2025-01-29
+655,Wien,6.0,2025-01-30
+656,Wien,6.0,2025-01-31
+657,Wien,6.0,2025-02-01
+658,Wien,6.0,2025-02-02
+659,Wien,6.0,2025-02-03
+660,Prov. Hainaut,-0.8,2025-01-20
+661,Prov. Hainaut,6.0,2025-01-21
+662,Prov. Hainaut,-3.0,2025-01-22
+663,Prov. Hainaut,-6.0,2025-01-23
+664,Prov. Hainaut,-5.0,2025-01-24
+665,Prov. Hainaut,-1.0,2025-01-25
+666,Prov. Hainaut,2.0,2025-01-26
+667,Prov. Hainaut,-9.0,2025-01-27
+668,Prov. Hainaut,-9.0,2025-01-28
+669,Prov. Hainaut,-4.0,2025-01-29
+670,Prov. Hainaut,2.0,2025-01-30
+671,Prov. Hainaut,2.0,2025-01-31
+672,Prov. Hainaut,8.0,2025-02-01
+673,Prov. Hainaut,8.0,2025-02-02
+674,Prov. Hainaut,8.0,2025-02-03
+675,Andalucía,3.0,2025-01-20
+676,Andalucía,8.0,2025-01-21
+677,Andalucía,12.0,2025-01-22
+678,Andalucía,18.0,2025-01-23
+679,Andalucía,18.0,2025-01-24
+680,Andalucía,12.0,2025-01-25
+681,Andalucía,5.0,2025-01-26
+682,Andalucía,13.0,2025-01-27
+683,Andalucía,10.0,2025-01-28
+684,Andalucía,18.0,2025-01-29
+685,Andalucía,16.0,2025-01-30
+686,Andalucía,7.0,2025-01-31
+687,Andalucía,13.0,2025-02-01
+688,Andalucía,13.0,2025-02-02
+689,Andalucía,18.0,2025-02-03
+690,Región de Murcia,13.0,2025-01-20
+691,Región de Murcia,10.0,2025-01-21
+692,Región de Murcia,18.0,2025-01-22
+693,Región de Murcia,18.0,2025-01-23
+694,Región de Murcia,18.0,2025-01-24
+695,Región de Murcia,16.0,2025-01-25
+696,Región de Murcia,9.0,2025-01-26
+697,Región de Murcia,18.0,2025-01-27
+698,Región de Murcia,7.0,2025-01-28
+699,Región de Murcia,13.0,2025-01-29
+700,Región de Murcia,13.0,2025-01-30
+701,Región de Murcia,7.0,2025-01-31
+702,Región de Murcia,7.0,2025-02-01
+703,Región de Murcia,7.0,2025-02-02
+704,Región de Murcia,13.0,2025-02-03
+705,Ciudad de Ceuta,9.0,2025-01-20
+706,Ciudad de Ceuta,12.0,2025-01-21
+707,Ciudad de Ceuta,18.0,2025-01-22
+708,Ciudad de Ceuta,18.0,2025-01-23
+709,Ciudad de Ceuta,18.0,2025-01-24
+710,Ciudad de Ceuta,7.0,2025-01-25
+711,Ciudad de Ceuta,7.0,2025-01-26
+712,Ciudad de Ceuta,12.0,2025-01-27
+713,Ciudad de Ceuta,9.0,2025-01-28
+714,Ciudad de Ceuta,12.0,2025-01-29
+715,Ciudad de Ceuta,12.0,2025-01-30
+716,Ciudad de Ceuta,9.0,2025-01-31
+717,Ciudad de Ceuta,8.0,2025-02-01
+718,Ciudad de Ceuta,8.0,2025-02-02
+719,Ciudad de Ceuta,0.0,2025-02-03
+720,Ciudad de Melilla,15.0,2025-01-20
+721,Ciudad de Melilla,18.0,2025-01-21
+722,Ciudad de Melilla,18.0,2025-01-22
+723,Ciudad de Melilla,18.0,2025-01-23
+724,Ciudad de Melilla,18.0,2025-01-24
+725,Ciudad de Melilla,18.0,2025-01-25
+726,Ciudad de Melilla,7.0,2025-01-26
+727,Ciudad de Melilla,18.0,2025-01-27
+728,Ciudad de Melilla,9.0,2025-01-28
+729,Ciudad de Melilla,18.0,2025-01-29
+730,Ciudad de Melilla,16.0,2025-01-30
+731,Ciudad de Melilla,16.0,2025-01-31
+732,Ciudad de Melilla,11.0,2025-02-01
+733,Ciudad de Melilla,7.0,2025-02-02
+734,Ciudad de Melilla,12.0,2025-02-03
+735,Schleswig-Holstein,0.45,2025-01-20
+736,Schleswig-Holstein,6.0,2025-01-21
+737,Schleswig-Holstein,-0.8,2025-01-22
+738,Schleswig-Holstein,-3.65,2025-01-23
+739,Schleswig-Holstein,-7.0,2025-01-24
+740,Schleswig-Holstein,-7.0,2025-01-25
+741,Schleswig-Holstein,2.0,2025-01-26
+742,Schleswig-Holstein,-5.0,2025-01-27
+743,Schleswig-Holstein,-7.0,2025-01-28
+744,Schleswig-Holstein,-4.0,2025-01-29
+745,Schleswig-Holstein,-3.0,2025-01-30
+746,Schleswig-Holstein,2.0,2025-01-31
+747,Schleswig-Holstein,2.0,2025-02-01
+748,Schleswig-Holstein,8.0,2025-02-02
+749,Schleswig-Holstein,8.0,2025-02-03
+750,Helsinki-Uusimaa,0.0,2025-01-20
+751,Helsinki-Uusimaa,-19.5,2025-01-21
+752,Helsinki-Uusimaa,-9.35,2025-01-22
+753,Helsinki-Uusimaa,-7.65,2025-01-23
+754,Helsinki-Uusimaa,-7.65,2025-01-24
+755,Helsinki-Uusimaa,-5.95,2025-01-25
+756,Helsinki-Uusimaa,-6.8,2025-01-26
+757,Helsinki-Uusimaa,0.0,2025-01-27
+758,Helsinki-Uusimaa,0.0,2025-01-28
+759,Helsinki-Uusimaa,0.0,2025-01-29
+760,Helsinki-Uusimaa,-5.0,2025-01-30
+761,Helsinki-Uusimaa,-5.0,2025-01-31
+762,Helsinki-Uusimaa,-5.0,2025-02-01
+763,Helsinki-Uusimaa,-4.25,2025-02-02
+764,Helsinki-Uusimaa,6.0,2025-02-03
+765,Galicia,4.0,2025-01-20
+766,Galicia,1.0,2025-01-21
+767,Galicia,0.0,2025-01-22
+768,Galicia,8.0,2025-01-23
+769,Galicia,-1.0,2025-01-24
+770,Galicia,-8.0,2025-01-25
+771,Galicia,-5.0,2025-01-26
+772,Galicia,-7.0,2025-01-27
+773,Galicia,-1.0,2025-01-28
+774,Galicia,7.0,2025-01-29
+775,Galicia,13.0,2025-01-30
+776,Galicia,10.0,2025-01-31
+777,Galicia,13.0,2025-02-01
+778,Galicia,13.0,2025-02-02
+779,Galicia,13.0,2025-02-03
+780,Ile-de-France,3.0,2025-01-20
+781,Ile-de-France,8.0,2025-01-21
+782,Ile-de-France,-5.0,2025-01-22
+783,Ile-de-France,-2.0,2025-01-23
+784,Ile-de-France,0.0,2025-01-24
+785,Ile-de-France,1.0,2025-01-25
+786,Ile-de-France,2.0,2025-01-26
+787,Ile-de-France,-9.0,2025-01-27
+788,Ile-de-France,-8.0,2025-01-28
+789,Ile-de-France,-4.0,2025-01-29
+790,Ile-de-France,6.0,2025-01-30
+791,Ile-de-France,13.0,2025-01-31
+792,Ile-de-France,13.0,2025-02-01
+793,Ile-de-France,6.0,2025-02-02
+794,Ile-de-France,6.0,2025-02-03
+795,Berlin,8.0,2025-01-20
+796,Berlin,6.0,2025-01-21
+797,Berlin,6.0,2025-01-22
+798,Berlin,-2.5,2025-01-23
+799,Berlin,1.0,2025-01-24
+800,Berlin,1.0,2025-01-25
+801,Berlin,1.0,2025-01-26
+802,Berlin,1.0,2025-01-27
+803,Berlin,2.0,2025-01-28
+804,Berlin,6.0,2025-01-29
+805,Berlin,1.0,2025-01-30
+806,Berlin,8.0,2025-01-31
+807,Berlin,6.0,2025-02-01
+808,Berlin,8.0,2025-02-02
+809,Berlin,6.0,2025-02-03
+810,Dytiki Makedonia,6.0,2025-01-20
+811,Dytiki Makedonia,1.2,2025-01-21
+812,Dytiki Makedonia,8.0,2025-01-22
+813,Dytiki Makedonia,8.0,2025-01-23
+814,Dytiki Makedonia,3.0,2025-01-24
+815,Dytiki Makedonia,13.0,2025-01-25
+816,Dytiki Makedonia,13.0,2025-01-26
+817,Dytiki Makedonia,10.0,2025-01-27
+818,Dytiki Makedonia,15.0,2025-01-28
+819,Dytiki Makedonia,13.0,2025-01-29
+820,Dytiki Makedonia,13.0,2025-01-30
+821,Dytiki Makedonia,8.0,2025-01-31
+822,Dytiki Makedonia,8.0,2025-02-01
+823,Dytiki Makedonia,-1.0,2025-02-02
+824,Dytiki Makedonia,0.0,2025-02-03
+825,Düsseldorf,3.0,2025-01-20
+826,Düsseldorf,6.0,2025-01-21
+827,Düsseldorf,-4.0,2025-01-22
+828,Düsseldorf,-1.0,2025-01-23
+829,Düsseldorf,0.0,2025-01-24
+830,Düsseldorf,0.0,2025-01-25
+831,Düsseldorf,6.0,2025-01-26
+832,Düsseldorf,0.0,2025-01-27
+833,Düsseldorf,1.0,2025-01-28
+834,Düsseldorf,6.0,2025-01-29
+835,Düsseldorf,1.0,2025-01-30
+836,Düsseldorf,6.0,2025-01-31
+837,Düsseldorf,8.0,2025-02-01
+838,Düsseldorf,8.0,2025-02-02
+839,Düsseldorf,8.0,2025-02-03
+840,Sterea Elláda,13.0,2025-01-20
+841,Sterea Elláda,2.0,2025-01-21
+842,Sterea Elláda,11.0,2025-01-22
+843,Sterea Elláda,13.0,2025-01-23
+844,Sterea Elláda,13.0,2025-01-24
+845,Sterea Elláda,11.0,2025-01-25
+846,Sterea Elláda,11.0,2025-01-26
+847,Sterea Elláda,13.0,2025-01-27
+848,Sterea Elláda,13.0,2025-01-28
+849,Sterea Elláda,13.0,2025-01-29
+850,Sterea Elláda,10.0,2025-01-30
+851,Sterea Elláda,6.0,2025-01-31
+852,Sterea Elláda,2.0,2025-02-01
+853,Sterea Elláda,-6.0,2025-02-02
+854,Sterea Elláda,-1.0,2025-02-03
+855,Thüringen,6.0,2025-01-20
+856,Thüringen,6.0,2025-01-21
+857,Thüringen,6.0,2025-01-22
+858,Thüringen,-9.0,2025-01-23
+859,Thüringen,3.45,2025-01-24
+860,Thüringen,2.0,2025-01-25
+861,Thüringen,-4.0,2025-01-26
+862,Thüringen,2.0,2025-01-27
+863,Thüringen,-3.0,2025-01-28
+864,Thüringen,6.0,2025-01-29
+865,Thüringen,3.0,2025-01-30
+866,Thüringen,8.0,2025-01-31
+867,Thüringen,8.0,2025-02-01
+868,Thüringen,6.0,2025-02-02
+869,Thüringen,6.0,2025-02-03
+870,Sardegna,4.0,2025-01-20
+871,Sardegna,8.0,2025-01-21
+872,Sardegna,9.0,2025-01-22
+873,Sardegna,18.0,2025-01-23
+874,Sardegna,13.0,2025-01-24
+875,Sardegna,18.0,2025-01-25
+876,Sardegna,18.0,2025-01-26
+877,Sardegna,18.0,2025-01-27
+878,Sardegna,8.0,2025-01-28
+879,Sardegna,13.0,2025-01-29
+880,Sardegna,10.0,2025-01-30
+881,Sardegna,13.0,2025-01-31
+882,Sardegna,13.0,2025-02-01
+883,Sardegna,13.0,2025-02-02
+884,Sardegna,13.0,2025-02-03
+885,Provincia Autonoma di Bolzano/Bozen,5.45,2025-01-20
+886,Provincia Autonoma di Bolzano/Bozen,1.75,2025-01-21
+887,Provincia Autonoma di Bolzano/Bozen,6.0,2025-01-22
+888,Provincia Autonoma di Bolzano/Bozen,0.9,2025-01-23
+889,Provincia Autonoma di Bolzano/Bozen,8.0,2025-01-24
+890,Provincia Autonoma di Bolzano/Bozen,6.0,2025-01-25
+891,Provincia Autonoma di Bolzano/Bozen,1.0,2025-01-26
+892,Provincia Autonoma di Bolzano/Bozen,0.9,2025-01-27
+893,Provincia Autonoma di Bolzano/Bozen,1.0,2025-01-28
+894,Provincia Autonoma di Bolzano/Bozen,6.0,2025-01-29
+895,Provincia Autonoma di Bolzano/Bozen,8.0,2025-01-30
+896,Provincia Autonoma di Bolzano/Bozen,8.0,2025-01-31
+897,Provincia Autonoma di Bolzano/Bozen,8.0,2025-02-01
+898,Provincia Autonoma di Bolzano/Bozen,8.0,2025-02-02
+899,Provincia Autonoma di Bolzano/Bozen,8.0,2025-02-03
+900,Hovedstaden,0.0,2025-01-20
+901,Hovedstaden,1.75,2025-01-21
+902,Hovedstaden,0.9,2025-01-22
+903,Hovedstaden,-4.5,2025-01-23
+904,Hovedstaden,-1.0,2025-01-24
+905,Hovedstaden,-7.0,2025-01-25
+906,Hovedstaden,0.0,2025-01-26
+907,Hovedstaden,-6.0,2025-01-27
+908,Hovedstaden,-13.0,2025-01-28
+909,Hovedstaden,-3.0,2025-01-29
+910,Hovedstaden,1.0,2025-01-30
+911,Hovedstaden,2.0,2025-01-31
+912,Hovedstaden,2.0,2025-02-01
+913,Hovedstaden,8.0,2025-02-02
+914,Hovedstaden,6.0,2025-02-03
+915,Åland,0.0,2025-01-20
+916,Åland,-8.5,2025-01-21
+917,Åland,-5.95,2025-01-22
+918,Åland,-7.65,2025-01-23
+919,Åland,-7.65,2025-01-24
+920,Åland,-13.95,2025-01-25
+921,Åland,-4.25,2025-01-26
+922,Åland,0.0,2025-01-27
+923,Åland,-13.0,2025-01-28
+924,Åland,-11.0,2025-01-29
+925,Åland,-3.0,2025-01-30
+926,Åland,-3.0,2025-01-31
+927,Åland,-11.0,2025-02-01
+928,Åland,-8.0,2025-02-02
+929,Åland,-4.25,2025-02-03
+930,Cantabria,-1.0,2025-01-20
+931,Cantabria,3.0,2025-01-21
+932,Cantabria,-1.0,2025-01-22
+933,Cantabria,6.0,2025-01-23
+934,Cantabria,4.0,2025-01-24
+935,Cantabria,-1.0,2025-01-25
+936,Cantabria,4.0,2025-01-26
+937,Cantabria,0.0,2025-01-27
+938,Cantabria,6.0,2025-01-28
+939,Cantabria,13.0,2025-01-29
+940,Cantabria,4.0,2025-01-30
+941,Cantabria,0.0,2025-01-31
+942,Cantabria,13.0,2025-02-01
+943,Cantabria,13.0,2025-02-02
+944,Cantabria,13.0,2025-02-03
+945,Ipeiros,6.0,2025-01-20
+946,Ipeiros,-2.0,2025-01-21
+947,Ipeiros,7.0,2025-01-22
+948,Ipeiros,13.0,2025-01-23
+949,Ipeiros,8.0,2025-01-24
+950,Ipeiros,13.0,2025-01-25
+951,Ipeiros,15.0,2025-01-26
+952,Ipeiros,15.0,2025-01-27
+953,Ipeiros,15.0,2025-01-28
+954,Ipeiros,8.0,2025-01-29
+955,Ipeiros,13.0,2025-01-30
+956,Ipeiros,13.0,2025-01-31
+957,Ipeiros,13.0,2025-02-01
+958,Ipeiros,8.0,2025-02-02
+959,Ipeiros,8.0,2025-02-03
+960,Köln,3.0,2025-01-20
+961,Köln,6.0,2025-01-21
+962,Köln,-2.5,2025-01-22
+963,Köln,-1.0,2025-01-23
+964,Köln,2.0,2025-01-24
+965,Köln,0.0,2025-01-25
+966,Köln,8.0,2025-01-26
+967,Köln,-4.0,2025-01-27
+968,Köln,1.0,2025-01-28
+969,Köln,1.0,2025-01-29
+970,Köln,1.0,2025-01-30
+971,Köln,6.0,2025-01-31
+972,Köln,8.0,2025-02-01
+973,Köln,8.0,2025-02-02
+974,Köln,8.0,2025-02-03
+975,Mittelfranken,8.0,2025-01-20
+976,Mittelfranken,8.0,2025-01-21
+977,Mittelfranken,0.05,2025-01-22
+978,Mittelfranken,-8.0,2025-01-23
+979,Mittelfranken,8.0,2025-01-24
+980,Mittelfranken,3.0,2025-01-25
+981,Mittelfranken,3.0,2025-01-26
+982,Mittelfranken,6.0,2025-01-27
+983,Mittelfranken,1.0,2025-01-28
+984,Mittelfranken,8.0,2025-01-29
+985,Mittelfranken,1.0,2025-01-30
+986,Mittelfranken,8.0,2025-01-31
+987,Mittelfranken,8.0,2025-02-01
+988,Mittelfranken,6.0,2025-02-02
+989,Mittelfranken,6.0,2025-02-03
+990,Dresden,0.0,2025-01-20
+991,Dresden,6.0,2025-01-21
+992,Dresden,6.0,2025-01-22
+993,Dresden,-2.0,2025-01-23
+994,Dresden,3.0,2025-01-24
+995,Dresden,7.0,2025-01-25
+996,Dresden,2.0,2025-01-26
+997,Dresden,3.0,2025-01-27
+998,Dresden,3.0,2025-01-28
+999,Dresden,8.0,2025-01-29
+1000,Dresden,1.0,2025-01-30
+1001,Dresden,8.0,2025-01-31
+1002,Dresden,3.0,2025-02-01
+1003,Dresden,6.0,2025-02-02
+1004,Dresden,6.0,2025-02-03
+1005,Bremen,3.0,2025-01-20
+1006,Bremen,6.0,2025-01-21
+1007,Bremen,-1.65,2025-01-22
+1008,Bremen,-7.65,2025-01-23
+1009,Bremen,-6.0,2025-01-24
+1010,Bremen,-1.0,2025-01-25
+1011,Bremen,-3.0,2025-01-26
+1012,Bremen,-5.0,2025-01-27
+1013,Bremen,-8.0,2025-01-28
+1014,Bremen,-3.0,2025-01-29
+1015,Bremen,1.0,2025-01-30
+1016,Bremen,6.0,2025-01-31
+1017,Bremen,6.0,2025-02-01
+1018,Bremen,8.0,2025-02-02
+1019,Bremen,8.0,2025-02-03
+1020,Hamburg,3.0,2025-01-20
+1021,Hamburg,6.0,2025-01-21
+1022,Hamburg,-0.8,2025-01-22
+1023,Hamburg,-4.5,2025-01-23
+1024,Hamburg,-2.0,2025-01-24
+1025,Hamburg,-6.0,2025-01-25
+1026,Hamburg,-3.0,2025-01-26
+1027,Hamburg,-4.0,2025-01-27
+1028,Hamburg,1.0,2025-01-28
+1029,Hamburg,1.0,2025-01-29
+1030,Hamburg,1.0,2025-01-30
+1031,Hamburg,8.0,2025-01-31
+1032,Hamburg,6.0,2025-02-01
+1033,Hamburg,8.0,2025-02-02
+1034,Hamburg,8.0,2025-02-03
+1035,Castilla-La Mancha,-2.0,2025-01-20
+1036,Castilla-La Mancha,2.0,2025-01-21
+1037,Castilla-La Mancha,6.0,2025-01-22
+1038,Castilla-La Mancha,8.0,2025-01-23
+1039,Castilla-La Mancha,18.0,2025-01-24
+1040,Castilla-La Mancha,2.0,2025-01-25
+1041,Castilla-La Mancha,2.0,2025-01-26
+1042,Castilla-La Mancha,4.0,2025-01-27
+1043,Castilla-La Mancha,-1.0,2025-01-28
+1044,Castilla-La Mancha,11.0,2025-01-29
+1045,Castilla-La Mancha,7.0,2025-01-30
+1046,Castilla-La Mancha,2.0,2025-01-31
+1047,Castilla-La Mancha,-1.0,2025-02-01
+1048,Castilla-La Mancha,11.0,2025-02-02
+1049,Castilla-La Mancha,13.0,2025-02-03
+1050,Kriti,-0.8,2025-01-20
+1051,Kriti,6.8,2025-01-21
+1052,Kriti,6.3,2025-01-22
+1053,Kriti,6.7,2025-01-23
+1054,Kriti,6.0,2025-01-24
+1055,Kriti,6.0,2025-01-25
+1056,Kriti,8.0,2025-01-26
+1057,Kriti,8.0,2025-01-27
+1058,Kriti,8.0,2025-01-28
+1059,Kriti,8.0,2025-01-29
+1060,Kriti,0.05,2025-01-30
+1061,Kriti,-2.95,2025-01-31
+1062,Kriti,3.6,2025-02-01
+1063,Kriti,3.6,2025-02-02
+1064,Kriti,-2.1,2025-02-03
+1065,Saarland,3.0,2025-01-20
+1066,Saarland,6.0,2025-01-21
+1067,Saarland,0.35,2025-01-22
+1068,Saarland,-3.0,2025-01-23
+1069,Saarland,3.0,2025-01-24
+1070,Saarland,-5.0,2025-01-25
+1071,Saarland,2.0,2025-01-26
+1072,Saarland,-1.0,2025-01-27
+1073,Saarland,-6.0,2025-01-28
+1074,Saarland,3.0,2025-01-29
+1075,Saarland,3.0,2025-01-30
+1076,Saarland,8.0,2025-01-31
+1077,Saarland,8.0,2025-02-01
+1078,Saarland,8.0,2025-02-02
+1079,Saarland,6.0,2025-02-03
+1080,Detmold,3.0,2025-01-20
+1081,Detmold,6.0,2025-01-21
+1082,Detmold,-2.0,2025-01-22
+1083,Detmold,-10.0,2025-01-23
+1084,Detmold,-5.0,2025-01-24
+1085,Detmold,-1.0,2025-01-25
+1086,Detmold,-1.0,2025-01-26
+1087,Detmold,-3.0,2025-01-27
+1088,Detmold,-3.0,2025-01-28
+1089,Detmold,-3.0,2025-01-29
+1090,Detmold,1.0,2025-01-30
+1091,Detmold,6.0,2025-01-31
+1092,Detmold,5.0,2025-02-01
+1093,Detmold,6.0,2025-02-02
+1094,Detmold,8.0,2025-02-03
+1095,Extremadura,3.0,2025-01-20
+1096,Extremadura,2.0,2025-01-21
+1097,Extremadura,-4.0,2025-01-22
+1098,Extremadura,9.0,2025-01-23
+1099,Extremadura,18.0,2025-01-24
+1100,Extremadura,-1.0,2025-01-25
+1101,Extremadura,13.0,2025-01-26
+1102,Extremadura,2.0,2025-01-27
+1103,Extremadura,11.0,2025-01-28
+1104,Extremadura,13.0,2025-01-29
+1105,Extremadura,13.0,2025-01-30
+1106,Extremadura,13.0,2025-01-31
+1107,Extremadura,7.0,2025-02-01
+1108,Extremadura,8.0,2025-02-02
+1109,Extremadura,18.0,2025-02-03
+1110,Etelä-Suomi,1.0,2025-01-20
+1111,Etelä-Suomi,-1.4,2025-01-21
+1112,Etelä-Suomi,2.1,2025-01-22
+1113,Etelä-Suomi,3.7,2025-01-23
+1114,Etelä-Suomi,3.9,2025-01-24
+1115,Etelä-Suomi,-6.8,2025-01-25
+1116,Etelä-Suomi,-5.95,2025-01-26
+1117,Etelä-Suomi,-4.25,2025-01-27
+1118,Etelä-Suomi,-5.95,2025-01-28
+1119,Etelä-Suomi,-5.95,2025-01-29
+1120,Etelä-Suomi,-0.25,2025-01-30
+1121,Etelä-Suomi,0.5,2025-01-31
+1122,Etelä-Suomi,-4.25,2025-02-01
+1123,Etelä-Suomi,-7.25,2025-02-02
+1124,Etelä-Suomi,1.0,2025-02-03
+1125,Pohjois- ja Itä-Suomi,1.0,2025-01-20
+1126,Pohjois- ja Itä-Suomi,-1.4,2025-01-21
+1127,Pohjois- ja Itä-Suomi,2.1,2025-01-22
+1128,Pohjois- ja Itä-Suomi,3.7,2025-01-23
+1129,Pohjois- ja Itä-Suomi,3.9,2025-01-24
+1130,Pohjois- ja Itä-Suomi,-6.8,2025-01-25
+1131,Pohjois- ja Itä-Suomi,-5.95,2025-01-26
+1132,Pohjois- ja Itä-Suomi,-4.25,2025-01-27
+1133,Pohjois- ja Itä-Suomi,-5.95,2025-01-28
+1134,Pohjois- ja Itä-Suomi,-5.95,2025-01-29
+1135,Pohjois- ja Itä-Suomi,-0.25,2025-01-30
+1136,Pohjois- ja Itä-Suomi,0.5,2025-01-31
+1137,Pohjois- ja Itä-Suomi,-4.25,2025-02-01
+1138,Pohjois- ja Itä-Suomi,-7.25,2025-02-02
+1139,Pohjois- ja Itä-Suomi,1.0,2025-02-03
+1140,Peloponnisos,10.0,2025-01-20
+1141,Peloponnisos,-2.0,2025-01-21
+1142,Peloponnisos,6.0,2025-01-22
+1143,Peloponnisos,11.0,2025-01-23
+1144,Peloponnisos,13.0,2025-01-24
+1145,Peloponnisos,13.0,2025-01-25
+1146,Peloponnisos,13.0,2025-01-26
+1147,Peloponnisos,13.0,2025-01-27
+1148,Peloponnisos,13.0,2025-01-28
+1149,Peloponnisos,10.0,2025-01-29
+1150,Peloponnisos,13.0,2025-01-30
+1151,Peloponnisos,0.9,2025-01-31
+1152,Peloponnisos,0.9,2025-02-01
+1153,Peloponnisos,8.0,2025-02-02
+1154,Peloponnisos,-2.25,2025-02-03
+1155,Attiki,12.0,2025-01-20
+1156,Attiki,6.0,2025-01-21
+1157,Attiki,18.0,2025-01-22
+1158,Attiki,18.0,2025-01-23
+1159,Attiki,18.0,2025-01-24
+1160,Attiki,18.0,2025-01-25
+1161,Attiki,18.0,2025-01-26
+1162,Attiki,13.0,2025-01-27
+1163,Attiki,13.0,2025-01-28
+1164,Attiki,10.0,2025-01-29
+1165,Attiki,7.0,2025-01-30
+1166,Attiki,7.0,2025-01-31
+1167,Attiki,2.0,2025-02-01
+1168,Attiki,13.0,2025-02-02
+1169,Attiki,-2.0,2025-02-03
+1170,Gießen,3.0,2025-01-20
+1171,Gießen,3.0,2025-01-21
+1172,Gießen,-1.65,2025-01-22
+1173,Gießen,-3.0,2025-01-23
+1174,Gießen,-1.0,2025-01-24
+1175,Gießen,-4.0,2025-01-25
+1176,Gießen,2.0,2025-01-26
+1177,Gießen,-3.0,2025-01-27
+1178,Gießen,-4.0,2025-01-28
+1179,Gießen,6.0,2025-01-29
+1180,Gießen,3.0,2025-01-30
+1181,Gießen,8.0,2025-01-31
+1182,Gießen,8.0,2025-02-01
+1183,Gießen,8.0,2025-02-02
+1184,Gießen,8.0,2025-02-03
+1185,Sachsen-Anhalt,6.0,2025-01-20
+1186,Sachsen-Anhalt,6.0,2025-01-21
+1187,Sachsen-Anhalt,1.75,2025-01-22
+1188,Sachsen-Anhalt,-9.0,2025-01-23
+1189,Sachsen-Anhalt,1.0,2025-01-24
+1190,Sachsen-Anhalt,1.0,2025-01-25
+1191,Sachsen-Anhalt,-1.0,2025-01-26
+1192,Sachsen-Anhalt,-3.0,2025-01-27
+1193,Sachsen-Anhalt,2.0,2025-01-28
+1194,Sachsen-Anhalt,2.0,2025-01-29
+1195,Sachsen-Anhalt,1.0,2025-01-30
+1196,Sachsen-Anhalt,6.0,2025-01-31
+1197,Sachsen-Anhalt,6.0,2025-02-01
+1198,Sachsen-Anhalt,8.0,2025-02-02
+1199,Sachsen-Anhalt,6.0,2025-02-03
+1200,Castilla y León,-3.0,2025-01-20
+1201,Castilla y León,0.0,2025-01-21
+1202,Castilla y León,0.0,2025-01-22
+1203,Castilla y León,5.0,2025-01-23
+1204,Castilla y León,7.0,2025-01-24
+1205,Castilla y León,-1.0,2025-01-25
+1206,Castilla y León,2.0,2025-01-26
+1207,Castilla y León,-7.0,2025-01-27
+1208,Castilla y León,-4.0,2025-01-28
+1209,Castilla y León,13.0,2025-01-29
+1210,Castilla y León,13.0,2025-01-30
+1211,Castilla y León,13.0,2025-01-31
+1212,Castilla y León,13.0,2025-02-01
+1213,Castilla y León,13.0,2025-02-02
+1214,Castilla y León,13.0,2025-02-03
+1215,Leipzig,6.0,2025-01-20
+1216,Leipzig,8.0,2025-01-21
+1217,Leipzig,6.0,2025-01-22
+1218,Leipzig,-5.0,2025-01-23
+1219,Leipzig,3.0,2025-01-24
+1220,Leipzig,4.0,2025-01-25
+1221,Leipzig,2.0,2025-01-26
+1222,Leipzig,-1.0,2025-01-27
+1223,Leipzig,7.0,2025-01-28
+1224,Leipzig,6.0,2025-01-29
+1225,Leipzig,3.0,2025-01-30
+1226,Leipzig,8.0,2025-01-31
+1227,Leipzig,8.0,2025-02-01
+1228,Leipzig,6.0,2025-02-02
+1229,Leipzig,6.0,2025-02-03
+1230,Comunidad Foral de Navarra,-1.0,2025-01-20
+1231,Comunidad Foral de Navarra,-1.0,2025-01-21
+1232,Comunidad Foral de Navarra,0.0,2025-01-22
+1233,Comunidad Foral de Navarra,7.0,2025-01-23
+1234,Comunidad Foral de Navarra,7.0,2025-01-24
+1235,Comunidad Foral de Navarra,0.0,2025-01-25
+1236,Comunidad Foral de Navarra,7.0,2025-01-26
+1237,Comunidad Foral de Navarra,7.0,2025-01-27
+1238,Comunidad Foral de Navarra,-1.0,2025-01-28
+1239,Comunidad Foral de Navarra,13.0,2025-01-29
+1240,Comunidad Foral de Navarra,11.0,2025-01-30
+1241,Comunidad Foral de Navarra,7.0,2025-01-31
+1242,Comunidad Foral de Navarra,13.0,2025-02-01
+1243,Comunidad Foral de Navarra,13.0,2025-02-02
+1244,Comunidad Foral de Navarra,11.0,2025-02-03
+1245,Chemnitz,6.0,2025-01-20
+1246,Chemnitz,8.0,2025-01-21
+1247,Chemnitz,6.0,2025-01-22
+1248,Chemnitz,-6.0,2025-01-23
+1249,Chemnitz,-1.0,2025-01-24
+1250,Chemnitz,-1.0,2025-01-25
+1251,Chemnitz,2.0,2025-01-26
+1252,Chemnitz,3.0,2025-01-27
+1253,Chemnitz,-1.0,2025-01-28
+1254,Chemnitz,8.0,2025-01-29
+1255,Chemnitz,1.45,2025-01-30
+1256,Chemnitz,8.0,2025-01-31
+1257,Chemnitz,3.0,2025-02-01
+1258,Chemnitz,1.75,2025-02-02
+1259,Chemnitz,6.0,2025-02-03
+1260,Principado de Asturias,13.0,2025-01-20
+1261,Principado de Asturias,10.0,2025-01-21
+1262,Principado de Asturias,4.0,2025-01-22
+1263,Principado de Asturias,0.0,2025-01-23
+1264,Principado de Asturias,5.0,2025-01-24
+1265,Principado de Asturias,4.0,2025-01-25
+1266,Principado de Asturias,3.0,2025-01-26
+1267,Principado de Asturias,0.0,2025-01-27
+1268,Principado de Asturias,0.0,2025-01-28
+1269,Principado de Asturias,7.0,2025-01-29
+1270,Principado de Asturias,4.0,2025-01-30
+1271,Principado de Asturias,5.0,2025-01-31
+1272,Principado de Asturias,13.0,2025-02-01
+1273,Principado de Asturias,13.0,2025-02-02
+1274,Principado de Asturias,13.0,2025-02-03
+1275,Prov. Luxembourg (BE),5.0,2025-01-21
+1276,Prov. Luxembourg (BE),12.0,2025-01-22
+1277,Prov. Luxembourg (BE),18.0,2025-01-23
+1278,Prov. Luxembourg (BE),10.0,2025-01-24
+1279,Prov. Luxembourg (BE),12.0,2025-01-25
+1280,Prov. Luxembourg (BE),12.0,2025-01-26
+1281,Prov. Luxembourg (BE),14.0,2025-01-27
+1282,Prov. Luxembourg (BE),14.0,2025-01-28
+1283,Prov. Luxembourg (BE),12.0,2025-01-29
+1284,Prov. Luxembourg (BE),9.0,2025-01-30
+1285,Prov. Luxembourg (BE),7.0,2025-01-31
+1286,Prov. Luxembourg (BE),6.0,2025-02-01
+1287,Prov. Luxembourg (BE),6.0,2025-02-02
+1288,Prov. Luxembourg (BE),4.0,2025-02-03
+1289,Prov. Luxembourg (BE),4.0,2025-02-04
+1290,Sjælland,0.0,2025-01-20
+1291,Sjælland,1.75,2025-01-21
+1292,Sjælland,-0.25,2025-01-22
+1293,Sjælland,-8.5,2025-01-23
+1294,Sjælland,-9.0,2025-01-24
+1295,Sjælland,-9.0,2025-01-25
+1296,Sjælland,-6.0,2025-01-26
+1297,Sjælland,-4.0,2025-01-27
+1298,Sjælland,-12.0,2025-01-28
+1299,Sjælland,-3.0,2025-01-29
+1300,Sjælland,-3.0,2025-01-30
+1301,Sjælland,2.0,2025-01-31
+1302,Sjælland,2.0,2025-02-01
+1303,Sjælland,8.0,2025-02-02
+1304,Sjælland,6.0,2025-02-03
+1305,Comunitat Valenciana,4.0,2025-01-20
+1306,Comunitat Valenciana,12.0,2025-01-21
+1307,Comunitat Valenciana,12.0,2025-01-22
+1308,Comunitat Valenciana,12.0,2025-01-23
+1309,Comunitat Valenciana,12.0,2025-01-24
+1310,Comunitat Valenciana,12.0,2025-01-25
+1311,Comunitat Valenciana,12.0,2025-01-26
+1312,Comunitat Valenciana,12.0,2025-01-27
+1313,Comunitat Valenciana,4.0,2025-01-28
+1314,Comunitat Valenciana,7.0,2025-01-29
+1315,Comunitat Valenciana,13.0,2025-01-30
+1316,Comunitat Valenciana,6.0,2025-01-31
+1317,Comunitat Valenciana,3.0,2025-02-01
+1318,Comunitat Valenciana,4.0,2025-02-02
+1319,Comunitat Valenciana,13.0,2025-02-03
+1320,País Vasco,0.35,2025-01-20
+1321,País Vasco,0.0,2025-01-21
+1322,País Vasco,4.0,2025-01-22
+1323,País Vasco,7.0,2025-01-23
+1324,País Vasco,11.0,2025-01-24
+1325,País Vasco,2.0,2025-01-25
+1326,País Vasco,2.0,2025-01-26
+1327,País Vasco,3.0,2025-01-27
+1328,País Vasco,3.0,2025-01-28
+1329,País Vasco,13.0,2025-01-29
+1330,País Vasco,8.0,2025-01-30
+1331,País Vasco,6.0,2025-01-31
+1332,País Vasco,8.0,2025-02-01
+1333,País Vasco,13.0,2025-02-02
+1334,País Vasco,8.0,2025-02-03
+1335,Aragón,5.0,2025-01-20
+1336,Aragón,6.0,2025-01-21
+1337,Aragón,4.0,2025-01-22
+1338,Aragón,10.0,2025-01-23
+1339,Aragón,13.0,2025-01-24
+1340,Aragón,15.0,2025-01-25
+1341,Aragón,2.0,2025-01-26
+1342,Aragón,13.0,2025-01-27
+1343,Aragón,4.0,2025-01-28
+1344,Aragón,11.0,2025-01-29
+1345,Aragón,13.0,2025-01-30
+1346,Aragón,13.0,2025-01-31
+1347,Aragón,13.0,2025-02-01
+1348,Aragón,13.0,2025-02-02
+1349,Aragón,13.0,2025-02-03
+1350,Comunidad de Madrid,-1.0,2025-01-20
+1351,Comunidad de Madrid,2.0,2025-01-21
+1352,Comunidad de Madrid,2.0,2025-01-22
+1353,Comunidad de Madrid,6.0,2025-01-23
+1354,Comunidad de Madrid,13.0,2025-01-24
+1355,Comunidad de Madrid,5.0,2025-01-25
+1356,Comunidad de Madrid,6.0,2025-01-26
+1357,Comunidad de Madrid,1.0,2025-01-27
+1358,Comunidad de Madrid,11.0,2025-01-28
+1359,Comunidad de Madrid,13.0,2025-01-29
+1360,Comunidad de Madrid,13.0,2025-01-30
+1361,Comunidad de Madrid,13.0,2025-01-31
+1362,Comunidad de Madrid,13.0,2025-02-01
+1363,Comunidad de Madrid,13.0,2025-02-02
+1364,Comunidad de Madrid,13.0,2025-02-03
+1365,Canarias,9.0,2025-01-20
+1366,Canarias,9.0,2025-01-21
+1367,Canarias,2.0,2025-01-22
+1368,Canarias,-2.0,2025-01-23
+1369,Canarias,0.0,2025-01-24
+1370,Canarias,16.0,2025-01-25
+1371,Canarias,13.0,2025-01-26
+1372,Canarias,16.0,2025-01-27
+1373,Canarias,12.0,2025-01-28
+1374,Canarias,12.0,2025-01-29
+1375,Canarias,18.0,2025-01-30
+1376,Canarias,18.0,2025-01-31
+1377,Canarias,8.0,2025-02-01
+1378,Canarias,8.0,2025-02-02
+1379,Canarias,8.0,2025-02-03
+1380,Niederbayern,6.0,2025-01-20
+1381,Niederbayern,3.45,2025-01-21
+1382,Niederbayern,6.0,2025-01-22
+1383,Niederbayern,-0.25,2025-01-23
+1384,Niederbayern,6.0,2025-01-24
+1385,Niederbayern,8.0,2025-01-25
+1386,Niederbayern,8.0,2025-01-26
+1387,Niederbayern,5.0,2025-01-27
+1388,Niederbayern,6.0,2025-01-28
+1389,Niederbayern,8.0,2025-01-29
+1390,Niederbayern,1.75,2025-01-30
+1391,Niederbayern,8.0,2025-01-31
+1392,Niederbayern,8.0,2025-02-01
+1393,Niederbayern,10.0,2025-02-02
+1394,Niederbayern,8.0,2025-02-03
+1395,Severozapaden,8.0,2025-01-20
+1396,Severozapaden,8.0,2025-01-21
+1397,Severozapaden,8.0,2025-01-22
+1398,Severozapaden,10.0,2025-01-23
+1399,Severozapaden,8.0,2025-01-24
+1400,Severozapaden,8.0,2025-01-25
+1401,Severozapaden,8.0,2025-01-26
+1402,Severozapaden,8.0,2025-01-27
+1403,Severozapaden,8.0,2025-01-28
+1404,Severozapaden,10.0,2025-01-29
+1405,Severozapaden,10.0,2025-01-30
+1406,Severozapaden,8.0,2025-01-31
+1407,Severozapaden,10.0,2025-02-01
+1408,Severozapaden,10.0,2025-02-02
+1409,Severozapaden,8.0,2025-02-03
+1410,Länsi-Suomi,1.0,2025-01-20
+1411,Länsi-Suomi,-1.4,2025-01-21
+1412,Länsi-Suomi,2.1,2025-01-22
+1413,Länsi-Suomi,3.7,2025-01-23
+1414,Länsi-Suomi,3.9,2025-01-24
+1415,Länsi-Suomi,-6.8,2025-01-25
+1416,Länsi-Suomi,-5.95,2025-01-26
+1417,Länsi-Suomi,-4.25,2025-01-27
+1418,Länsi-Suomi,-5.95,2025-01-28
+1419,Länsi-Suomi,-5.95,2025-01-29
+1420,Länsi-Suomi,-0.25,2025-01-30
+1421,Länsi-Suomi,0.5,2025-01-31
+1422,Länsi-Suomi,-4.25,2025-02-01
+1423,Länsi-Suomi,-7.25,2025-02-02
+1424,Länsi-Suomi,1.0,2025-02-03
+1425,Region Šumadije i Zapadne Srbije,3.0,2025-01-20
+1426,Region Šumadije i Zapadne Srbije,2.05,2025-01-21
+1427,Region Šumadije i Zapadne Srbije,2.9,2025-01-22
+1428,Region Šumadije i Zapadne Srbije,3.0,2025-01-23
+1429,Region Šumadije i Zapadne Srbije,2.0,2025-01-24
+1430,Region Šumadije i Zapadne Srbije,13.0,2025-01-25
+1431,Region Šumadije i Zapadne Srbije,13.0,2025-01-26
+1432,Region Šumadije i Zapadne Srbije,13.0,2025-01-27
+1433,Region Šumadije i Zapadne Srbije,13.0,2025-01-28
+1434,Region Šumadije i Zapadne Srbije,10.0,2025-01-29
+1435,Region Šumadije i Zapadne Srbije,5.0,2025-01-30
+1436,Region Šumadije i Zapadne Srbije,5.0,2025-01-31
+1437,Region Šumadije i Zapadne Srbije,8.0,2025-02-01
+1438,Region Šumadije i Zapadne Srbije,-2.55,2025-02-02
+1439,Region Šumadije i Zapadne Srbije,1.45,2025-02-03
+1440,Prov. Namur,3.8,2025-01-20
+1441,Prov. Namur,6.0,2025-01-21
+1442,Prov. Namur,-5.0,2025-01-22
+1443,Prov. Namur,-7.0,2025-01-23
+1444,Prov. Namur,-5.0,2025-01-24
+1445,Prov. Namur,-1.0,2025-01-25
+1446,Prov. Namur,2.0,2025-01-26
+1447,Prov. Namur,-9.0,2025-01-27
+1448,Prov. Namur,-14.0,2025-01-28
+1449,Prov. Namur,-4.0,2025-01-29
+1450,Prov. Namur,6.0,2025-01-30
+1451,Prov. Namur,6.0,2025-01-31
+1452,Prov. Namur,8.0,2025-02-01
+1453,Prov. Namur,8.0,2025-02-02
+1454,Prov. Namur,8.0,2025-02-03
+1455,Rheinhessen-Pfalz,3.0,2025-01-20
+1456,Rheinhessen-Pfalz,5.0,2025-01-21
+1457,Rheinhessen-Pfalz,-0.8,2025-01-22
+1458,Rheinhessen-Pfalz,-1.0,2025-01-23
+1459,Rheinhessen-Pfalz,3.0,2025-01-24
+1460,Rheinhessen-Pfalz,1.0,2025-01-25
+1461,Rheinhessen-Pfalz,2.0,2025-01-26
+1462,Rheinhessen-Pfalz,6.0,2025-01-27
+1463,Rheinhessen-Pfalz,-4.0,2025-01-28
+1464,Rheinhessen-Pfalz,8.0,2025-01-29
+1465,Rheinhessen-Pfalz,5.0,2025-01-30
+1466,Rheinhessen-Pfalz,8.0,2025-01-31
+1467,Rheinhessen-Pfalz,8.0,2025-02-01
+1468,Rheinhessen-Pfalz,8.0,2025-02-02
+1469,Rheinhessen-Pfalz,8.0,2025-02-03
+1470,Stuttgart,6.0,2025-01-20
+1471,Stuttgart,8.0,2025-01-21
+1472,Stuttgart,0.05,2025-01-22
+1473,Stuttgart,-3.0,2025-01-23
+1474,Stuttgart,8.0,2025-01-24
+1475,Stuttgart,13.0,2025-01-25
+1476,Stuttgart,2.0,2025-01-26
+1477,Stuttgart,8.0,2025-01-27
+1478,Stuttgart,-4.0,2025-01-28
+1479,Stuttgart,8.0,2025-01-29
+1480,Stuttgart,8.0,2025-01-30
+1481,Stuttgart,8.0,2025-01-31
+1482,Stuttgart,8.0,2025-02-01
+1483,Stuttgart,8.0,2025-02-02
+1484,Stuttgart,8.0,2025-02-03
+1485,Severozápad,6.0,2025-01-20
+1486,Severozápad,5.0,2025-01-21
+1487,Severozápad,0.45,2025-01-22
+1488,Severozápad,0.9,2025-01-23
+1489,Severozápad,5.0,2025-01-24
+1490,Severozápad,8.0,2025-01-25
+1491,Severozápad,5.0,2025-01-26
+1492,Severozápad,8.0,2025-01-27
+1493,Severozápad,3.0,2025-01-28
+1494,Severozápad,8.0,2025-01-29
+1495,Severozápad,5.45,2025-01-30
+1496,Severozápad,6.0,2025-01-31
+1497,Severozápad,8.0,2025-02-01
+1498,Severozápad,6.0,2025-02-02
+1499,Severozápad,6.0,2025-02-03
+1500,Cataluña,5.0,2025-01-20
+1501,Cataluña,2.0,2025-01-21
+1502,Cataluña,2.0,2025-01-22
+1503,Cataluña,7.0,2025-01-23
+1504,Cataluña,11.0,2025-01-24
+1505,Cataluña,7.0,2025-01-25
+1506,Cataluña,-3.0,2025-01-26
+1507,Cataluña,7.0,2025-01-27
+1508,Cataluña,-3.0,2025-01-28
+1509,Cataluña,6.0,2025-01-29
+1510,Cataluña,13.0,2025-01-30
+1511,Cataluña,8.0,2025-01-31
+1512,Cataluña,15.0,2025-02-01
+1513,Cataluña,13.0,2025-02-02
+1514,Cataluña,8.0,2025-02-03
+1515,La Rioja,4.0,2025-01-20
+1516,La Rioja,-4.0,2025-01-21
+1517,La Rioja,-5.0,2025-01-22
+1518,La Rioja,-3.0,2025-01-23
+1519,La Rioja,-6.0,2025-01-24
+1520,La Rioja,-4.0,2025-01-25
+1521,La Rioja,4.0,2025-01-26
+1522,La Rioja,-3.0,2025-01-27
+1523,La Rioja,-3.0,2025-01-28
+1524,La Rioja,-3.0,2025-01-29
+1525,La Rioja,4.0,2025-01-30
+1526,La Rioja,-2.0,2025-01-31
+1527,La Rioja,-1.0,2025-02-01
+1528,La Rioja,-2.0,2025-02-02
+1529,La Rioja,-4.0,2025-02-03
+1530,Střední Morava,-3.0,2025-01-20
+1531,Střední Morava,3.0,2025-01-21
+1532,Střední Morava,3.45,2025-01-22
+1533,Střední Morava,1.75,2025-01-23
+1534,Střední Morava,1.0,2025-01-24
+1535,Střední Morava,3.0,2025-01-25
+1536,Střední Morava,8.0,2025-01-26
+1537,Střední Morava,5.0,2025-01-27
+1538,Střední Morava,-3.0,2025-01-28
+1539,Střední Morava,3.0,2025-01-29
+1540,Střední Morava,8.0,2025-01-30
+1541,Střední Morava,8.0,2025-01-31
+1542,Střední Morava,8.0,2025-02-01
+1543,Střední Morava,6.0,2025-02-02
+1544,Střední Morava,6.0,2025-02-03
+1545,Centre — Val de Loire,6.0,2025-01-20
+1546,Centre — Val de Loire,8.0,2025-01-21
+1547,Centre — Val de Loire,1.0,2025-01-22
+1548,Centre — Val de Loire,0.0,2025-01-23
+1549,Centre — Val de Loire,6.0,2025-01-24
+1550,Centre — Val de Loire,0.0,2025-01-25
+1551,Centre — Val de Loire,1.0,2025-01-26
+1552,Centre — Val de Loire,0.0,2025-01-27
+1553,Centre — Val de Loire,-9.0,2025-01-28
+1554,Centre — Val de Loire,1.0,2025-01-29
+1555,Centre — Val de Loire,7.0,2025-01-30
+1556,Centre — Val de Loire,13.0,2025-01-31
+1557,Centre — Val de Loire,13.0,2025-02-01
+1558,Centre — Val de Loire,11.0,2025-02-02
+1559,Centre — Val de Loire,6.0,2025-02-03
+1560,Nord-Est,18.0,2025-01-20
+1561,Nord-Est,15.0,2025-01-21
+1562,Nord-Est,18.0,2025-01-22
+1563,Nord-Est,18.0,2025-01-23
+1564,Nord-Est,11.0,2025-01-24
+1565,Nord-Est,9.0,2025-01-25
+1566,Nord-Est,5.0,2025-01-26
+1567,Nord-Est,16.0,2025-01-27
+1568,Nord-Est,7.0,2025-01-28
+1569,Nord-Est,18.0,2025-01-29
+1570,Nord-Est,13.0,2025-01-30
+1571,Nord-Est,11.0,2025-01-31
+1572,Nord-Est,13.0,2025-02-01
+1573,Nord-Est,18.0,2025-02-02
+1574,Nord-Est,16.0,2025-02-03
+1575,Stockholm,3.0,2025-01-20
+1576,Stockholm,1.75,2025-01-21
+1577,Stockholm,3.45,2025-01-22
+1578,Stockholm,-3.35,2025-01-23
+1579,Stockholm,-5.95,2025-01-24
+1580,Stockholm,-3.95,2025-01-25
+1581,Stockholm,-4.25,2025-01-26
+1582,Stockholm,0.0,2025-01-27
+1583,Stockholm,-3.0,2025-01-28
+1584,Stockholm,-3.0,2025-01-29
+1585,Stockholm,-1.0,2025-01-30
+1586,Stockholm,-1.0,2025-01-31
+1587,Stockholm,-3.0,2025-02-01
+1588,Stockholm,0.0,2025-02-02
+1589,Stockholm,3.45,2025-02-03
+1590,Östra Mellansverige,6.0,2025-01-20
+1591,Östra Mellansverige,0.9,2025-01-21
+1592,Östra Mellansverige,-1.65,2025-01-22
+1593,Östra Mellansverige,-5.35,2025-01-23
+1594,Östra Mellansverige,-1.95,2025-01-24
+1595,Östra Mellansverige,-3.95,2025-01-25
+1596,Östra Mellansverige,-4.25,2025-01-26
+1597,Östra Mellansverige,0.0,2025-01-27
+1598,Östra Mellansverige,-5.0,2025-01-28
+1599,Östra Mellansverige,-3.0,2025-01-29
+1600,Östra Mellansverige,-1.0,2025-01-30
+1601,Östra Mellansverige,3.0,2025-01-31
+1602,Östra Mellansverige,-1.0,2025-02-01
+1603,Östra Mellansverige,4.0,2025-02-02
+1604,Östra Mellansverige,1.0,2025-02-03
+1605,Friuli-Venezia Giulia,13.0,2025-01-20
+1606,Friuli-Venezia Giulia,10.0,2025-01-21
+1607,Friuli-Venezia Giulia,3.0,2025-01-22
+1608,Friuli-Venezia Giulia,-2.0,2025-01-23
+1609,Friuli-Venezia Giulia,6.0,2025-01-24
+1610,Friuli-Venezia Giulia,5.0,2025-01-25
+1611,Friuli-Venezia Giulia,10.0,2025-01-26
+1612,Friuli-Venezia Giulia,1.0,2025-01-27
+1613,Friuli-Venezia Giulia,1.0,2025-01-28
+1614,Friuli-Venezia Giulia,13.0,2025-01-29
+1615,Friuli-Venezia Giulia,13.0,2025-01-30
+1616,Friuli-Venezia Giulia,13.0,2025-01-31
+1617,Friuli-Venezia Giulia,8.0,2025-02-01
+1618,Friuli-Venezia Giulia,13.0,2025-02-02
+1619,Friuli-Venezia Giulia,8.0,2025-02-03
+1620,Severna Makedonija,6.0,2025-01-20
+1621,Severna Makedonija,2.05,2025-01-21
+1622,Severna Makedonija,10.0,2025-01-22
+1623,Severna Makedonija,8.0,2025-01-23
+1624,Severna Makedonija,5.0,2025-01-24
+1625,Severna Makedonija,15.0,2025-01-25
+1626,Severna Makedonija,13.0,2025-01-26
+1627,Severna Makedonija,13.0,2025-01-27
+1628,Severna Makedonija,15.0,2025-01-28
+1629,Severna Makedonija,13.0,2025-01-29
+1630,Severna Makedonija,8.0,2025-01-30
+1631,Severna Makedonija,8.0,2025-01-31
+1632,Severna Makedonija,8.0,2025-02-01
+1633,Severna Makedonija,1.0,2025-02-02
+1634,Severna Makedonija,0.0,2025-02-03
+1635,Área Metropolitana de Lisboa,1.0,2025-01-20
+1636,Área Metropolitana de Lisboa,1.0,2025-01-21
+1637,Área Metropolitana de Lisboa,1.0,2025-01-22
+1638,Área Metropolitana de Lisboa,10.0,2025-01-23
+1639,Área Metropolitana de Lisboa,6.0,2025-01-24
+1640,Área Metropolitana de Lisboa,4.0,2025-01-25
+1641,Área Metropolitana de Lisboa,2.0,2025-01-26
+1642,Área Metropolitana de Lisboa,-2.0,2025-01-27
+1643,Área Metropolitana de Lisboa,7.0,2025-01-28
+1644,Área Metropolitana de Lisboa,13.0,2025-01-29
+1645,Área Metropolitana de Lisboa,11.0,2025-01-30
+1646,Área Metropolitana de Lisboa,3.0,2025-01-31
+1647,Área Metropolitana de Lisboa,12.0,2025-02-01
+1648,Área Metropolitana de Lisboa,16.0,2025-02-02
+1649,Área Metropolitana de Lisboa,18.0,2025-02-03
+1650,Centro (PT),3.0,2025-01-20
+1651,Centro (PT),5.0,2025-01-21
+1652,Centro (PT),4.0,2025-01-22
+1653,Centro (PT),11.0,2025-01-23
+1654,Centro (PT),6.0,2025-01-24
+1655,Centro (PT),-1.0,2025-01-25
+1656,Centro (PT),5.0,2025-01-26
+1657,Centro (PT),-6.0,2025-01-27
+1658,Centro (PT),6.0,2025-01-28
+1659,Centro (PT),13.0,2025-01-29
+1660,Centro (PT),13.0,2025-01-30
+1661,Centro (PT),5.0,2025-01-31
+1662,Centro (PT),7.0,2025-02-01
+1663,Centro (PT),13.0,2025-02-02
+1664,Centro (PT),13.0,2025-02-03
+1665,Śląskie,6.0,2025-01-20
+1666,Śląskie,3.45,2025-01-21
+1667,Śląskie,3.45,2025-01-22
+1668,Śląskie,1.75,2025-01-23
+1669,Śląskie,1.0,2025-01-24
+1670,Śląskie,-1.0,2025-01-25
+1671,Śląskie,2.0,2025-01-26
+1672,Śląskie,5.0,2025-01-27
+1673,Śląskie,3.0,2025-01-28
+1674,Śląskie,3.0,2025-01-29
+1675,Śląskie,6.0,2025-01-30
+1676,Śląskie,6.0,2025-01-31
+1677,Śląskie,6.0,2025-02-01
+1678,Śląskie,-5.0,2025-02-02
+1679,Śląskie,6.0,2025-02-03
+1680,Småland med öarna,6.0,2025-01-20
+1681,Småland med öarna,1.75,2025-01-21
+1682,Småland med öarna,1.75,2025-01-22
+1683,Småland med öarna,-9.35,2025-01-23
+1684,Småland med öarna,-1.95,2025-01-24
+1685,Småland med öarna,-3.95,2025-01-25
+1686,Småland med öarna,-4.25,2025-01-26
+1687,Småland med öarna,4.0,2025-01-27
+1688,Småland med öarna,-4.0,2025-01-28
+1689,Småland med öarna,-3.0,2025-01-29
+1690,Småland med öarna,-1.0,2025-01-30
+1691,Småland med öarna,1.0,2025-01-31
+1692,Småland med öarna,-1.0,2025-02-01
+1693,Småland med öarna,4.0,2025-02-02
+1694,Småland med öarna,6.0,2025-02-03
+1695,Luxembourg,3.0,2025-01-20
+1696,Luxembourg,8.0,2025-01-21
+1697,Luxembourg,-2.5,2025-01-22
+1698,Luxembourg,-5.0,2025-01-23
+1699,Luxembourg,-1.0,2025-01-24
+1700,Luxembourg,-6.0,2025-01-25
+1701,Luxembourg,-3.0,2025-01-26
+1702,Luxembourg,-5.0,2025-01-27
+1703,Luxembourg,-11.95,2025-01-28
+1704,Luxembourg,-3.1,2025-01-29
+1705,Luxembourg,3.0,2025-01-30
+1706,Luxembourg,8.0,2025-01-31
+1707,Luxembourg,8.0,2025-02-01
+1708,Luxembourg,8.0,2025-02-02
+1709,Luxembourg,6.0,2025-02-03
+1710,Kujawsko-pomorskie,6.0,2025-01-20
+1711,Kujawsko-pomorskie,6.0,2025-01-21
+1712,Kujawsko-pomorskie,6.0,2025-01-22
+1713,Kujawsko-pomorskie,-1.95,2025-01-23
+1714,Kujawsko-pomorskie,-0.25,2025-01-24
+1715,Kujawsko-pomorskie,-1.0,2025-01-25
+1716,Kujawsko-pomorskie,-1.0,2025-01-26
+1717,Kujawsko-pomorskie,1.0,2025-01-27
+1718,Kujawsko-pomorskie,6.0,2025-01-28
+1719,Kujawsko-pomorskie,8.0,2025-01-29
+1720,Kujawsko-pomorskie,1.75,2025-01-30
+1721,Kujawsko-pomorskie,6.0,2025-01-31
+1722,Kujawsko-pomorskie,-1.0,2025-02-01
+1723,Kujawsko-pomorskie,4.0,2025-02-02
+1724,Kujawsko-pomorskie,6.0,2025-02-03
+1725,Wielkopolskie,8.0,2025-01-20
+1726,Wielkopolskie,6.0,2025-01-21
+1727,Wielkopolskie,6.0,2025-01-22
+1728,Wielkopolskie,-1.95,2025-01-23
+1729,Wielkopolskie,1.45,2025-01-24
+1730,Wielkopolskie,-1.0,2025-01-25
+1731,Wielkopolskie,3.0,2025-01-26
+1732,Wielkopolskie,3.0,2025-01-27
+1733,Wielkopolskie,6.0,2025-01-28
+1734,Wielkopolskie,8.0,2025-01-29
+1735,Wielkopolskie,1.45,2025-01-30
+1736,Wielkopolskie,6.0,2025-01-31
+1737,Wielkopolskie,2.0,2025-02-01
+1738,Wielkopolskie,0.0,2025-02-02
+1739,Wielkopolskie,6.0,2025-02-03
+1740,Latvija,6.0,2025-01-20
+1741,Latvija,0.6,2025-01-21
+1742,Latvija,3.45,2025-01-22
+1743,Latvija,-5.95,2025-01-23
+1744,Latvija,-1.95,2025-01-24
+1745,Latvija,-4.25,2025-01-25
+1746,Latvija,-3.0,2025-01-26
+1747,Latvija,1.0,2025-01-27
+1748,Latvija,4.0,2025-01-28
+1749,Latvija,6.0,2025-01-29
+1750,Latvija,1.75,2025-01-30
+1751,Latvija,6.0,2025-01-31
+1752,Latvija,-5.0,2025-02-01
+1753,Latvija,-4.25,2025-02-02
+1754,Latvija,6.0,2025-02-03
+1755,Autonomous Province of Vojvodina,3.0,2025-01-20
+1756,Autonomous Province of Vojvodina,5.45,2025-01-21
+1757,Autonomous Province of Vojvodina,3.45,2025-01-22
+1758,Autonomous Province of Vojvodina,2.05,2025-01-23
+1759,Autonomous Province of Vojvodina,1.0,2025-01-24
+1760,Autonomous Province of Vojvodina,13.0,2025-01-25
+1761,Autonomous Province of Vojvodina,13.0,2025-01-26
+1762,Autonomous Province of Vojvodina,13.0,2025-01-27
+1763,Autonomous Province of Vojvodina,13.0,2025-01-28
+1764,Autonomous Province of Vojvodina,13.0,2025-01-29
+1765,Autonomous Province of Vojvodina,10.0,2025-01-30
+1766,Autonomous Province of Vojvodina,13.0,2025-01-31
+1767,Autonomous Province of Vojvodina,8.0,2025-02-01
+1768,Autonomous Province of Vojvodina,2.0,2025-02-02
+1769,Autonomous Province of Vojvodina,6.0,2025-02-03
+1770,Warmińsko-mazurskie,3.0,2025-01-20
+1771,Warmińsko-mazurskie,6.0,2025-01-21
+1772,Warmińsko-mazurskie,3.0,2025-01-22
+1773,Warmińsko-mazurskie,-1.95,2025-01-23
+1774,Warmińsko-mazurskie,0.9,2025-01-24
+1775,Warmińsko-mazurskie,-2.0,2025-01-25
+1776,Warmińsko-mazurskie,-1.0,2025-01-26
+1777,Warmińsko-mazurskie,1.0,2025-01-27
+1778,Warmińsko-mazurskie,2.0,2025-01-28
+1779,Warmińsko-mazurskie,8.0,2025-01-29
+1780,Warmińsko-mazurskie,-0.25,2025-01-30
+1781,Warmińsko-mazurskie,2.0,2025-01-31
+1782,Warmińsko-mazurskie,-3.0,2025-02-01
+1783,Warmińsko-mazurskie,0.0,2025-02-02
+1784,Warmińsko-mazurskie,6.0,2025-02-03
+1785,Limousin,-1.65,2025-01-20
+1786,Limousin,8.0,2025-01-21
+1787,Limousin,4.0,2025-01-22
+1788,Limousin,-2.0,2025-01-23
+1789,Limousin,13.0,2025-01-24
+1790,Limousin,4.0,2025-01-25
+1791,Limousin,1.0,2025-01-26
+1792,Limousin,7.0,2025-01-27
+1793,Limousin,-4.0,2025-01-28
+1794,Limousin,2.0,2025-01-29
+1795,Limousin,8.0,2025-01-30
+1796,Limousin,11.0,2025-01-31
+1797,Limousin,8.0,2025-02-01
+1798,Limousin,6.0,2025-02-02
+1799,Limousin,4.0,2025-02-03
+1800,Zachodniopomorskie,0.0,2025-01-20
+1801,Zachodniopomorskie,3.0,2025-01-21
+1802,Zachodniopomorskie,4.0,2025-01-22
+1803,Zachodniopomorskie,-3.65,2025-01-23
+1804,Zachodniopomorskie,-0.25,2025-01-24
+1805,Zachodniopomorskie,-4.0,2025-01-25
+1806,Zachodniopomorskie,-1.0,2025-01-26
+1807,Zachodniopomorskie,-3.0,2025-01-27
+1808,Zachodniopomorskie,-3.0,2025-01-28
+1809,Zachodniopomorskie,6.0,2025-01-29
+1810,Zachodniopomorskie,-1.0,2025-01-30
+1811,Zachodniopomorskie,2.0,2025-01-31
+1812,Zachodniopomorskie,2.0,2025-02-01
+1813,Zachodniopomorskie,4.0,2025-02-02
+1814,Zachodniopomorskie,6.0,2025-02-03
+1815,Dolnośląskie,6.0,2025-01-20
+1816,Dolnośląskie,3.45,2025-01-21
+1817,Dolnośląskie,6.0,2025-01-22
+1818,Dolnośląskie,1.0,2025-01-23
+1819,Dolnośląskie,1.0,2025-01-24
+1820,Dolnośląskie,7.0,2025-01-25
+1821,Dolnośląskie,2.0,2025-01-26
+1822,Dolnośląskie,1.0,2025-01-27
+1823,Dolnośląskie,2.0,2025-01-28
+1824,Dolnośląskie,8.0,2025-01-29
+1825,Dolnośląskie,1.0,2025-01-30
+1826,Dolnośląskie,8.0,2025-01-31
+1827,Dolnośląskie,2.0,2025-02-01
+1828,Dolnośląskie,0.0,2025-02-02
+1829,Dolnośląskie,6.0,2025-02-03
+1830,Opolskie,6.0,2025-01-20
+1831,Opolskie,5.45,2025-01-21
+1832,Opolskie,6.0,2025-01-22
+1833,Opolskie,-1.0,2025-01-23
+1834,Opolskie,1.0,2025-01-24
+1835,Opolskie,-1.0,2025-01-25
+1836,Opolskie,6.0,2025-01-26
+1837,Opolskie,5.0,2025-01-27
+1838,Opolskie,7.0,2025-01-28
+1839,Opolskie,8.0,2025-01-29
+1840,Opolskie,-1.0,2025-01-30
+1841,Opolskie,6.0,2025-01-31
+1842,Opolskie,2.0,2025-02-01
+1843,Opolskie,0.0,2025-02-02
+1844,Opolskie,6.0,2025-02-03
+1845,Łódzkie,8.0,2025-01-20
+1846,Łódzkie,6.0,2025-01-21
+1847,Łódzkie,6.0,2025-01-22
+1848,Łódzkie,-1.0,2025-01-23
+1849,Łódzkie,1.75,2025-01-24
+1850,Łódzkie,-1.0,2025-01-25
+1851,Łódzkie,2.0,2025-01-26
+1852,Łódzkie,1.0,2025-01-27
+1853,Łódzkie,6.0,2025-01-28
+1854,Łódzkie,8.0,2025-01-29
+1855,Łódzkie,0.0,2025-01-30
+1856,Łódzkie,6.0,2025-01-31
+1857,Łódzkie,-3.0,2025-02-01
+1858,Łódzkie,-5.0,2025-02-02
+1859,Łódzkie,6.0,2025-02-03
+1860,Region Južne i Istočne Srbije,6.0,2025-01-20
+1861,Region Južne i Istočne Srbije,2.9,2025-01-21
+1862,Region Južne i Istočne Srbije,3.75,2025-01-22
+1863,Region Južne i Istočne Srbije,8.0,2025-01-23
+1864,Region Južne i Istočne Srbije,3.0,2025-01-24
+1865,Region Južne i Istočne Srbije,13.0,2025-01-25
+1866,Region Južne i Istočne Srbije,8.0,2025-01-26
+1867,Region Južne i Istočne Srbije,8.0,2025-01-27
+1868,Region Južne i Istočne Srbije,8.0,2025-01-28
+1869,Region Južne i Istočne Srbije,10.0,2025-01-29
+1870,Region Južne i Istočne Srbije,8.0,2025-01-30
+1871,Region Južne i Istočne Srbije,8.0,2025-01-31
+1872,Region Južne i Istočne Srbije,6.0,2025-02-01
+1873,Region Južne i Istočne Srbije,-0.25,2025-02-02
+1874,Region Južne i Istočne Srbije,3.45,2025-02-03
+1875,Vidurio ir vakarų Lietuvos regionas,6.0,2025-01-20
+1876,Vidurio ir vakarų Lietuvos regionas,3.45,2025-01-21
+1877,Vidurio ir vakarų Lietuvos regionas,2.6,2025-01-22
+1878,Vidurio ir vakarų Lietuvos regionas,-1.95,2025-01-23
+1879,Vidurio ir vakarų Lietuvos regionas,0.05,2025-01-24
+1880,Vidurio ir vakarų Lietuvos regionas,-4.25,2025-01-25
+1881,Vidurio ir vakarų Lietuvos regionas,-4.0,2025-01-26
+1882,Vidurio ir vakarų Lietuvos regionas,3.0,2025-01-27
+1883,Vidurio ir vakarų Lietuvos regionas,6.0,2025-01-28
+1884,Vidurio ir vakarų Lietuvos regionas,8.0,2025-01-29
+1885,Vidurio ir vakarų Lietuvos regionas,-5.0,2025-01-30
+1886,Vidurio ir vakarų Lietuvos regionas,4.0,2025-01-31
+1887,Vidurio ir vakarų Lietuvos regionas,-2.25,2025-02-01
+1888,Vidurio ir vakarų Lietuvos regionas,-5.1,2025-02-02
+1889,Vidurio ir vakarų Lietuvos regionas,6.0,2025-02-03
+1890,Poitou-Charentes,8.0,2025-01-20
+1891,Poitou-Charentes,-1.0,2025-01-21
+1892,Poitou-Charentes,-2.0,2025-01-22
+1893,Poitou-Charentes,-2.0,2025-01-23
+1894,Poitou-Charentes,2.0,2025-01-24
+1895,Poitou-Charentes,-1.0,2025-01-25
+1896,Poitou-Charentes,1.0,2025-01-26
+1897,Poitou-Charentes,-9.0,2025-01-27
+1898,Poitou-Charentes,-14.0,2025-01-28
+1899,Poitou-Charentes,-4.0,2025-01-29
+1900,Poitou-Charentes,13.0,2025-01-30
+1901,Poitou-Charentes,7.0,2025-01-31
+1902,Poitou-Charentes,11.0,2025-02-01
+1903,Poitou-Charentes,7.0,2025-02-02
+1904,Poitou-Charentes,2.0,2025-02-03
+1905,Alentejo,-4.0,2025-01-20
+1906,Alentejo,1.0,2025-01-21
+1907,Alentejo,2.0,2025-01-22
+1908,Alentejo,13.0,2025-01-23
+1909,Alentejo,18.0,2025-01-24
+1910,Alentejo,3.0,2025-01-25
+1911,Alentejo,8.0,2025-01-26
+1912,Alentejo,7.0,2025-01-27
+1913,Alentejo,11.0,2025-01-28
+1914,Alentejo,13.0,2025-01-29
+1915,Alentejo,13.0,2025-01-30
+1916,Alentejo,7.0,2025-01-31
+1917,Alentejo,13.0,2025-02-01
+1918,Alentejo,18.0,2025-02-02
+1919,Alentejo,18.0,2025-02-03
+1920,Zahodna Slovenija,3.0,2025-01-20
+1921,Zahodna Slovenija,8.0,2025-01-21
+1922,Zahodna Slovenija,5.0,2025-01-22
+1923,Zahodna Slovenija,0.0,2025-01-23
+1924,Zahodna Slovenija,1.0,2025-01-24
+1925,Zahodna Slovenija,-1.0,2025-01-25
+1926,Zahodna Slovenija,8.0,2025-01-26
+1927,Zahodna Slovenija,3.0,2025-01-27
+1928,Zahodna Slovenija,6.0,2025-01-28
+1929,Zahodna Slovenija,3.0,2025-01-29
+1930,Zahodna Slovenija,8.0,2025-01-30
+1931,Zahodna Slovenija,8.0,2025-01-31
+1932,Zahodna Slovenija,10.0,2025-02-01
+1933,Zahodna Slovenija,8.0,2025-02-02
+1934,Zahodna Slovenija,6.0,2025-02-03
+1935,Pomorskie,6.0,2025-01-20
+1936,Pomorskie,3.0,2025-01-21
+1937,Pomorskie,3.0,2025-01-22
+1938,Pomorskie,-5.95,2025-01-23
+1939,Pomorskie,-0.25,2025-01-24
+1940,Pomorskie,-2.25,2025-01-25
+1941,Pomorskie,-1.0,2025-01-26
+1942,Pomorskie,-3.0,2025-01-27
+1943,Pomorskie,2.0,2025-01-28
+1944,Pomorskie,6.0,2025-01-29
+1945,Pomorskie,-4.25,2025-01-30
+1946,Pomorskie,0.0,2025-01-31
+1947,Pomorskie,-3.0,2025-02-01
+1948,Pomorskie,0.0,2025-02-02
+1949,Pomorskie,6.0,2025-02-03
+1950,Lubuskie,6.0,2025-01-20
+1951,Lubuskie,6.0,2025-01-21
+1952,Lubuskie,6.0,2025-01-22
+1953,Lubuskie,-3.65,2025-01-23
+1954,Lubuskie,1.75,2025-01-24
+1955,Lubuskie,4.0,2025-01-25
+1956,Lubuskie,5.0,2025-01-26
+1957,Lubuskie,3.0,2025-01-27
+1958,Lubuskie,11.0,2025-01-28
+1959,Lubuskie,8.0,2025-01-29
+1960,Lubuskie,3.45,2025-01-30
+1961,Lubuskie,8.0,2025-01-31
+1962,Lubuskie,6.0,2025-02-01
+1963,Lubuskie,8.0,2025-02-02
+1964,Lubuskie,6.0,2025-02-03
+1965,Algarve,-4.0,2025-01-20
+1966,Algarve,5.0,2025-01-21
+1967,Algarve,8.0,2025-01-22
+1968,Algarve,8.0,2025-01-23
+1969,Algarve,1.0,2025-01-24
+1970,Algarve,3.0,2025-01-25
+1971,Algarve,10.0,2025-01-26
+1972,Algarve,-1.0,2025-01-27
+1973,Algarve,-2.0,2025-01-28
+1974,Algarve,-2.0,2025-01-29
+1975,Algarve,4.0,2025-01-30
+1976,Algarve,4.0,2025-01-31
+1977,Algarve,5.0,2025-02-01
+1978,Algarve,4.0,2025-02-02
+1979,Algarve,11.0,2025-02-03
+1980,Crna Gora,13.0,2025-01-20
+1981,Crna Gora,-1.65,2025-01-21
+1982,Crna Gora,-0.8,2025-01-22
+1983,Crna Gora,1.0,2025-01-23
+1984,Crna Gora,0.0,2025-01-24
+1985,Crna Gora,8.0,2025-01-25
+1986,Crna Gora,8.0,2025-01-26
+1987,Crna Gora,8.0,2025-01-27
+1988,Crna Gora,8.0,2025-01-28
+1989,Crna Gora,6.0,2025-01-29
+1990,Crna Gora,6.5,2025-01-30
+1991,Crna Gora,0.05,2025-01-31
+1992,Crna Gora,6.7,2025-02-01
+1993,Crna Gora,6.5,2025-02-02
+1994,Crna Gora,1.6,2025-02-03
+1995,Friesland (NL),-2.8,2025-01-20
+1996,Friesland (NL),-2.55,2025-01-21
+1997,Friesland (NL),-3.0,2025-01-22
+1998,Friesland (NL),-6.0,2025-01-23
+1999,Friesland (NL),-6.0,2025-01-24
+2000,Friesland (NL),-6.0,2025-01-25
+2001,Friesland (NL),-3.1,2025-01-26
+2002,Friesland (NL),-6.0,2025-01-27
+2003,Friesland (NL),-14.0,2025-01-28
+2004,Friesland (NL),-5.0,2025-01-29
+2005,Friesland (NL),2.0,2025-01-30
+2006,Friesland (NL),2.0,2025-01-31
+2007,Friesland (NL),8.0,2025-02-01
+2008,Friesland (NL),8.0,2025-02-02
+2009,Friesland (NL),8.0,2025-02-03
+2010,Drenthe,6.0,2025-01-20
+2011,Drenthe,6.0,2025-01-21
+2012,Drenthe,-2.5,2025-01-22
+2013,Drenthe,-6.0,2025-01-23
+2014,Drenthe,-6.0,2025-01-24
+2015,Drenthe,-6.0,2025-01-25
+2016,Drenthe,2.0,2025-01-26
+2017,Drenthe,-5.0,2025-01-27
+2018,Drenthe,-8.0,2025-01-28
+2019,Drenthe,-4.0,2025-01-29
+2020,Drenthe,-4.0,2025-01-30
+2021,Drenthe,2.0,2025-01-31
+2022,Drenthe,6.0,2025-02-01
+2023,Drenthe,8.0,2025-02-02
+2024,Drenthe,8.0,2025-02-03
+2025,Mazowiecki regionalny,6.0,2025-01-20
+2026,Mazowiecki regionalny,6.0,2025-01-21
+2027,Mazowiecki regionalny,3.0,2025-01-22
+2028,Mazowiecki regionalny,-1.95,2025-01-23
+2029,Mazowiecki regionalny,1.75,2025-01-24
+2030,Mazowiecki regionalny,-1.0,2025-01-25
+2031,Mazowiecki regionalny,2.0,2025-01-26
+2032,Mazowiecki regionalny,3.0,2025-01-27
+2033,Mazowiecki regionalny,6.0,2025-01-28
+2034,Mazowiecki regionalny,8.0,2025-01-29
+2035,Mazowiecki regionalny,1.0,2025-01-30
+2036,Mazowiecki regionalny,8.0,2025-01-31
+2037,Mazowiecki regionalny,-1.0,2025-02-01
+2038,Mazowiecki regionalny,0.0,2025-02-02
+2039,Mazowiecki regionalny,6.0,2025-02-03
+2040,Sud-Muntenia,13.0,2025-01-20
+2041,Sud-Muntenia,8.0,2025-01-21
+2042,Sud-Muntenia,8.0,2025-01-22
+2043,Sud-Muntenia,8.0,2025-01-23
+2044,Sud-Muntenia,13.0,2025-01-24
+2045,Sud-Muntenia,8.0,2025-01-25
+2046,Sud-Muntenia,8.0,2025-01-26
+2047,Sud-Muntenia,13.0,2025-01-27
+2048,Sud-Muntenia,8.0,2025-01-28
+2049,Sud-Muntenia,13.0,2025-01-29
+2050,Sud-Muntenia,8.0,2025-01-30
+2051,Sud-Muntenia,8.0,2025-01-31
+2052,Sud-Muntenia,8.0,2025-02-01
+2053,Sud-Muntenia,3.0,2025-02-02
+2054,Sud-Muntenia,5.45,2025-02-03
+2055,Toscana,5.0,2025-01-20
+2056,Toscana,10.0,2025-01-21
+2057,Toscana,-1.0,2025-01-22
+2058,Toscana,-1.0,2025-01-23
+2059,Toscana,9.0,2025-01-24
+2060,Toscana,13.0,2025-01-25
+2061,Toscana,13.0,2025-01-26
+2062,Toscana,8.0,2025-01-27
+2063,Toscana,8.0,2025-01-28
+2064,Toscana,7.0,2025-01-29
+2065,Toscana,13.0,2025-01-30
+2066,Toscana,13.0,2025-01-31
+2067,Toscana,15.0,2025-02-01
+2068,Toscana,13.0,2025-02-02
+2069,Toscana,13.0,2025-02-03
+2070,Umbria,3.0,2025-01-20
+2071,Umbria,2.0,2025-01-21
+2072,Umbria,1.0,2025-01-22
+2073,Umbria,2.0,2025-01-23
+2074,Umbria,8.0,2025-01-24
+2075,Umbria,13.0,2025-01-25
+2076,Umbria,13.0,2025-01-26
+2077,Umbria,8.0,2025-01-27
+2078,Umbria,8.0,2025-01-28
+2079,Umbria,7.0,2025-01-29
+2080,Umbria,13.0,2025-01-30
+2081,Umbria,13.0,2025-01-31
+2082,Umbria,13.0,2025-02-01
+2083,Umbria,13.0,2025-02-02
+2084,Umbria,11.0,2025-02-03
+2085,Groningen,6.0,2025-01-20
+2086,Groningen,6.0,2025-01-21
+2087,Groningen,-2.5,2025-01-22
+2088,Groningen,-6.0,2025-01-23
+2089,Groningen,-6.0,2025-01-24
+2090,Groningen,-6.0,2025-01-25
+2091,Groningen,2.0,2025-01-26
+2092,Groningen,-6.0,2025-01-27
+2093,Groningen,-8.0,2025-01-28
+2094,Groningen,-4.0,2025-01-29
+2095,Groningen,2.0,2025-01-30
+2096,Groningen,2.0,2025-01-31
+2097,Groningen,6.0,2025-02-01
+2098,Groningen,8.0,2025-02-02
+2099,Groningen,8.0,2025-02-03
+2100,Emilia-Romagna,-2.0,2025-01-20
+2101,Emilia-Romagna,0.0,2025-01-21
+2102,Emilia-Romagna,0.0,2025-01-22
+2103,Emilia-Romagna,0.0,2025-01-23
+2104,Emilia-Romagna,8.0,2025-01-24
+2105,Emilia-Romagna,8.0,2025-01-25
+2106,Emilia-Romagna,13.0,2025-01-26
+2107,Emilia-Romagna,13.0,2025-01-27
+2108,Emilia-Romagna,13.0,2025-01-28
+2109,Emilia-Romagna,2.0,2025-01-29
+2110,Emilia-Romagna,13.0,2025-01-30
+2111,Emilia-Romagna,8.0,2025-01-31
+2112,Emilia-Romagna,8.0,2025-02-01
+2113,Emilia-Romagna,13.0,2025-02-02
+2114,Emilia-Romagna,6.0,2025-02-03
+2115,Noord-Brabant,-3.8,2025-01-20
+2116,Noord-Brabant,6.0,2025-01-21
+2117,Noord-Brabant,-2.5,2025-01-22
+2118,Noord-Brabant,-6.0,2025-01-23
+2119,Noord-Brabant,-5.0,2025-01-24
+2120,Noord-Brabant,-1.0,2025-01-25
+2121,Noord-Brabant,2.0,2025-01-26
+2122,Noord-Brabant,-1.0,2025-01-27
+2123,Noord-Brabant,-8.0,2025-01-28
+2124,Noord-Brabant,-3.0,2025-01-29
+2125,Noord-Brabant,6.0,2025-01-30
+2126,Noord-Brabant,13.0,2025-01-31
+2127,Noord-Brabant,8.0,2025-02-01
+2128,Noord-Brabant,8.0,2025-02-02
+2129,Noord-Brabant,8.0,2025-02-03
+2130,Limburg (NL),3.0,2025-01-20
+2131,Limburg (NL),6.0,2025-01-21
+2132,Limburg (NL),-2.5,2025-01-22
+2133,Limburg (NL),-7.0,2025-01-23
+2134,Limburg (NL),-5.0,2025-01-24
+2135,Limburg (NL),-1.0,2025-01-25
+2136,Limburg (NL),2.0,2025-01-26
+2137,Limburg (NL),0.0,2025-01-27
+2138,Limburg (NL),-7.0,2025-01-28
+2139,Limburg (NL),-3.0,2025-01-29
+2140,Limburg (NL),8.0,2025-01-30
+2141,Limburg (NL),13.0,2025-01-31
+2142,Limburg (NL),8.0,2025-02-01
+2143,Limburg (NL),8.0,2025-02-02
+2144,Limburg (NL),8.0,2025-02-03
+2145,Haute-Normandie,6.0,2025-01-20
+2146,Haute-Normandie,6.0,2025-01-21
+2147,Haute-Normandie,-0.5,2025-01-22
+2148,Haute-Normandie,-1.0,2025-01-23
+2149,Haute-Normandie,-1.0,2025-01-24
+2150,Haute-Normandie,-1.0,2025-01-25
+2151,Haute-Normandie,-11.0,2025-01-26
+2152,Haute-Normandie,-9.0,2025-01-27
+2153,Haute-Normandie,-8.0,2025-01-28
+2154,Haute-Normandie,-4.0,2025-01-29
+2155,Haute-Normandie,2.0,2025-01-30
+2156,Haute-Normandie,11.0,2025-01-31
+2157,Haute-Normandie,13.0,2025-02-01
+2158,Haute-Normandie,8.0,2025-02-02
+2159,Haute-Normandie,8.0,2025-02-03
+2160,Brandenburg,8.0,2025-01-20
+2161,Brandenburg,6.0,2025-01-21
+2162,Brandenburg,6.0,2025-01-22
+2163,Brandenburg,-4.5,2025-01-23
+2164,Brandenburg,-0.25,2025-01-24
+2165,Brandenburg,1.0,2025-01-25
+2166,Brandenburg,3.0,2025-01-26
+2167,Brandenburg,1.0,2025-01-27
+2168,Brandenburg,2.0,2025-01-28
+2169,Brandenburg,6.0,2025-01-29
+2170,Brandenburg,3.0,2025-01-30
+2171,Brandenburg,8.0,2025-01-31
+2172,Brandenburg,6.0,2025-02-01
+2173,Brandenburg,8.0,2025-02-02
+2174,Brandenburg,6.0,2025-02-03
+2175,Eesti,4.0,2025-01-20
+2176,Eesti,1.6,2025-01-21
+2177,Eesti,-1.65,2025-01-22
+2178,Eesti,-1.95,2025-01-23
+2179,Eesti,-2.8,2025-01-24
+2180,Eesti,-5.95,2025-01-25
+2181,Eesti,-4.0,2025-01-26
+2182,Eesti,-0.25,2025-01-27
+2183,Eesti,4.0,2025-01-28
+2184,Eesti,0.0,2025-01-29
+2185,Eesti,-0.25,2025-01-30
+2186,Eesti,-4.25,2025-01-31
+2187,Eesti,-5.0,2025-02-01
+2188,Eesti,-4.25,2025-02-02
+2189,Eesti,6.0,2025-02-03
+2190,Sicilia,11.0,2025-01-20
+2191,Sicilia,6.0,2025-01-21
+2192,Sicilia,13.0,2025-01-22
+2193,Sicilia,13.0,2025-01-23
+2194,Sicilia,18.0,2025-01-24
+2195,Sicilia,18.0,2025-01-25
+2196,Sicilia,18.0,2025-01-26
+2197,Sicilia,18.0,2025-01-27
+2198,Sicilia,18.0,2025-01-28
+2199,Sicilia,13.0,2025-01-29
+2200,Sicilia,2.0,2025-01-30
+2201,Sicilia,2.0,2025-01-31
+2202,Sicilia,8.0,2025-02-01
+2203,Sicilia,11.0,2025-02-02
+2204,Sicilia,13.0,2025-02-03
+2205,Sud-Est,4.0,2025-01-20
+2206,Sud-Est,18.0,2025-01-21
+2207,Sud-Est,18.0,2025-01-22
+2208,Sud-Est,13.0,2025-01-23
+2209,Sud-Est,11.0,2025-01-24
+2210,Sud-Est,11.0,2025-01-25
+2211,Sud-Est,11.0,2025-01-26
+2212,Sud-Est,13.0,2025-01-27
+2213,Sud-Est,18.0,2025-01-28
+2214,Sud-Est,18.0,2025-01-29
+2215,Sud-Est,13.0,2025-01-30
+2216,Sud-Est,13.0,2025-01-31
+2217,Sud-Est,18.0,2025-02-01
+2218,Sud-Est,12.0,2025-02-02
+2219,Sud-Est,13.0,2025-02-03
+2220,Świętokrzyskie,6.0,2025-01-20
+2221,Świętokrzyskie,5.45,2025-01-21
+2222,Świętokrzyskie,3.45,2025-01-22
+2223,Świętokrzyskie,0.9,2025-01-23
+2224,Świętokrzyskie,0.9,2025-01-24
+2225,Świętokrzyskie,5.0,2025-01-25
+2226,Świętokrzyskie,8.0,2025-01-26
+2227,Świętokrzyskie,1.0,2025-01-27
+2228,Świętokrzyskie,8.0,2025-01-28
+2229,Świętokrzyskie,5.0,2025-01-29
+2230,Świętokrzyskie,6.0,2025-01-30
+2231,Świętokrzyskie,1.75,2025-01-31
+2232,Świętokrzyskie,6.0,2025-02-01
+2233,Świętokrzyskie,-4.25,2025-02-02
+2234,Świętokrzyskie,-0.25,2025-02-03
+2235,"Anatoliki Makedonia, Thraki",13.0,2025-01-20
+2236,"Anatoliki Makedonia, Thraki",2.9,2025-01-21
+2237,"Anatoliki Makedonia, Thraki",8.0,2025-01-22
+2238,"Anatoliki Makedonia, Thraki",8.0,2025-01-23
+2239,"Anatoliki Makedonia, Thraki",8.0,2025-01-24
+2240,"Anatoliki Makedonia, Thraki",13.0,2025-01-25
+2241,"Anatoliki Makedonia, Thraki",8.0,2025-01-26
+2242,"Anatoliki Makedonia, Thraki",8.0,2025-01-27
+2243,"Anatoliki Makedonia, Thraki",10.0,2025-01-28
+2244,"Anatoliki Makedonia, Thraki",13.0,2025-01-29
+2245,"Anatoliki Makedonia, Thraki",8.0,2025-01-30
+2246,"Anatoliki Makedonia, Thraki",8.0,2025-01-31
+2247,"Anatoliki Makedonia, Thraki",8.0,2025-02-01
+2248,"Anatoliki Makedonia, Thraki",3.75,2025-02-02
+2249,"Anatoliki Makedonia, Thraki",1.75,2025-02-03
+2250,Unterfranken,8.0,2025-01-20
+2251,Unterfranken,5.0,2025-01-21
+2252,Unterfranken,0.05,2025-01-22
+2253,Unterfranken,-6.0,2025-01-23
+2254,Unterfranken,3.0,2025-01-24
+2255,Unterfranken,-2.0,2025-01-25
+2256,Unterfranken,2.0,2025-01-26
+2257,Unterfranken,3.0,2025-01-27
+2258,Unterfranken,-3.0,2025-01-28
+2259,Unterfranken,8.0,2025-01-29
+2260,Unterfranken,3.0,2025-01-30
+2261,Unterfranken,8.0,2025-01-31
+2262,Unterfranken,8.0,2025-02-01
+2263,Unterfranken,6.0,2025-02-02
+2264,Unterfranken,6.0,2025-02-03
+2265,Gelderland,-3.8,2025-01-20
+2266,Gelderland,6.0,2025-01-21
+2267,Gelderland,-2.5,2025-01-22
+2268,Gelderland,-6.0,2025-01-23
+2269,Gelderland,-6.0,2025-01-24
+2270,Gelderland,-1.0,2025-01-25
+2271,Gelderland,2.0,2025-01-26
+2272,Gelderland,-6.0,2025-01-27
+2273,Gelderland,-8.0,2025-01-28
+2274,Gelderland,-3.0,2025-01-29
+2275,Gelderland,1.0,2025-01-30
+2276,Gelderland,6.0,2025-01-31
+2277,Gelderland,8.0,2025-02-01
+2278,Gelderland,8.0,2025-02-02
+2279,Gelderland,10.0,2025-02-03
+2280,Syddanmark,-0.8,2025-01-20
+2281,Syddanmark,-2.8,2025-01-21
+2282,Syddanmark,-2.5,2025-01-22
+2283,Syddanmark,-2.0,2025-01-23
+2284,Syddanmark,-7.0,2025-01-24
+2285,Syddanmark,-7.0,2025-01-25
+2286,Syddanmark,-4.0,2025-01-26
+2287,Syddanmark,-6.0,2025-01-27
+2288,Syddanmark,-14.0,2025-01-28
+2289,Syddanmark,-3.0,2025-01-29
+2290,Syddanmark,-3.0,2025-01-30
+2291,Syddanmark,2.0,2025-01-31
+2292,Syddanmark,2.0,2025-02-01
+2293,Syddanmark,6.0,2025-02-02
+2294,Syddanmark,6.0,2025-02-03
+2295,Lüneburg,1.0,2025-01-20
+2296,Lüneburg,6.0,2025-01-21
+2297,Lüneburg,0.9,2025-01-22
+2298,Lüneburg,-4.5,2025-01-23
+2299,Lüneburg,-2.0,2025-01-24
+2300,Lüneburg,-1.0,2025-01-25
+2301,Lüneburg,-3.0,2025-01-26
+2302,Lüneburg,-3.0,2025-01-27
+2303,Lüneburg,1.0,2025-01-28
+2304,Lüneburg,1.0,2025-01-29
+2305,Lüneburg,1.0,2025-01-30
+2306,Lüneburg,8.0,2025-01-31
+2307,Lüneburg,6.0,2025-02-01
+2308,Lüneburg,8.0,2025-02-02
+2309,Lüneburg,8.0,2025-02-03
+2310,Norte,-0.8,2025-01-20
+2311,Norte,6.0,2025-01-21
+2312,Norte,-2.5,2025-01-22
+2313,Norte,-1.0,2025-01-23
+2314,Norte,-5.0,2025-01-24
+2315,Norte,-1.0,2025-01-25
+2316,Norte,2.0,2025-01-26
+2317,Norte,-9.0,2025-01-27
+2318,Norte,-8.0,2025-01-28
+2319,Norte,-4.0,2025-01-29
+2320,Norte,2.0,2025-01-30
+2321,Norte,6.0,2025-01-31
+2322,Norte,8.0,2025-02-01
+2323,Norte,8.0,2025-02-02
+2324,Norte,8.0,2025-02-03
+2325,Weser-Ems,6.0,2025-01-20
+2326,Weser-Ems,6.0,2025-01-21
+2327,Weser-Ems,8.0,2025-01-22
+2328,Weser-Ems,-0.8,2025-01-23
+2329,Weser-Ems,8.0,2025-01-24
+2330,Weser-Ems,3.45,2025-01-25
+2331,Weser-Ems,-1.1,2025-01-26
+2332,Weser-Ems,4.5,2025-01-27
+2333,Weser-Ems,1.5,2025-01-28
+2334,Weser-Ems,6.6,2025-01-29
+2335,Weser-Ems,6.6,2025-01-30
+2336,Weser-Ems,0.05,2025-01-31
+2337,Weser-Ems,6.0,2025-02-01
+2338,Weser-Ems,6.0,2025-02-02
+2339,Weser-Ems,3.0,2025-02-03
+2340,Voreio Aigaio,13.0,2025-01-20
+2341,Voreio Aigaio,4.0,2025-01-21
+2342,Voreio Aigaio,1.0,2025-01-22
+2343,Voreio Aigaio,13.0,2025-01-23
+2344,Voreio Aigaio,7.0,2025-01-24
+2345,Voreio Aigaio,7.0,2025-01-25
+2346,Voreio Aigaio,13.0,2025-01-26
+2347,Voreio Aigaio,13.0,2025-01-27
+2348,Voreio Aigaio,13.0,2025-01-28
+2349,Voreio Aigaio,7.0,2025-01-29
+2350,Voreio Aigaio,7.0,2025-01-30
+2351,Voreio Aigaio,-1.0,2025-01-31
+2352,Voreio Aigaio,-6.0,2025-02-01
+2353,Voreio Aigaio,-6.0,2025-02-02
+2354,Voreio Aigaio,-9.0,2025-02-03
+2355,Ionia Nisia,4.0,2025-01-20
+2356,Ionia Nisia,-4.0,2025-01-21
+2357,Ionia Nisia,4.0,2025-01-22
+2358,Ionia Nisia,15.0,2025-01-23
+2359,Ionia Nisia,13.0,2025-01-24
+2360,Ionia Nisia,18.0,2025-01-25
+2361,Ionia Nisia,18.0,2025-01-26
+2362,Ionia Nisia,18.0,2025-01-27
+2363,Ionia Nisia,13.0,2025-01-28
+2364,Ionia Nisia,18.0,2025-01-29
+2365,Ionia Nisia,12.0,2025-01-30
+2366,Ionia Nisia,12.0,2025-01-31
+2367,Ionia Nisia,7.0,2025-02-01
+2368,Ionia Nisia,-6.0,2025-02-02
+2369,Ionia Nisia,-6.0,2025-02-03
+2370,Centru,13.0,2025-01-20
+2371,Centru,6.0,2025-01-21
+2372,Centru,3.0,2025-01-22
+2373,Centru,8.0,2025-01-23
+2374,Centru,1.75,2025-01-24
+2375,Centru,1.75,2025-01-25
+2376,Centru,2.0,2025-01-26
+2377,Centru,7.0,2025-01-27
+2378,Centru,8.0,2025-01-28
+2379,Centru,8.0,2025-01-29
+2380,Centru,8.0,2025-01-30
+2381,Centru,2.0,2025-01-31
+2382,Centru,4.3,2025-02-01
+2383,Centru,6.3,2025-02-02
+2384,Centru,1.45,2025-02-03
+2385,Dytiki Elláda,0.0,2025-01-20
+2386,Dytiki Elláda,-0.5,2025-01-21
+2387,Dytiki Elláda,3.0,2025-01-22
+2388,Dytiki Elláda,8.0,2025-01-23
+2389,Dytiki Elláda,7.0,2025-01-24
+2390,Dytiki Elláda,13.0,2025-01-25
+2391,Dytiki Elláda,13.0,2025-01-26
+2392,Dytiki Elláda,13.0,2025-01-27
+2393,Dytiki Elláda,8.0,2025-01-28
+2394,Dytiki Elláda,5.0,2025-01-29
+2395,Dytiki Elláda,8.0,2025-01-30
+2396,Dytiki Elláda,1.0,2025-01-31
+2397,Dytiki Elláda,1.75,2025-02-01
+2398,Dytiki Elláda,5.45,2025-02-02
+2399,Dytiki Elláda,0.9,2025-02-03
+2400,Thessalia,13.0,2025-01-20
+2401,Thessalia,-1.0,2025-01-21
+2402,Thessalia,15.0,2025-01-22
+2403,Thessalia,15.0,2025-01-23
+2404,Thessalia,15.0,2025-01-24
+2405,Thessalia,15.0,2025-01-25
+2406,Thessalia,13.0,2025-01-26
+2407,Thessalia,12.0,2025-01-27
+2408,Thessalia,13.0,2025-01-28
+2409,Thessalia,13.0,2025-01-29
+2410,Thessalia,13.0,2025-01-30
+2411,Thessalia,8.0,2025-01-31
+2412,Thessalia,3.0,2025-02-01
+2413,Thessalia,10.0,2025-02-02
+2414,Thessalia,3.0,2025-02-03
+2415,Arnsberg,3.0,2025-01-20
+2416,Arnsberg,6.0,2025-01-21
+2417,Arnsberg,-3.0,2025-01-22
+2418,Arnsberg,-8.5,2025-01-23
+2419,Arnsberg,-5.0,2025-01-24
+2420,Arnsberg,-1.0,2025-01-25
+2421,Arnsberg,2.0,2025-01-26
+2422,Arnsberg,1.0,2025-01-27
+2423,Arnsberg,0.0,2025-01-28
+2424,Arnsberg,-3.0,2025-01-29
+2425,Arnsberg,1.0,2025-01-30
+2426,Arnsberg,13.0,2025-01-31
+2427,Arnsberg,8.0,2025-02-01
+2428,Arnsberg,8.0,2025-02-02
+2429,Arnsberg,8.0,2025-02-03
+2430,Podkarpackie,6.0,2025-01-20
+2431,Podkarpackie,5.45,2025-01-21
+2432,Podkarpackie,0.6,2025-01-22
+2433,Podkarpackie,-5.0,2025-01-23
+2434,Podkarpackie,1.75,2025-01-24
+2435,Podkarpackie,2.0,2025-01-25
+2436,Podkarpackie,2.0,2025-01-26
+2437,Podkarpackie,2.0,2025-01-27
+2438,Podkarpackie,7.0,2025-01-28
+2439,Podkarpackie,8.0,2025-01-29
+2440,Podkarpackie,6.0,2025-01-30
+2441,Podkarpackie,3.0,2025-01-31
+2442,Podkarpackie,6.0,2025-02-01
+2443,Podkarpackie,-5.1,2025-02-02
+2444,Podkarpackie,-0.25,2025-02-03
+2445,Oberfranken,0.0,2025-01-20
+2446,Oberfranken,6.0,2025-01-21
+2447,Oberfranken,4.0,2025-01-22
+2448,Oberfranken,-10.0,2025-01-23
+2449,Oberfranken,3.75,2025-01-24
+2450,Oberfranken,3.0,2025-01-25
+2451,Oberfranken,2.0,2025-01-26
+2452,Oberfranken,1.0,2025-01-27
+2453,Oberfranken,0.0,2025-01-28
+2454,Oberfranken,6.0,2025-01-29
+2455,Oberfranken,1.75,2025-01-30
+2456,Oberfranken,8.0,2025-01-31
+2457,Oberfranken,8.0,2025-02-01
+2458,Oberfranken,6.0,2025-02-02
+2459,Oberfranken,6.0,2025-02-03
+2460,Trier,3.8,2025-01-20
+2461,Trier,8.0,2025-01-21
+2462,Trier,-0.5,2025-01-22
+2463,Trier,-3.0,2025-01-23
+2464,Trier,1.0,2025-01-24
+2465,Trier,-6.0,2025-01-25
+2466,Trier,0.0,2025-01-26
+2467,Trier,-1.0,2025-01-27
+2468,Trier,-6.0,2025-01-28
+2469,Trier,0.9,2025-01-29
+2470,Trier,3.0,2025-01-30
+2471,Trier,8.0,2025-01-31
+2472,Trier,8.0,2025-02-01
+2473,Trier,8.0,2025-02-02
+2474,Trier,8.0,2025-02-03
+2475,Lubelskie,8.0,2025-01-20
+2476,Lubelskie,8.0,2025-01-21
+2477,Lubelskie,2.6,2025-01-22
+2478,Lubelskie,4.0,2025-01-23
+2479,Lubelskie,1.75,2025-01-24
+2480,Lubelskie,-3.0,2025-01-25
+2481,Lubelskie,2.0,2025-01-26
+2482,Lubelskie,2.0,2025-01-27
+2483,Lubelskie,6.0,2025-01-28
+2484,Lubelskie,3.0,2025-01-29
+2485,Lubelskie,6.0,2025-01-30
+2486,Lubelskie,4.0,2025-01-31
+2487,Lubelskie,2.0,2025-02-01
+2488,Lubelskie,-4.25,2025-02-02
+2489,Lubelskie,4.0,2025-02-03
+2490,Lazio,-3.0,2025-01-20
+2491,Lazio,6.0,2025-01-21
+2492,Lazio,7.0,2025-01-22
+2493,Lazio,18.0,2025-01-23
+2494,Lazio,15.0,2025-01-24
+2495,Lazio,10.0,2025-01-25
+2496,Lazio,18.0,2025-01-26
+2497,Lazio,13.0,2025-01-27
+2498,Lazio,13.0,2025-01-28
+2499,Lazio,8.0,2025-01-29
+2500,Lazio,13.0,2025-01-30
+2501,Lazio,13.0,2025-01-31
+2502,Lazio,13.0,2025-02-01
+2503,Lazio,13.0,2025-02-02
+2504,Lazio,13.0,2025-02-03
+2505,Braunschweig,3.0,2025-01-20
+2506,Braunschweig,6.0,2025-01-21
+2507,Braunschweig,1.75,2025-01-22
+2508,Braunschweig,-8.5,2025-01-23
+2509,Braunschweig,-5.0,2025-01-24
+2510,Braunschweig,0.0,2025-01-25
+2511,Braunschweig,-3.0,2025-01-26
+2512,Braunschweig,1.0,2025-01-27
+2513,Braunschweig,1.0,2025-01-28
+2514,Braunschweig,-3.0,2025-01-29
+2515,Braunschweig,-3.0,2025-01-30
+2516,Braunschweig,8.0,2025-01-31
+2517,Braunschweig,6.0,2025-02-01
+2518,Braunschweig,6.0,2025-02-02
+2519,Braunschweig,6.0,2025-02-03
+2520,Kentriki Makedonia,6.0,2025-01-20
+2521,Kentriki Makedonia,-2.0,2025-01-21
+2522,Kentriki Makedonia,7.0,2025-01-22
+2523,Kentriki Makedonia,13.0,2025-01-23
+2524,Kentriki Makedonia,8.0,2025-01-24
+2525,Kentriki Makedonia,13.0,2025-01-25
+2526,Kentriki Makedonia,15.0,2025-01-26
+2527,Kentriki Makedonia,15.0,2025-01-27
+2528,Kentriki Makedonia,15.0,2025-01-28
+2529,Kentriki Makedonia,8.0,2025-01-29
+2530,Kentriki Makedonia,13.0,2025-01-30
+2531,Kentriki Makedonia,13.0,2025-01-31
+2532,Kentriki Makedonia,13.0,2025-02-01
+2533,Kentriki Makedonia,8.0,2025-02-02
+2534,Kentriki Makedonia,8.0,2025-02-03
+2535,Notio Aigaio,4.0,2025-01-20
+2536,Notio Aigaio,13.0,2025-01-21
+2537,Notio Aigaio,10.0,2025-01-22
+2538,Notio Aigaio,18.0,2025-01-23
+2539,Notio Aigaio,13.0,2025-01-24
+2540,Notio Aigaio,10.0,2025-01-25
+2541,Notio Aigaio,16.0,2025-01-26
+2542,Notio Aigaio,8.0,2025-01-27
+2543,Notio Aigaio,13.0,2025-01-28
+2544,Notio Aigaio,7.0,2025-01-29
+2545,Notio Aigaio,7.0,2025-01-30
+2546,Notio Aigaio,7.0,2025-01-31
+2547,Notio Aigaio,-1.0,2025-02-01
+2548,Notio Aigaio,-1.0,2025-02-02
+2549,Notio Aigaio,-7.0,2025-02-03
+2550,Mecklenburg-Vorpommern,6.0,2025-01-20
+2551,Mecklenburg-Vorpommern,3.45,2025-01-21
+2552,Mecklenburg-Vorpommern,6.0,2025-01-22
+2553,Mecklenburg-Vorpommern,-8.5,2025-01-23
+2554,Mecklenburg-Vorpommern,-5.95,2025-01-24
+2555,Mecklenburg-Vorpommern,-6.0,2025-01-25
+2556,Mecklenburg-Vorpommern,-1.0,2025-01-26
+2557,Mecklenburg-Vorpommern,-4.0,2025-01-27
+2558,Mecklenburg-Vorpommern,1.0,2025-01-28
+2559,Mecklenburg-Vorpommern,-3.0,2025-01-29
+2560,Mecklenburg-Vorpommern,3.0,2025-01-30
+2561,Mecklenburg-Vorpommern,6.0,2025-01-31
+2562,Mecklenburg-Vorpommern,-1.0,2025-02-01
+2563,Mecklenburg-Vorpommern,8.0,2025-02-02
+2564,Mecklenburg-Vorpommern,6.0,2025-02-03
+2565,Midtjylland,6.0,2025-01-20
+2566,Midtjylland,-1.95,2025-01-21
+2567,Midtjylland,-2.5,2025-01-22
+2568,Midtjylland,-7.65,2025-01-23
+2569,Midtjylland,-7.0,2025-01-24
+2570,Midtjylland,-9.0,2025-01-25
+2571,Midtjylland,-4.0,2025-01-26
+2572,Midtjylland,-6.0,2025-01-27
+2573,Midtjylland,-14.0,2025-01-28
+2574,Midtjylland,-3.0,2025-01-29
+2575,Midtjylland,-3.0,2025-01-30
+2576,Midtjylland,-3.0,2025-01-31
+2577,Midtjylland,-1.0,2025-02-01
+2578,Midtjylland,4.0,2025-02-02
+2579,Midtjylland,6.0,2025-02-03
+2580,Veneto,4.0,2025-01-20
+2581,Veneto,6.0,2025-01-21
+2582,Veneto,3.0,2025-01-22
+2583,Veneto,-3.0,2025-01-23
+2584,Veneto,13.0,2025-01-24
+2585,Veneto,10.0,2025-01-25
+2586,Veneto,8.0,2025-01-26
+2587,Veneto,8.0,2025-01-27
+2588,Veneto,8.0,2025-01-28
+2589,Veneto,8.0,2025-01-29
+2590,Veneto,13.0,2025-01-30
+2591,Veneto,13.0,2025-01-31
+2592,Veneto,8.0,2025-02-01
+2593,Veneto,13.0,2025-02-02
+2594,Veneto,8.0,2025-02-03
+2595,Nord-Vest,3.0,2025-01-20
+2596,Nord-Vest,8.0,2025-01-21
+2597,Nord-Vest,5.45,2025-01-22
+2598,Nord-Vest,5.0,2025-01-23
+2599,Nord-Vest,4.9,2025-01-24
+2600,Nord-Vest,10.0,2025-01-25
+2601,Nord-Vest,8.0,2025-01-26
+2602,Nord-Vest,13.0,2025-01-27
+2603,Nord-Vest,8.0,2025-01-28
+2604,Nord-Vest,8.0,2025-01-29
+2605,Nord-Vest,5.0,2025-01-30
+2606,Nord-Vest,5.0,2025-01-31
+2607,Nord-Vest,8.0,2025-02-01
+2608,Nord-Vest,0.9,2025-02-02
+2609,Nord-Vest,3.45,2025-02-03
+2610,Zeeland,-2.8,2025-01-20
+2611,Zeeland,4.0,2025-01-21
+2612,Zeeland,-4.0,2025-01-22
+2613,Zeeland,-5.0,2025-01-23
+2614,Zeeland,-5.0,2025-01-24
+2615,Zeeland,-6.0,2025-01-25
+2616,Zeeland,2.0,2025-01-26
+2617,Zeeland,-9.0,2025-01-27
+2618,Zeeland,-8.0,2025-01-28
+2619,Zeeland,-4.0,2025-01-29
+2620,Zeeland,2.0,2025-01-30
+2621,Zeeland,2.0,2025-01-31
+2622,Zeeland,8.0,2025-02-01
+2623,Zeeland,8.0,2025-02-02
+2624,Zeeland,8.0,2025-02-03
+2625,Nordjylland,0.0,2025-01-20
+2626,Nordjylland,0.6,2025-01-21
+2627,Nordjylland,-4.5,2025-01-22
+2628,Nordjylland,-4.5,2025-01-23
+2629,Nordjylland,-4.8,2025-01-24
+2630,Nordjylland,-6.0,2025-01-25
+2631,Nordjylland,-3.0,2025-01-26
+2632,Nordjylland,-5.0,2025-01-27
+2633,Nordjylland,-13.0,2025-01-28
+2634,Nordjylland,-3.0,2025-01-29
+2635,Nordjylland,-3.0,2025-01-30
+2636,Nordjylland,-3.0,2025-01-31
+2637,Nordjylland,-11.0,2025-02-01
+2638,Nordjylland,4.0,2025-02-02
+2639,Nordjylland,6.0,2025-02-03
+2640,Oberpfalz,8.0,2025-01-20
+2641,Oberpfalz,8.0,2025-01-21
+2642,Oberpfalz,8.0,2025-01-22
+2643,Oberpfalz,-3.65,2025-01-23
+2644,Oberpfalz,1.75,2025-01-24
+2645,Oberpfalz,5.0,2025-01-25
+2646,Oberpfalz,5.0,2025-01-26
+2647,Oberpfalz,3.0,2025-01-27
+2648,Oberpfalz,3.0,2025-01-28
+2649,Oberpfalz,8.0,2025-01-29
+2650,Oberpfalz,1.75,2025-01-30
+2651,Oberpfalz,8.0,2025-01-31
+2652,Oberpfalz,8.0,2025-02-01
+2653,Oberpfalz,8.0,2025-02-02
+2654,Oberpfalz,6.0,2025-02-03
+2655,Münster,3.0,2025-01-20
+2656,Münster,6.0,2025-01-21
+2657,Münster,-3.0,2025-01-22
+2658,Münster,-9.0,2025-01-23
+2659,Münster,-2.0,2025-01-24
+2660,Münster,-1.0,2025-01-25
+2661,Münster,2.0,2025-01-26
+2662,Münster,0.0,2025-01-27
+2663,Münster,-8.0,2025-01-28
+2664,Münster,-3.0,2025-01-29
+2665,Münster,1.0,2025-01-30
+2666,Münster,8.0,2025-01-31
+2667,Münster,8.0,2025-02-01
+2668,Münster,8.0,2025-02-02
+2669,Münster,10.0,2025-02-03
+2670,Região Autónoma dos Açores,-7.0,2025-01-20
+2671,Região Autónoma dos Açores,-12.0,2025-01-21
+2672,Região Autónoma dos Açores,2.0,2025-01-22
+2673,Região Autónoma dos Açores,9.0,2025-01-23
+2674,Região Autónoma dos Açores,2.0,2025-01-24
+2675,Região Autónoma dos Açores,0.0,2025-01-25
+2676,Região Autónoma dos Açores,-3.0,2025-01-26
+2677,Região Autónoma dos Açores,-8.0,2025-01-27
+2678,Região Autónoma dos Açores,1.0,2025-01-28
+2679,Região Autónoma dos Açores,0.0,2025-01-29
+2680,Região Autónoma dos Açores,9.0,2025-01-30
+2681,Região Autónoma dos Açores,10.0,2025-01-31
+2682,Região Autónoma dos Açores,15.0,2025-02-01
+2683,Região Autónoma dos Açores,14.0,2025-02-02
+2684,Região Autónoma dos Açores,15.0,2025-02-03
+2685,Região Autónoma da Madeira,-7.0,2025-01-20
+2686,Região Autónoma da Madeira,-4.0,2025-01-21
+2687,Região Autónoma da Madeira,2.0,2025-01-22
+2688,Região Autónoma da Madeira,6.0,2025-01-23
+2689,Região Autónoma da Madeira,13.0,2025-01-24
+2690,Região Autónoma da Madeira,10.0,2025-01-25
+2691,Região Autónoma da Madeira,18.0,2025-01-26
+2692,Região Autónoma da Madeira,15.0,2025-01-27
+2693,Região Autónoma da Madeira,10.0,2025-01-28
+2694,Região Autónoma da Madeira,15.0,2025-01-29
+2695,Região Autónoma da Madeira,18.0,2025-01-30
+2696,Região Autónoma da Madeira,10.0,2025-01-31
+2697,Região Autónoma da Madeira,10.0,2025-02-01
+2698,Região Autónoma da Madeira,9.0,2025-02-02
+2699,Região Autónoma da Madeira,9.0,2025-02-03
+2700,Małopolskie,6.0,2025-01-20
+2701,Małopolskie,5.45,2025-01-21
+2702,Małopolskie,3.45,2025-01-22
+2703,Małopolskie,1.0,2025-01-23
+2704,Małopolskie,1.75,2025-01-24
+2705,Małopolskie,8.0,2025-01-25
+2706,Małopolskie,8.0,2025-01-26
+2707,Małopolskie,8.0,2025-01-27
+2708,Małopolskie,8.0,2025-01-28
+2709,Małopolskie,1.0,2025-01-29
+2710,Małopolskie,8.0,2025-01-30
+2711,Małopolskie,8.5,2025-01-31
+2712,Małopolskie,6.0,2025-02-01
+2713,Małopolskie,-5.95,2025-02-02
+2714,Małopolskie,3.6,2025-02-03
+2715,Provincia Autonoma di Trento,-3.0,2025-01-20
+2716,Provincia Autonoma di Trento,4.05,2025-01-21
+2717,Provincia Autonoma di Trento,3.75,2025-01-22
+2718,Provincia Autonoma di Trento,-0.5,2025-01-23
+2719,Provincia Autonoma di Trento,10.0,2025-01-24
+2720,Provincia Autonoma di Trento,8.0,2025-01-25
+2721,Provincia Autonoma di Trento,-2.0,2025-01-26
+2722,Provincia Autonoma di Trento,1.0,2025-01-27
+2723,Provincia Autonoma di Trento,6.0,2025-01-28
+2724,Provincia Autonoma di Trento,3.0,2025-01-29
+2725,Provincia Autonoma di Trento,8.0,2025-01-30
+2726,Provincia Autonoma di Trento,10.0,2025-01-31
+2727,Provincia Autonoma di Trento,8.0,2025-02-01
+2728,Provincia Autonoma di Trento,8.0,2025-02-02
+2729,Provincia Autonoma di Trento,10.0,2025-02-03
+2730,Schwaben,6.0,2025-01-20
+2731,Schwaben,8.0,2025-01-21
+2732,Schwaben,6.0,2025-01-22
+2733,Schwaben,-6.0,2025-01-23
+2734,Schwaben,8.0,2025-01-24
+2735,Schwaben,8.0,2025-01-25
+2736,Schwaben,5.0,2025-01-26
+2737,Schwaben,5.0,2025-01-27
+2738,Schwaben,-3.0,2025-01-28
+2739,Schwaben,8.0,2025-01-29
+2740,Schwaben,8.0,2025-01-30
+2741,Schwaben,8.0,2025-01-31
+2742,Schwaben,8.0,2025-02-01
+2743,Schwaben,6.0,2025-02-02
+2744,Schwaben,6.0,2025-02-03
+2745,Darmstadt,3.0,2025-01-20
+2746,Darmstadt,5.0,2025-01-21
+2747,Darmstadt,1.2,2025-01-22
+2748,Darmstadt,-7.0,2025-01-23
+2749,Darmstadt,-3.0,2025-01-24
+2750,Darmstadt,5.0,2025-01-25
+2751,Darmstadt,2.0,2025-01-26
+2752,Darmstadt,1.0,2025-01-27
+2753,Darmstadt,1.0,2025-01-28
+2754,Darmstadt,8.0,2025-01-29
+2755,Darmstadt,5.0,2025-01-30
+2756,Darmstadt,8.0,2025-01-31
+2757,Darmstadt,8.0,2025-02-01
+2758,Darmstadt,8.0,2025-02-02
+2759,Darmstadt,8.0,2025-02-03
+2760,Kassel,1.0,2025-01-20
+2761,Kassel,6.0,2025-01-21
+2762,Kassel,0.0,2025-01-22
+2763,Kassel,-8.5,2025-01-23
+2764,Kassel,-3.0,2025-01-24
+2765,Kassel,-4.0,2025-01-25
+2766,Kassel,1.0,2025-01-26
+2767,Kassel,-3.0,2025-01-27
+2768,Kassel,-4.0,2025-01-28
+2769,Kassel,2.0,2025-01-29
+2770,Kassel,1.0,2025-01-30
+2771,Kassel,8.0,2025-01-31
+2772,Kassel,8.0,2025-02-01
+2773,Kassel,6.0,2025-02-02
+2774,Kassel,6.0,2025-02-03
+2775,Hannover,3.0,2025-01-20
+2776,Hannover,8.0,2025-01-21
+2777,Hannover,-2.0,2025-01-22
+2778,Hannover,-4.5,2025-01-23
+2779,Hannover,-1.0,2025-01-24
+2780,Hannover,-1.0,2025-01-25
+2781,Hannover,-3.0,2025-01-26
+2782,Hannover,-3.0,2025-01-27
+2783,Hannover,2.0,2025-01-28
+2784,Hannover,-3.0,2025-01-29
+2785,Hannover,-3.0,2025-01-30
+2786,Hannover,8.0,2025-01-31
+2787,Hannover,8.0,2025-02-01
+2788,Hannover,6.0,2025-02-02
+2789,Hannover,8.0,2025-02-03
+2790,Basse-Normandie,6.0,2025-01-20
+2791,Basse-Normandie,6.0,2025-01-21
+2792,Basse-Normandie,-3.0,2025-01-22
+2793,Basse-Normandie,-5.0,2025-01-23
+2794,Basse-Normandie,-5.0,2025-01-24
+2795,Basse-Normandie,-9.0,2025-01-25
+2796,Basse-Normandie,-11.0,2025-01-26
+2797,Basse-Normandie,-14.0,2025-01-27
+2798,Basse-Normandie,-14.0,2025-01-28
+2799,Basse-Normandie,-5.0,2025-01-29
+2800,Basse-Normandie,2.0,2025-01-30
+2801,Basse-Normandie,2.0,2025-01-31
+2802,Basse-Normandie,13.0,2025-02-01
+2803,Basse-Normandie,8.0,2025-02-02
+2804,Basse-Normandie,8.0,2025-02-03
+2805,Koblenz,3.0,2025-01-20
+2806,Koblenz,6.0,2025-01-21
+2807,Koblenz,0.35,2025-01-22
+2808,Koblenz,-7.0,2025-01-23
+2809,Koblenz,-3.0,2025-01-24
+2810,Koblenz,1.0,2025-01-25
+2811,Koblenz,1.0,2025-01-26
+2812,Koblenz,0.0,2025-01-27
+2813,Koblenz,-5.0,2025-01-28
+2814,Koblenz,1.0,2025-01-29
+2815,Koblenz,3.0,2025-01-30
+2816,Koblenz,8.0,2025-01-31
+2817,Koblenz,8.0,2025-02-01
+2818,Koblenz,8.0,2025-02-02
+2819,Koblenz,8.0,2025-02-03
+2820,"Herefordshire, Worcestershire and Warwickshire",3.0,2025-01-20
+2821,"Herefordshire, Worcestershire and Warwickshire",8.0,2025-01-21
+2822,"Herefordshire, Worcestershire and Warwickshire",2.05,2025-01-22
+2823,"Herefordshire, Worcestershire and Warwickshire",-3.95,2025-01-23
+2824,"Herefordshire, Worcestershire and Warwickshire",-2.0,2025-01-24
+2825,"Herefordshire, Worcestershire and Warwickshire",-3.0,2025-01-25
+2826,"Herefordshire, Worcestershire and Warwickshire",-5.95,2025-01-26
+2827,"Herefordshire, Worcestershire and Warwickshire",-9.0,2025-01-27
+2828,"Herefordshire, Worcestershire and Warwickshire",-13.0,2025-01-28
+2829,"Herefordshire, Worcestershire and Warwickshire",-7.0,2025-01-29
+2830,"Herefordshire, Worcestershire and Warwickshire",-3.0,2025-01-30
+2831,"Herefordshire, Worcestershire and Warwickshire",7.0,2025-01-31
+2832,"Herefordshire, Worcestershire and Warwickshire",5.0,2025-02-01
+2833,"Herefordshire, Worcestershire and Warwickshire",10.0,2025-02-02
+2834,"Herefordshire, Worcestershire and Warwickshire",13.0,2025-02-03
+2835,East Wales,-2.7,2025-01-20
+2836,East Wales,1.0,2025-01-21
+2837,East Wales,3.0,2025-01-22
+2838,East Wales,3.0,2025-01-23
+2839,East Wales,3.0,2025-01-24
+2840,East Wales,3.0,2025-01-25
+2841,East Wales,4.0,2025-01-26
+2842,East Wales,3.0,2025-01-27
+2843,East Wales,0.45,2025-01-28
+2844,East Wales,-2.55,2025-01-29
+2845,East Wales,-7.7,2025-01-30
+2846,East Wales,-2.55,2025-01-31
+2847,East Wales,1.75,2025-02-01
+2848,East Wales,1.3,2025-02-02
+2849,East Wales,3.0,2025-02-03
+2850,North Eastern Scotland,0.0,2025-01-20
+2851,North Eastern Scotland,5.0,2025-01-21
+2852,North Eastern Scotland,3.0,2025-01-22
+2853,North Eastern Scotland,-6.0,2025-01-23
+2854,North Eastern Scotland,-7.8,2025-01-24
+2855,North Eastern Scotland,0.05,2025-01-25
+2856,North Eastern Scotland,-5.95,2025-01-26
+2857,North Eastern Scotland,0.05,2025-01-27
+2858,North Eastern Scotland,-14.0,2025-01-28
+2859,North Eastern Scotland,-6.0,2025-01-29
+2860,North Eastern Scotland,-8.0,2025-01-30
+2861,North Eastern Scotland,0.0,2025-01-31
+2862,North Eastern Scotland,0.9,2025-02-01
+2863,North Eastern Scotland,2.9,2025-02-02
+2864,North Eastern Scotland,-4.0,2025-02-03
+2865,Highlands and Islands,12.0,2025-01-21
+2866,Highlands and Islands,9.0,2025-01-22
+2867,Highlands and Islands,12.0,2025-01-23
+2868,Highlands and Islands,12.0,2025-01-24
+2869,Highlands and Islands,1.0,2025-01-25
+2870,Highlands and Islands,12.0,2025-01-26
+2871,Highlands and Islands,12.0,2025-01-27
+2872,Highlands and Islands,9.0,2025-01-28
+2873,Highlands and Islands,12.0,2025-01-29
+2874,Highlands and Islands,12.0,2025-01-30
+2875,Highlands and Islands,7.0,2025-01-31
+2876,Highlands and Islands,7.0,2025-02-01
+2877,Highlands and Islands,7.0,2025-02-02
+2878,Highlands and Islands,6.0,2025-02-03
+2879,Highlands and Islands,7.0,2025-02-04
+2880,Lincolnshire,-1.0,2025-01-20
+2881,Lincolnshire,-2.0,2025-01-21
+2882,Lincolnshire,1.0,2025-01-22
+2883,Lincolnshire,-3.95,2025-01-23
+2884,Lincolnshire,-2.0,2025-01-24
+2885,Lincolnshire,-3.0,2025-01-25
+2886,Lincolnshire,-13.1,2025-01-26
+2887,Lincolnshire,-9.0,2025-01-27
+2888,Lincolnshire,-12.0,2025-01-28
+2889,Lincolnshire,-7.0,2025-01-29
+2890,Lincolnshire,-9.0,2025-01-30
+2891,Lincolnshire,7.0,2025-01-31
+2892,Lincolnshire,8.0,2025-02-01
+2893,Lincolnshire,8.0,2025-02-02
+2894,Lincolnshire,6.0,2025-02-03
+2895,Cornwall and Isles of Scilly,-2.0,2025-01-20
+2896,Cornwall and Isles of Scilly,-1.0,2025-01-21
+2897,Cornwall and Isles of Scilly,1.0,2025-01-22
+2898,Cornwall and Isles of Scilly,-2.0,2025-01-23
+2899,Cornwall and Isles of Scilly,-10.0,2025-01-24
+2900,Cornwall and Isles of Scilly,-6.0,2025-01-25
+2901,Cornwall and Isles of Scilly,-6.0,2025-01-26
+2902,Cornwall and Isles of Scilly,-9.0,2025-01-27
+2903,Cornwall and Isles of Scilly,-9.0,2025-01-28
+2904,Cornwall and Isles of Scilly,-8.0,2025-01-29
+2905,Cornwall and Isles of Scilly,-6.0,2025-01-30
+2906,Cornwall and Isles of Scilly,2.0,2025-01-31
+2907,Cornwall and Isles of Scilly,11.0,2025-02-01
+2908,Cornwall and Isles of Scilly,11.0,2025-02-02
+2909,Cornwall and Isles of Scilly,6.0,2025-02-03
+2910,Stredné Slovensko,6.0,2025-01-20
+2911,Stredné Slovensko,8.0,2025-01-21
+2912,Stredné Slovensko,8.0,2025-01-22
+2913,Stredné Slovensko,0.9,2025-01-23
+2914,Stredné Slovensko,6.5,2025-01-24
+2915,Stredné Slovensko,8.0,2025-01-25
+2916,Stredné Slovensko,2.6,2025-01-26
+2917,Stredné Slovensko,5.45,2025-01-27
+2918,Stredné Slovensko,2.9,2025-01-28
+2919,Stredné Slovensko,0.9,2025-01-29
+2920,Stredné Slovensko,3.0,2025-01-30
+2921,Stredné Slovensko,8.0,2025-01-31
+2922,Stredné Slovensko,8.0,2025-02-01
+2923,Stredné Slovensko,6.0,2025-02-02
+2924,Stredné Slovensko,6.0,2025-02-03
+2925,West Central Scotland,5.0,2025-01-20
+2926,West Central Scotland,3.0,2025-01-21
+2927,West Central Scotland,6.0,2025-01-22
+2928,West Central Scotland,-6.8,2025-01-23
+2929,West Central Scotland,-13.65,2025-01-24
+2930,West Central Scotland,0.05,2025-01-25
+2931,West Central Scotland,-5.95,2025-01-26
+2932,West Central Scotland,0.05,2025-01-27
+2933,West Central Scotland,-14.0,2025-01-28
+2934,West Central Scotland,-6.0,2025-01-29
+2935,West Central Scotland,-8.0,2025-01-30
+2936,West Central Scotland,0.0,2025-01-31
+2937,West Central Scotland,0.9,2025-02-01
+2938,West Central Scotland,2.9,2025-02-02
+2939,West Central Scotland,-4.0,2025-02-03
+2940,Picardie,3.0,2025-01-20
+2941,Picardie,6.0,2025-01-21
+2942,Picardie,-5.0,2025-01-22
+2943,Picardie,-5.0,2025-01-23
+2944,Picardie,-5.0,2025-01-24
+2945,Picardie,-1.0,2025-01-25
+2946,Picardie,2.0,2025-01-26
+2947,Picardie,-14.0,2025-01-27
+2948,Picardie,-9.0,2025-01-28
+2949,Picardie,-5.0,2025-01-29
+2950,Picardie,2.0,2025-01-30
+2951,Picardie,6.0,2025-01-31
+2952,Picardie,6.0,2025-02-01
+2953,Picardie,6.0,2025-02-02
+2954,Picardie,8.0,2025-02-03
+2955,Východné Slovensko,3.0,2025-01-20
+2956,Východné Slovensko,1.75,2025-01-21
+2957,Východné Slovensko,1.75,2025-01-22
+2958,Východné Slovensko,2.6,2025-01-23
+2959,Východné Slovensko,1.75,2025-01-24
+2960,Východné Slovensko,6.0,2025-01-25
+2961,Východné Slovensko,3.0,2025-01-26
+2962,Východné Slovensko,6.0,2025-01-27
+2963,Východné Slovensko,8.0,2025-01-28
+2964,Východné Slovensko,8.0,2025-01-29
+2965,Východné Slovensko,8.0,2025-01-30
+2966,Východné Slovensko,8.0,2025-01-31
+2967,Východné Slovensko,8.0,2025-02-01
+2968,Východné Slovensko,-2.55,2025-02-02
+2969,Východné Slovensko,1.45,2025-02-03
+2970,Southern Scotland,0.0,2025-01-20
+2971,Southern Scotland,5.0,2025-01-21
+2972,Southern Scotland,3.0,2025-01-22
+2973,Southern Scotland,-6.0,2025-01-23
+2974,Southern Scotland,-7.8,2025-01-24
+2975,Southern Scotland,0.05,2025-01-25
+2976,Southern Scotland,-5.95,2025-01-26
+2977,Southern Scotland,0.05,2025-01-27
+2978,Southern Scotland,-14.0,2025-01-28
+2979,Southern Scotland,-6.0,2025-01-29
+2980,Southern Scotland,-8.0,2025-01-30
+2981,Southern Scotland,0.0,2025-01-31
+2982,Southern Scotland,0.9,2025-02-01
+2983,Southern Scotland,2.9,2025-02-02
+2984,Southern Scotland,-4.0,2025-02-03
+2985,Basilicata,13.0,2025-01-20
+2986,Basilicata,1.0,2025-01-21
+2987,Basilicata,8.0,2025-01-22
+2988,Basilicata,13.0,2025-01-23
+2989,Basilicata,11.0,2025-01-24
+2990,Basilicata,13.0,2025-01-25
+2991,Basilicata,13.0,2025-01-26
+2992,Basilicata,13.0,2025-01-27
+2993,Basilicata,13.0,2025-01-28
+2994,Basilicata,13.0,2025-01-29
+2995,Basilicata,8.0,2025-01-30
+2996,Basilicata,2.0,2025-01-31
+2997,Basilicata,8.0,2025-02-01
+2998,Basilicata,13.0,2025-02-02
+2999,Basilicata,2.0,2025-02-03
+3000,Calabria,-1.0,2025-01-20
+3001,Calabria,1.0,2025-01-21
+3002,Calabria,13.0,2025-01-22
+3003,Calabria,13.0,2025-01-23
+3004,Calabria,8.0,2025-01-24
+3005,Calabria,13.0,2025-01-25
+3006,Calabria,18.0,2025-01-26
+3007,Calabria,13.0,2025-01-27
+3008,Calabria,13.0,2025-01-28
+3009,Calabria,13.0,2025-01-29
+3010,Calabria,13.0,2025-01-30
+3011,Calabria,7.0,2025-01-31
+3012,Calabria,13.0,2025-02-01
+3013,Calabria,13.0,2025-02-02
+3014,Calabria,10.0,2025-02-03
+3015,Západné Slovensko,1.0,2025-01-20
+3016,Západné Slovensko,0.45,2025-01-21
+3017,Západné Slovensko,-1.55,2025-01-22
+3018,Západné Slovensko,-3.4,2025-01-23
+3019,Západné Slovensko,3.0,2025-01-24
+3020,Západné Slovensko,-1.0,2025-01-25
+3021,Západné Slovensko,-1.0,2025-01-26
+3022,Západné Slovensko,5.0,2025-01-27
+3023,Západné Slovensko,7.0,2025-01-28
+3024,Západné Slovensko,6.0,2025-01-29
+3025,Západné Slovensko,8.0,2025-01-30
+3026,Západné Slovensko,8.0,2025-01-31
+3027,Západné Slovensko,8.0,2025-02-01
+3028,Západné Slovensko,0.0,2025-02-02
+3029,Západné Slovensko,4.0,2025-02-03
+3030,Rhône-Alpes,8.0,2025-01-20
+3031,Rhône-Alpes,8.0,2025-01-21
+3032,Rhône-Alpes,0.0,2025-01-22
+3033,Rhône-Alpes,-8.0,2025-01-23
+3034,Rhône-Alpes,2.0,2025-01-24
+3035,Rhône-Alpes,7.0,2025-01-25
+3036,Rhône-Alpes,1.75,2025-01-26
+3037,Rhône-Alpes,2.0,2025-01-27
+3038,Rhône-Alpes,-5.0,2025-01-28
+3039,Rhône-Alpes,0.9,2025-01-29
+3040,Rhône-Alpes,8.0,2025-01-30
+3041,Rhône-Alpes,11.0,2025-01-31
+3042,Rhône-Alpes,8.0,2025-02-01
+3043,Rhône-Alpes,8.0,2025-02-02
+3044,Rhône-Alpes,3.0,2025-02-03
+3045,Corse,5.0,2025-01-20
+3046,Corse,1.2,2025-01-21
+3047,Corse,-2.0,2025-01-22
+3048,Corse,10.0,2025-01-23
+3049,Corse,13.0,2025-01-24
+3050,Corse,6.0,2025-01-25
+3051,Corse,13.0,2025-01-26
+3052,Corse,8.0,2025-01-27
+3053,Corse,-2.0,2025-01-28
+3054,Corse,0.9,2025-01-29
+3055,Corse,8.0,2025-01-30
+3056,Corse,8.0,2025-01-31
+3057,Corse,10.0,2025-02-01
+3058,Corse,10.0,2025-02-02
+3059,Corse,8.0,2025-02-03
+3060,Alsace,12.0,2025-01-20
+3061,Alsace,16.0,2025-01-21
+3062,Alsace,18.0,2025-01-22
+3063,Alsace,18.0,2025-01-23
+3064,Alsace,18.0,2025-01-24
+3065,Alsace,0.0,2025-01-25
+3066,Alsace,6.0,2025-01-26
+3067,Alsace,8.0,2025-01-27
+3068,Alsace,10.0,2025-01-28
+3069,Alsace,16.0,2025-01-29
+3070,Alsace,18.0,2025-01-30
+3071,Alsace,18.0,2025-01-31
+3072,Alsace,18.0,2025-02-01
+3073,Alsace,18.0,2025-02-02
+3074,Alsace,16.0,2025-02-03
+3075,Västsverige,8.0,2025-01-20
+3076,Västsverige,0.05,2025-01-21
+3077,Västsverige,-4.0,2025-01-22
+3078,Västsverige,-5.35,2025-01-23
+3079,Västsverige,-2.8,2025-01-24
+3080,Västsverige,-6.8,2025-01-25
+3081,Västsverige,-4.25,2025-01-26
+3082,Västsverige,-5.95,2025-01-27
+3083,Västsverige,-6.0,2025-01-28
+3084,Västsverige,-6.0,2025-01-29
+3085,Västsverige,-1.0,2025-01-30
+3086,Västsverige,-4.0,2025-01-31
+3087,Västsverige,-3.0,2025-02-01
+3088,Västsverige,6.0,2025-02-02
+3089,Västsverige,8.0,2025-02-03
+3090,Nord-Pas de Calais,6.3,2025-01-20
+3091,Nord-Pas de Calais,6.0,2025-01-21
+3092,Nord-Pas de Calais,-2.5,2025-01-22
+3093,Nord-Pas de Calais,-5.0,2025-01-23
+3094,Nord-Pas de Calais,-5.0,2025-01-24
+3095,Nord-Pas de Calais,-1.0,2025-01-25
+3096,Nord-Pas de Calais,2.0,2025-01-26
+3097,Nord-Pas de Calais,-9.0,2025-01-27
+3098,Nord-Pas de Calais,-8.0,2025-01-28
+3099,Nord-Pas de Calais,-4.0,2025-01-29
+3100,Nord-Pas de Calais,2.0,2025-01-30
+3101,Nord-Pas de Calais,6.0,2025-01-31
+3102,Nord-Pas de Calais,8.0,2025-02-01
+3103,Nord-Pas de Calais,8.0,2025-02-02
+3104,Nord-Pas de Calais,8.0,2025-02-03
+3105,"Berkshire, Buckinghamshire and Oxfordshire",1.2,2025-01-20
+3106,"Berkshire, Buckinghamshire and Oxfordshire",6.0,2025-01-21
+3107,"Berkshire, Buckinghamshire and Oxfordshire",0.0,2025-01-22
+3108,"Berkshire, Buckinghamshire and Oxfordshire",-4.0,2025-01-23
+3109,"Berkshire, Buckinghamshire and Oxfordshire",-2.0,2025-01-24
+3110,"Berkshire, Buckinghamshire and Oxfordshire",-3.0,2025-01-25
+3111,"Berkshire, Buckinghamshire and Oxfordshire",-6.0,2025-01-26
+3112,"Berkshire, Buckinghamshire and Oxfordshire",-9.0,2025-01-27
+3113,"Berkshire, Buckinghamshire and Oxfordshire",-13.0,2025-01-28
+3114,"Berkshire, Buckinghamshire and Oxfordshire",-8.0,2025-01-29
+3115,"Berkshire, Buckinghamshire and Oxfordshire",-3.0,2025-01-30
+3116,"Berkshire, Buckinghamshire and Oxfordshire",7.0,2025-01-31
+3117,"Berkshire, Buckinghamshire and Oxfordshire",8.0,2025-02-01
+3118,"Berkshire, Buckinghamshire and Oxfordshire",13.0,2025-02-02
+3119,"Berkshire, Buckinghamshire and Oxfordshire",13.0,2025-02-03
+3120,Nyugat-Dunántúl,3.0,2025-01-20
+3121,Nyugat-Dunántúl,0.45,2025-01-21
+3122,Nyugat-Dunántúl,3.45,2025-01-22
+3123,Nyugat-Dunántúl,3.0,2025-01-23
+3124,Nyugat-Dunántúl,8.0,2025-01-24
+3125,Nyugat-Dunántúl,7.0,2025-01-25
+3126,Nyugat-Dunántúl,7.0,2025-01-26
+3127,Nyugat-Dunántúl,6.0,2025-01-27
+3128,Nyugat-Dunántúl,4.0,2025-01-28
+3129,Nyugat-Dunántúl,2.0,2025-01-29
+3130,Nyugat-Dunántúl,2.0,2025-01-30
+3131,Nyugat-Dunántúl,8.0,2025-01-31
+3132,Nyugat-Dunántúl,6.0,2025-02-01
+3133,Nyugat-Dunántúl,2.0,2025-02-02
+3134,Nyugat-Dunántúl,0.0,2025-02-03
+3135,Liguria,-9.0,2025-01-20
+3136,Liguria,-3.0,2025-01-21
+3137,Liguria,-3.0,2025-01-22
+3138,Liguria,-3.0,2025-01-23
+3139,Liguria,10.0,2025-01-24
+3140,Liguria,0.0,2025-01-25
+3141,Liguria,0.0,2025-01-26
+3142,Liguria,0.0,2025-01-27
+3143,Liguria,2.0,2025-01-28
+3144,Liguria,3.0,2025-01-29
+3145,Liguria,8.0,2025-01-30
+3146,Liguria,6.0,2025-01-31
+3147,Liguria,8.0,2025-02-01
+3148,Liguria,8.0,2025-02-02
+3149,Liguria,6.0,2025-02-03
+3150,Eastern Scotland,0.0,2025-01-20
+3151,Eastern Scotland,5.0,2025-01-21
+3152,Eastern Scotland,3.0,2025-01-22
+3153,Eastern Scotland,-6.0,2025-01-23
+3154,Eastern Scotland,-7.8,2025-01-24
+3155,Eastern Scotland,0.05,2025-01-25
+3156,Eastern Scotland,-5.95,2025-01-26
+3157,Eastern Scotland,0.05,2025-01-27
+3158,Eastern Scotland,-14.0,2025-01-28
+3159,Eastern Scotland,-6.0,2025-01-29
+3160,Eastern Scotland,-8.0,2025-01-30
+3161,Eastern Scotland,0.0,2025-01-31
+3162,Eastern Scotland,0.9,2025-02-01
+3163,Eastern Scotland,2.9,2025-02-02
+3164,Eastern Scotland,-4.0,2025-02-03
+3165,Panonska Hrvatska,6.0,2025-01-20
+3166,Panonska Hrvatska,3.75,2025-01-21
+3167,Panonska Hrvatska,8.0,2025-01-22
+3168,Panonska Hrvatska,-1.0,2025-01-23
+3169,Panonska Hrvatska,0.0,2025-01-24
+3170,Panonska Hrvatska,11.0,2025-01-25
+3171,Panonska Hrvatska,13.0,2025-01-26
+3172,Panonska Hrvatska,8.0,2025-01-27
+3173,Panonska Hrvatska,8.0,2025-01-28
+3174,Panonska Hrvatska,2.0,2025-01-29
+3175,Panonska Hrvatska,8.0,2025-01-30
+3176,Panonska Hrvatska,3.0,2025-01-31
+3177,Panonska Hrvatska,10.0,2025-02-01
+3178,Panonska Hrvatska,8.0,2025-02-02
+3179,Panonska Hrvatska,6.0,2025-02-03
+3180,La Réunion,-6.0,2025-01-20
+3181,La Réunion,7.0,2025-01-21
+3182,La Réunion,8.0,2025-01-22
+3183,La Réunion,7.0,2025-01-23
+3184,La Réunion,7.0,2025-01-24
+3185,La Réunion,9.0,2025-01-25
+3186,La Réunion,11.0,2025-01-26
+3187,La Réunion,10.0,2025-01-27
+3188,La Réunion,9.0,2025-01-28
+3189,La Réunion,9.0,2025-01-29
+3190,La Réunion,11.0,2025-01-30
+3191,La Réunion,9.0,2025-01-31
+3192,La Réunion,10.0,2025-02-01
+3193,La Réunion,8.0,2025-02-02
+3194,La Réunion,11.0,2025-02-03
+3195,Mayotte,-5.0,2025-01-20
+3196,Mayotte,11.0,2025-01-21
+3197,Mayotte,7.0,2025-01-22
+3198,Mayotte,7.0,2025-01-23
+3199,Mayotte,4.0,2025-01-24
+3200,Mayotte,4.0,2025-01-25
+3201,Mayotte,5.0,2025-01-26
+3202,Mayotte,4.0,2025-01-27
+3203,Mayotte,6.0,2025-01-28
+3204,Mayotte,5.0,2025-01-29
+3205,Mayotte,4.0,2025-01-30
+3206,Mayotte,4.0,2025-01-31
+3207,Mayotte,4.0,2025-02-01
+3208,Mayotte,-4.0,2025-02-02
+3209,Mayotte,4.0,2025-02-03
+3210,Podlaskie,3.0,2025-01-20
+3211,Podlaskie,6.0,2025-01-21
+3212,Podlaskie,0.45,2025-01-22
+3213,Podlaskie,-1.95,2025-01-23
+3214,Podlaskie,0.05,2025-01-24
+3215,Podlaskie,3.0,2025-01-25
+3216,Podlaskie,-3.0,2025-01-26
+3217,Podlaskie,1.0,2025-01-27
+3218,Podlaskie,6.0,2025-01-28
+3219,Podlaskie,8.0,2025-01-29
+3220,Podlaskie,3.0,2025-01-30
+3221,Podlaskie,8.0,2025-01-31
+3222,Podlaskie,2.0,2025-02-01
+3223,Podlaskie,-3.0,2025-02-02
+3224,Podlaskie,6.0,2025-02-03
+3225,Midi-Pyrénées,3.0,2025-01-20
+3226,Midi-Pyrénées,4.0,2025-01-21
+3227,Midi-Pyrénées,6.0,2025-01-22
+3228,Midi-Pyrénées,3.0,2025-01-23
+3229,Midi-Pyrénées,13.0,2025-01-24
+3230,Midi-Pyrénées,11.0,2025-01-25
+3231,Midi-Pyrénées,6.0,2025-01-26
+3232,Midi-Pyrénées,2.0,2025-01-27
+3233,Midi-Pyrénées,0.0,2025-01-28
+3234,Midi-Pyrénées,7.0,2025-01-29
+3235,Midi-Pyrénées,11.0,2025-01-30
+3236,Midi-Pyrénées,7.0,2025-01-31
+3237,Midi-Pyrénées,11.0,2025-02-01
+3238,Midi-Pyrénées,13.0,2025-02-02
+3239,Midi-Pyrénées,11.0,2025-02-03
+3240,Malta,4.0,2025-01-20
+3241,Malta,7.0,2025-01-21
+3242,Malta,18.0,2025-01-22
+3243,Malta,12.0,2025-01-23
+3244,Malta,12.0,2025-01-24
+3245,Malta,18.0,2025-01-25
+3246,Malta,18.0,2025-01-26
+3247,Malta,18.0,2025-01-27
+3248,Malta,12.0,2025-01-28
+3249,Malta,7.0,2025-01-29
+3250,Malta,6.0,2025-01-30
+3251,Malta,6.0,2025-01-31
+3252,Malta,1.0,2025-02-01
+3253,Malta,2.0,2025-02-02
+3254,Malta,2.0,2025-02-03
+3255,Flevoland,1.45,2025-01-20
+3256,Flevoland,3.45,2025-01-21
+3257,Flevoland,-2.5,2025-01-22
+3258,Flevoland,-6.0,2025-01-23
+3259,Flevoland,-6.0,2025-01-24
+3260,Flevoland,-6.0,2025-01-25
+3261,Flevoland,2.0,2025-01-26
+3262,Flevoland,-14.0,2025-01-27
+3263,Flevoland,-14.0,2025-01-28
+3264,Flevoland,-12.0,2025-01-29
+3265,Flevoland,2.0,2025-01-30
+3266,Flevoland,2.0,2025-01-31
+3267,Flevoland,6.0,2025-02-01
+3268,Flevoland,6.0,2025-02-02
+3269,Flevoland,8.0,2025-02-03
+3270,Utrecht,-0.8,2025-01-20
+3271,Utrecht,6.0,2025-01-21
+3272,Utrecht,-2.5,2025-01-22
+3273,Utrecht,-6.0,2025-01-23
+3274,Utrecht,-6.0,2025-01-24
+3275,Utrecht,-1.0,2025-01-25
+3276,Utrecht,2.0,2025-01-26
+3277,Utrecht,-1.0,2025-01-27
+3278,Utrecht,-8.0,2025-01-28
+3279,Utrecht,-3.0,2025-01-29
+3280,Utrecht,6.0,2025-01-30
+3281,Utrecht,6.0,2025-01-31
+3282,Utrecht,8.0,2025-02-01
+3283,Utrecht,8.0,2025-02-02
+3284,Utrecht,8.0,2025-02-03
+3285,Noord-Holland,-2.8,2025-01-20
+3286,Noord-Holland,4.0,2025-01-21
+3287,Noord-Holland,-1.65,2025-01-22
+3288,Noord-Holland,-6.0,2025-01-23
+3289,Noord-Holland,-6.0,2025-01-24
+3290,Noord-Holland,-6.0,2025-01-25
+3291,Noord-Holland,2.0,2025-01-26
+3292,Noord-Holland,-9.0,2025-01-27
+3293,Noord-Holland,-9.0,2025-01-28
+3294,Noord-Holland,-13.0,2025-01-29
+3295,Noord-Holland,2.0,2025-01-30
+3296,Noord-Holland,2.0,2025-01-31
+3297,Noord-Holland,6.0,2025-02-01
+3298,Noord-Holland,8.0,2025-02-02
+3299,Noord-Holland,8.0,2025-02-03
+3300,Észak-Magyarország,3.8,2025-01-20
+3301,Észak-Magyarország,4.6,2025-01-21
+3302,Észak-Magyarország,3.45,2025-01-22
+3303,Észak-Magyarország,0.05,2025-01-23
+3304,Észak-Magyarország,3.75,2025-01-24
+3305,Észak-Magyarország,8.0,2025-01-25
+3306,Észak-Magyarország,5.0,2025-01-26
+3307,Észak-Magyarország,8.0,2025-01-27
+3308,Észak-Magyarország,8.0,2025-01-28
+3309,Észak-Magyarország,11.0,2025-01-29
+3310,Észak-Magyarország,8.0,2025-01-30
+3311,Észak-Magyarország,6.0,2025-01-31
+3312,Észak-Magyarország,8.0,2025-02-01
+3313,Észak-Magyarország,2.0,2025-02-02
+3314,Észak-Magyarország,0.0,2025-02-03
+3315,Bucureşti-Ilfov,13.0,2025-01-20
+3316,Bucureşti-Ilfov,8.0,2025-01-21
+3317,Bucureşti-Ilfov,8.0,2025-01-22
+3318,Bucureşti-Ilfov,8.0,2025-01-23
+3319,Bucureşti-Ilfov,5.0,2025-01-24
+3320,Bucureşti-Ilfov,10.0,2025-01-25
+3321,Bucureşti-Ilfov,13.0,2025-01-26
+3322,Bucureşti-Ilfov,13.0,2025-01-27
+3323,Bucureşti-Ilfov,13.0,2025-01-28
+3324,Bucureşti-Ilfov,13.0,2025-01-29
+3325,Bucureşti-Ilfov,8.0,2025-01-30
+3326,Bucureşti-Ilfov,6.0,2025-01-31
+3327,Bucureşti-Ilfov,2.0,2025-02-01
+3328,Bucureşti-Ilfov,3.0,2025-02-02
+3329,Bucureşti-Ilfov,-1.0,2025-02-03
+3330,City of Belgrade,3.0,2025-01-20
+3331,City of Belgrade,4.6,2025-01-21
+3332,City of Belgrade,3.75,2025-01-22
+3333,City of Belgrade,7.0,2025-01-23
+3334,City of Belgrade,0.0,2025-01-24
+3335,City of Belgrade,13.0,2025-01-25
+3336,City of Belgrade,13.0,2025-01-26
+3337,City of Belgrade,13.0,2025-01-27
+3338,City of Belgrade,13.0,2025-01-28
+3339,City of Belgrade,13.0,2025-01-29
+3340,City of Belgrade,8.0,2025-01-30
+3341,City of Belgrade,8.0,2025-01-31
+3342,City of Belgrade,8.0,2025-02-01
+3343,City of Belgrade,-1.0,2025-02-02
+3344,City of Belgrade,4.0,2025-02-03
+3345,Valle d’Aosta/Vallée d’Aoste,-7.35,2025-01-20
+3346,Valle d’Aosta/Vallée d’Aoste,5.9,2025-01-21
+3347,Valle d’Aosta/Vallée d’Aoste,5.5,2025-01-22
+3348,Valle d’Aosta/Vallée d’Aoste,-1.65,2025-01-23
+3349,Valle d’Aosta/Vallée d’Aoste,6.0,2025-01-24
+3350,Valle d’Aosta/Vallée d’Aoste,6.5,2025-01-25
+3351,Valle d’Aosta/Vallée d’Aoste,0.05,2025-01-26
+3352,Valle d’Aosta/Vallée d’Aoste,6.6,2025-01-27
+3353,Valle d’Aosta/Vallée d’Aoste,0.05,2025-01-28
+3354,Valle d’Aosta/Vallée d’Aoste,0.9,2025-01-29
+3355,Valle d’Aosta/Vallée d’Aoste,6.0,2025-01-30
+3356,Valle d’Aosta/Vallée d’Aoste,8.0,2025-01-31
+3357,Valle d’Aosta/Vallée d’Aoste,6.0,2025-02-01
+3358,Valle d’Aosta/Vallée d’Aoste,8.0,2025-02-02
+3359,Valle d’Aosta/Vallée d’Aoste,6.0,2025-02-03
+3360,Zuid-Holland,1.45,2025-01-20
+3361,Zuid-Holland,3.0,2025-01-21
+3362,Zuid-Holland,-2.5,2025-01-22
+3363,Zuid-Holland,-2.0,2025-01-23
+3364,Zuid-Holland,-6.0,2025-01-24
+3365,Zuid-Holland,-6.0,2025-01-25
+3366,Zuid-Holland,2.0,2025-01-26
+3367,Zuid-Holland,-1.0,2025-01-27
+3368,Zuid-Holland,-8.0,2025-01-28
+3369,Zuid-Holland,-4.0,2025-01-29
+3370,Zuid-Holland,6.0,2025-01-30
+3371,Zuid-Holland,6.0,2025-01-31
+3372,Zuid-Holland,8.0,2025-02-01
+3373,Zuid-Holland,8.0,2025-02-02
+3374,Zuid-Holland,8.0,2025-02-03
+3375,Abruzzo,3.0,2025-01-20
+3376,Abruzzo,5.0,2025-01-21
+3377,Abruzzo,13.0,2025-01-22
+3378,Abruzzo,10.0,2025-01-23
+3379,Abruzzo,13.0,2025-01-24
+3380,Abruzzo,13.0,2025-01-25
+3381,Abruzzo,13.0,2025-01-26
+3382,Abruzzo,13.0,2025-01-27
+3383,Abruzzo,13.0,2025-01-28
+3384,Abruzzo,3.0,2025-01-29
+3385,Abruzzo,3.0,2025-01-30
+3386,Abruzzo,8.0,2025-01-31
+3387,Abruzzo,8.0,2025-02-01
+3388,Abruzzo,8.0,2025-02-02
+3389,Abruzzo,8.0,2025-02-03
+3390,Jadranska Hrvatska,6.0,2025-01-20
+3391,Jadranska Hrvatska,3.75,2025-01-21
+3392,Jadranska Hrvatska,8.0,2025-01-22
+3393,Jadranska Hrvatska,-1.0,2025-01-23
+3394,Jadranska Hrvatska,0.0,2025-01-24
+3395,Jadranska Hrvatska,11.0,2025-01-25
+3396,Jadranska Hrvatska,13.0,2025-01-26
+3397,Jadranska Hrvatska,8.0,2025-01-27
+3398,Jadranska Hrvatska,8.0,2025-01-28
+3399,Jadranska Hrvatska,2.0,2025-01-29
+3400,Jadranska Hrvatska,8.0,2025-01-30
+3401,Jadranska Hrvatska,3.0,2025-01-31
+3402,Jadranska Hrvatska,10.0,2025-02-01
+3403,Jadranska Hrvatska,8.0,2025-02-02
+3404,Jadranska Hrvatska,6.0,2025-02-03
+3405,Eastern and Midland,-1.0,2025-01-20
+3406,Eastern and Midland,3.0,2025-01-21
+3407,Eastern and Midland,8.0,2025-01-22
+3408,Eastern and Midland,-5.0,2025-01-23
+3409,Eastern and Midland,-1.0,2025-01-24
+3410,Eastern and Midland,-3.1,2025-01-25
+3411,Eastern and Midland,-5.95,2025-01-26
+3412,Eastern and Midland,-1.0,2025-01-27
+3413,Eastern and Midland,-8.0,2025-01-28
+3414,Eastern and Midland,-13.0,2025-01-29
+3415,Eastern and Midland,-5.0,2025-01-30
+3416,Eastern and Midland,1.0,2025-01-31
+3417,Eastern and Midland,8.0,2025-02-01
+3418,Eastern and Midland,8.0,2025-02-02
+3419,Eastern and Midland,7.0,2025-02-03
+3420,Shropshire and Staffordshire,-1.0,2025-01-20
+3421,Shropshire and Staffordshire,-1.0,2025-01-21
+3422,Shropshire and Staffordshire,3.75,2025-01-22
+3423,Shropshire and Staffordshire,-5.0,2025-01-23
+3424,Shropshire and Staffordshire,-7.0,2025-01-24
+3425,Shropshire and Staffordshire,-3.0,2025-01-25
+3426,Shropshire and Staffordshire,-6.8,2025-01-26
+3427,Shropshire and Staffordshire,-7.8,2025-01-27
+3428,Shropshire and Staffordshire,-14.0,2025-01-28
+3429,Shropshire and Staffordshire,-13.0,2025-01-29
+3430,Shropshire and Staffordshire,-4.0,2025-01-30
+3431,Shropshire and Staffordshire,4.0,2025-01-31
+3432,Shropshire and Staffordshire,8.0,2025-02-01
+3433,Shropshire and Staffordshire,3.0,2025-02-02
+3434,Shropshire and Staffordshire,8.0,2025-02-03
+3435,Molise,13.0,2025-01-20
+3436,Molise,6.0,2025-01-21
+3437,Molise,10.0,2025-01-22
+3438,Molise,13.0,2025-01-23
+3439,Molise,13.0,2025-01-24
+3440,Molise,13.0,2025-01-25
+3441,Molise,13.0,2025-01-26
+3442,Molise,13.0,2025-01-27
+3443,Molise,13.0,2025-01-28
+3444,Molise,8.0,2025-01-29
+3445,Molise,3.0,2025-01-30
+3446,Molise,3.0,2025-01-31
+3447,Molise,8.0,2025-02-01
+3448,Molise,13.0,2025-02-02
+3449,Molise,6.0,2025-02-03
+3450,Warszawski stołeczny,6.0,2025-01-20
+3451,Warszawski stołeczny,6.0,2025-01-21
+3452,Warszawski stołeczny,3.0,2025-01-22
+3453,Warszawski stołeczny,1.0,2025-01-23
+3454,Warszawski stołeczny,1.0,2025-01-24
+3455,Warszawski stołeczny,3.0,2025-01-25
+3456,Warszawski stołeczny,6.0,2025-01-26
+3457,Warszawski stołeczny,5.0,2025-01-27
+3458,Warszawski stołeczny,8.0,2025-01-28
+3459,Warszawski stołeczny,8.0,2025-01-29
+3460,Warszawski stołeczny,6.0,2025-01-30
+3461,Warszawski stołeczny,8.0,2025-01-31
+3462,Warszawski stołeczny,1.0,2025-02-01
+3463,Warszawski stołeczny,0.0,2025-02-02
+3464,Warszawski stołeczny,6.0,2025-02-03
+3465,Pays de la Loire,4.0,2025-01-20
+3466,Pays de la Loire,2.0,2025-01-21
+3467,Pays de la Loire,1.0,2025-01-22
+3468,Pays de la Loire,-2.0,2025-01-23
+3469,Pays de la Loire,1.0,2025-01-24
+3470,Pays de la Loire,-1.0,2025-01-25
+3471,Pays de la Loire,-5.0,2025-01-26
+3472,Pays de la Loire,-9.0,2025-01-27
+3473,Pays de la Loire,-8.0,2025-01-28
+3474,Pays de la Loire,-4.0,2025-01-29
+3475,Pays de la Loire,6.0,2025-01-30
+3476,Pays de la Loire,11.0,2025-01-31
+3477,Pays de la Loire,13.0,2025-02-01
+3478,Pays de la Loire,11.0,2025-02-02
+3479,Pays de la Loire,6.0,2025-02-03
+3480,Sud-Vest Oltenia,8.0,2025-01-20
+3481,Sud-Vest Oltenia,5.45,2025-01-21
+3482,Sud-Vest Oltenia,6.0,2025-01-22
+3483,Sud-Vest Oltenia,8.0,2025-01-23
+3484,Sud-Vest Oltenia,-1.0,2025-01-24
+3485,Sud-Vest Oltenia,11.0,2025-01-25
+3486,Sud-Vest Oltenia,13.0,2025-01-26
+3487,Sud-Vest Oltenia,13.0,2025-01-27
+3488,Sud-Vest Oltenia,13.0,2025-01-28
+3489,Sud-Vest Oltenia,15.0,2025-01-29
+3490,Sud-Vest Oltenia,13.0,2025-01-30
+3491,Sud-Vest Oltenia,8.0,2025-01-31
+3492,Sud-Vest Oltenia,6.0,2025-02-01
+3493,Sud-Vest Oltenia,-1.0,2025-02-02
+3494,Sud-Vest Oltenia,1.45,2025-02-03
+3495,Lombardia,-2.0,2025-01-20
+3496,Lombardia,0.0,2025-01-21
+3497,Lombardia,0.0,2025-01-22
+3498,Lombardia,-1.0,2025-01-23
+3499,Lombardia,10.0,2025-01-24
+3500,Lombardia,5.0,2025-01-25
+3501,Lombardia,0.0,2025-01-26
+3502,Lombardia,6.0,2025-01-27
+3503,Lombardia,3.0,2025-01-28
+3504,Lombardia,3.0,2025-01-29
+3505,Lombardia,13.0,2025-01-30
+3506,Lombardia,15.0,2025-01-31
+3507,Lombardia,8.0,2025-02-01
+3508,Lombardia,13.0,2025-02-02
+3509,Lombardia,8.0,2025-02-03
+3510,Campania,18.0,2025-01-20
+3511,Campania,3.0,2025-01-21
+3512,Campania,5.0,2025-01-22
+3513,Campania,13.0,2025-01-23
+3514,Campania,13.0,2025-01-24
+3515,Campania,13.0,2025-01-25
+3516,Campania,15.0,2025-01-26
+3517,Campania,15.0,2025-01-27
+3518,Campania,13.0,2025-01-28
+3519,Campania,13.0,2025-01-29
+3520,Campania,13.0,2025-01-30
+3521,Campania,13.0,2025-01-31
+3522,Campania,13.0,2025-02-01
+3523,Campania,13.0,2025-02-02
+3524,Campania,11.0,2025-02-03
+3525,Piemonte,-3.0,2025-01-20
+3526,Piemonte,0.0,2025-01-21
+3527,Piemonte,3.0,2025-01-22
+3528,Piemonte,4.0,2025-01-23
+3529,Piemonte,10.0,2025-01-24
+3530,Piemonte,10.0,2025-01-25
+3531,Piemonte,4.0,2025-01-26
+3532,Piemonte,10.0,2025-01-27
+3533,Piemonte,2.0,2025-01-28
+3534,Piemonte,3.0,2025-01-29
+3535,Piemonte,13.0,2025-01-30
+3536,Piemonte,10.0,2025-01-31
+3537,Piemonte,15.0,2025-02-01
+3538,Piemonte,13.0,2025-02-02
+3539,Piemonte,8.0,2025-02-03
+3540,Dél-Dunántúl,3.8,2025-01-20
+3541,Dél-Dunántúl,2.45,2025-01-21
+3542,Dél-Dunántúl,3.45,2025-01-22
+3543,Dél-Dunántúl,3.45,2025-01-23
+3544,Dél-Dunántúl,5.0,2025-01-24
+3545,Dél-Dunántúl,8.0,2025-01-25
+3546,Dél-Dunántúl,5.0,2025-01-26
+3547,Dél-Dunántúl,8.0,2025-01-27
+3548,Dél-Dunántúl,8.0,2025-01-28
+3549,Dél-Dunántúl,5.0,2025-01-29
+3550,Dél-Dunántúl,8.0,2025-01-30
+3551,Dél-Dunántúl,10.0,2025-01-31
+3552,Dél-Dunántúl,8.0,2025-02-01
+3553,Dél-Dunántúl,6.0,2025-02-02
+3554,Dél-Dunántúl,6.0,2025-02-03
+3555,Essex,6.0,2025-01-20
+3556,Essex,6.0,2025-01-21
+3557,Essex,-3.0,2025-01-22
+3558,Essex,-3.0,2025-01-23
+3559,Essex,-2.0,2025-01-24
+3560,Essex,0.0,2025-01-25
+3561,Essex,-6.0,2025-01-26
+3562,Essex,-9.0,2025-01-27
+3563,Essex,-12.0,2025-01-28
+3564,Essex,-12.0,2025-01-29
+3565,Essex,2.0,2025-01-30
+3566,Essex,2.0,2025-01-31
+3567,Essex,8.0,2025-02-01
+3568,Essex,8.0,2025-02-02
+3569,Essex,13.0,2025-02-03
+3570,Guyane,10.0,2025-01-20
+3571,Guyane,2.0,2025-01-21
+3572,Guyane,10.0,2025-01-22
+3573,Guyane,7.0,2025-01-23
+3574,Guyane,7.0,2025-01-24
+3575,Guyane,8.0,2025-01-25
+3576,Guyane,9.0,2025-01-26
+3577,Guyane,9.0,2025-01-27
+3578,Guyane,10.0,2025-01-28
+3579,Guyane,10.0,2025-01-29
+3580,Guyane,3.0,2025-01-30
+3581,Guyane,10.0,2025-01-31
+3582,Guyane,3.0,2025-02-01
+3583,Guyane,12.0,2025-02-02
+3584,Guyane,4.0,2025-02-03
+3585,Vest,1.0,2025-01-20
+3586,Vest,3.0,2025-01-21
+3587,Vest,5.0,2025-01-22
+3588,Vest,6.0,2025-01-23
+3589,Vest,3.0,2025-01-24
+3590,Vest,6.0,2025-01-25
+3591,Vest,0.9,2025-01-26
+3592,Vest,0.05,2025-01-27
+3593,Vest,1.05,2025-01-28
+3594,Vest,2.0,2025-01-29
+3595,Vest,6.0,2025-01-30
+3596,Vest,1.0,2025-01-31
+3597,Vest,3.0,2025-02-01
+3598,Vest,3.45,2025-02-02
+3599,Vest,8.5,2025-02-03
+3600,Champagne-Ardenne,6.0,2025-01-20
+3601,Champagne-Ardenne,8.0,2025-01-21
+3602,Champagne-Ardenne,-4.0,2025-01-22
+3603,Champagne-Ardenne,-6.0,2025-01-23
+3604,Champagne-Ardenne,-3.0,2025-01-24
+3605,Champagne-Ardenne,0.0,2025-01-25
+3606,Champagne-Ardenne,-4.0,2025-01-26
+3607,Champagne-Ardenne,-5.0,2025-01-27
+3608,Champagne-Ardenne,-13.0,2025-01-28
+3609,Champagne-Ardenne,-5.0,2025-01-29
+3610,Champagne-Ardenne,3.0,2025-01-30
+3611,Champagne-Ardenne,13.0,2025-01-31
+3612,Champagne-Ardenne,8.0,2025-02-01
+3613,Champagne-Ardenne,8.0,2025-02-02
+3614,Champagne-Ardenne,6.0,2025-02-03
+3615,Pest,3.8,2025-01-20
+3616,Pest,5.0,2025-01-21
+3617,Pest,6.0,2025-01-22
+3618,Pest,3.45,2025-01-23
+3619,Pest,5.0,2025-01-24
+3620,Pest,8.0,2025-01-25
+3621,Pest,5.0,2025-01-26
+3622,Pest,8.0,2025-01-27
+3623,Pest,8.0,2025-01-28
+3624,Pest,5.0,2025-01-29
+3625,Pest,8.0,2025-01-30
+3626,Pest,8.0,2025-01-31
+3627,Pest,8.0,2025-02-01
+3628,Pest,6.0,2025-02-02
+3629,Pest,6.0,2025-02-03
+3630,West Wales and The Valleys,1.0,2025-01-20
+3631,West Wales and The Valleys,3.0,2025-01-21
+3632,West Wales and The Valleys,3.0,2025-01-22
+3633,West Wales and The Valleys,3.0,2025-01-23
+3634,West Wales and The Valleys,3.0,2025-01-24
+3635,West Wales and The Valleys,-2.4,2025-01-25
+3636,West Wales and The Valleys,1.5,2025-01-26
+3637,West Wales and The Valleys,3.0,2025-01-27
+3638,West Wales and The Valleys,3.0,2025-01-28
+3639,West Wales and The Valleys,3.0,2025-01-29
+3640,West Wales and The Valleys,3.0,2025-01-30
+3641,West Wales and The Valleys,3.5,2025-01-31
+3642,West Wales and The Valleys,3.5,2025-02-01
+3643,West Wales and The Valleys,3.5,2025-02-02
+3644,West Wales and The Valleys,3.5,2025-02-03
+3645,Provence-Alpes-Côte d’Azur,0.0,2025-01-20
+3646,Provence-Alpes-Côte d’Azur,3.0,2025-01-21
+3647,Provence-Alpes-Côte d’Azur,-3.0,2025-01-22
+3648,Provence-Alpes-Côte d’Azur,6.0,2025-01-23
+3649,Provence-Alpes-Côte d’Azur,13.0,2025-01-24
+3650,Provence-Alpes-Côte d’Azur,13.0,2025-01-25
+3651,Provence-Alpes-Côte d’Azur,6.0,2025-01-26
+3652,Provence-Alpes-Côte d’Azur,13.0,2025-01-27
+3653,Provence-Alpes-Côte d’Azur,3.0,2025-01-28
+3654,Provence-Alpes-Côte d’Azur,8.0,2025-01-29
+3655,Provence-Alpes-Côte d’Azur,13.0,2025-01-30
+3656,Provence-Alpes-Côte d’Azur,13.0,2025-01-31
+3657,Provence-Alpes-Côte d’Azur,13.0,2025-02-01
+3658,Provence-Alpes-Côte d’Azur,13.0,2025-02-02
+3659,Provence-Alpes-Côte d’Azur,13.0,2025-02-03
+3660,Ísland,-6.9,2025-01-20
+3661,Ísland,-10.1,2025-01-21
+3662,Ísland,-2.0,2025-01-22
+3663,Ísland,-10.3,2025-01-23
+3664,Ísland,-10.2,2025-01-24
+3665,Ísland,-10.1,2025-01-25
+3666,Ísland,3.8,2025-01-26
+3667,Ísland,-1.3,2025-01-27
+3668,Ísland,-1.3,2025-01-28
+3669,Ísland,-1.3,2025-01-29
+3670,Ísland,-2.0,2025-01-30
+3671,Ísland,-1.3,2025-01-31
+3672,Ísland,-13.95,2025-02-01
+3673,Ísland,-10.2,2025-02-02
+3674,Ísland,-17.8,2025-02-03
+3675,Guadeloupe,2.0,2025-01-20
+3676,Guadeloupe,4.0,2025-01-21
+3677,Guadeloupe,1.0,2025-01-22
+3678,Guadeloupe,1.0,2025-01-23
+3679,Guadeloupe,3.0,2025-01-24
+3680,Guadeloupe,5.0,2025-01-25
+3681,Guadeloupe,4.0,2025-01-26
+3682,Guadeloupe,4.0,2025-01-27
+3683,Guadeloupe,4.0,2025-01-28
+3684,Guadeloupe,4.0,2025-01-29
+3685,Guadeloupe,4.0,2025-01-30
+3686,Guadeloupe,4.0,2025-01-31
+3687,Guadeloupe,4.0,2025-02-01
+3688,Guadeloupe,4.0,2025-02-02
+3689,Guadeloupe,4.0,2025-02-03
+3690,Martinique,2.0,2025-01-20
+3691,Martinique,2.0,2025-01-21
+3692,Martinique,1.0,2025-01-22
+3693,Martinique,1.0,2025-01-23
+3694,Martinique,3.0,2025-01-24
+3695,Martinique,4.0,2025-01-25
+3696,Martinique,3.0,2025-01-26
+3697,Martinique,4.0,2025-01-27
+3698,Martinique,4.0,2025-01-28
+3699,Martinique,4.0,2025-01-29
+3700,Martinique,4.0,2025-01-30
+3701,Martinique,4.0,2025-01-31
+3702,Martinique,5.0,2025-02-01
+3703,Martinique,5.0,2025-02-02
+3704,Martinique,4.0,2025-02-03
+3705,Aquitaine,10.0,2025-01-20
+3706,Aquitaine,3.0,2025-01-21
+3707,Aquitaine,-2.0,2025-01-22
+3708,Aquitaine,3.0,2025-01-23
+3709,Aquitaine,8.0,2025-01-24
+3710,Aquitaine,-2.0,2025-01-25
+3711,Aquitaine,-1.0,2025-01-26
+3712,Aquitaine,0.0,2025-01-27
+3713,Aquitaine,-6.0,2025-01-28
+3714,Aquitaine,4.0,2025-01-29
+3715,Aquitaine,11.0,2025-01-30
+3716,Aquitaine,11.0,2025-01-31
+3717,Aquitaine,13.0,2025-02-01
+3718,Aquitaine,13.0,2025-02-02
+3719,Aquitaine,8.0,2025-02-03
+3720,Lorraine,-3.0,2025-01-20
+3721,Lorraine,-3.0,2025-01-21
+3722,Lorraine,0.0,2025-01-22
+3723,Lorraine,0.0,2025-01-23
+3724,Lorraine,4.0,2025-01-24
+3725,Lorraine,0.0,2025-01-25
+3726,Lorraine,3.0,2025-01-26
+3727,Lorraine,4.0,2025-01-27
+3728,Lorraine,0.0,2025-01-28
+3729,Lorraine,6.0,2025-01-29
+3730,Lorraine,-1.0,2025-01-30
+3731,Lorraine,2.0,2025-01-31
+3732,Lorraine,3.0,2025-02-01
+3733,Lorraine,2.0,2025-02-02
+3734,Lorraine,0.3,2025-02-03
+3735,Franche-Comté,3.0,2025-01-20
+3736,Franche-Comté,6.0,2025-01-21
+3737,Franche-Comté,-3.0,2025-01-22
+3738,Franche-Comté,-2.0,2025-01-23
+3739,Franche-Comté,0.0,2025-01-24
+3740,Franche-Comté,0.0,2025-01-25
+3741,Franche-Comté,1.0,2025-01-26
+3742,Franche-Comté,-1.0,2025-01-27
+3743,Franche-Comté,0.0,2025-01-28
+3744,Franche-Comté,-4.0,2025-01-29
+3745,Franche-Comté,8.0,2025-01-30
+3746,Franche-Comté,13.0,2025-01-31
+3747,Franche-Comté,13.0,2025-02-01
+3748,Franche-Comté,8.0,2025-02-02
+3749,Franche-Comté,8.0,2025-02-03
+3750,Budapest,3.8,2025-01-20
+3751,Budapest,5.0,2025-01-21
+3752,Budapest,6.0,2025-01-22
+3753,Budapest,3.45,2025-01-23
+3754,Budapest,5.0,2025-01-24
+3755,Budapest,8.0,2025-01-25
+3756,Budapest,5.0,2025-01-26
+3757,Budapest,8.0,2025-01-27
+3758,Budapest,8.0,2025-01-28
+3759,Budapest,8.0,2025-01-29
+3760,Budapest,8.0,2025-01-30
+3761,Budapest,8.0,2025-01-31
+3762,Budapest,8.0,2025-02-01
+3763,Budapest,6.0,2025-02-02
+3764,Budapest,6.0,2025-02-03
+3765,Marche,-1.0,2025-01-20
+3766,Marche,1.0,2025-01-21
+3767,Marche,2.0,2025-01-22
+3768,Marche,1.0,2025-01-23
+3769,Marche,8.0,2025-01-24
+3770,Marche,13.0,2025-01-25
+3771,Marche,13.0,2025-01-26
+3772,Marche,10.0,2025-01-27
+3773,Marche,13.0,2025-01-28
+3774,Marche,7.0,2025-01-29
+3775,Marche,3.0,2025-01-30
+3776,Marche,8.0,2025-01-31
+3777,Marche,8.0,2025-02-01
+3778,Marche,13.0,2025-02-02
+3779,Marche,8.0,2025-02-03
+3780,Liechtenstein,4.0,2025-01-20
+3781,Liechtenstein,4.0,2025-01-21
+3782,Liechtenstein,2.0,2025-01-22
+3783,Liechtenstein,-4.8,2025-01-23
+3784,Liechtenstein,2.0,2025-01-24
+3785,Liechtenstein,2.0,2025-01-25
+3786,Liechtenstein,3.75,2025-01-26
+3787,Liechtenstein,1.75,2025-01-27
+3788,Liechtenstein,-0.25,2025-01-28
+3789,Liechtenstein,6.6,2025-01-29
+3790,Liechtenstein,2.9,2025-01-30
+3791,Liechtenstein,2.05,2025-01-31
+3792,Liechtenstein,8.0,2025-02-01
+3793,Liechtenstein,6.0,2025-02-02
+3794,Liechtenstein,6.0,2025-02-03
+3795,Auvergne,-8.0,2025-01-20
+3796,Auvergne,-3.0,2025-01-21
+3797,Auvergne,-2.4,2025-01-22
+3798,Auvergne,-3.0,2025-01-23
+3799,Auvergne,-3.0,2025-01-24
+3800,Auvergne,-3.0,2025-01-25
+3801,Auvergne,-3.0,2025-01-26
+3802,Auvergne,-3.0,2025-01-27
+3803,Auvergne,-3.0,2025-01-28
+3804,Auvergne,-2.7,2025-01-29
+3805,Auvergne,0.0,2025-01-30
+3806,Auvergne,0.0,2025-01-31
+3807,Auvergne,0.3,2025-02-01
+3808,Auvergne,0.3,2025-02-02
+3809,Auvergne,0.3,2025-02-03
+3810,Bourgogne,6.0,2025-01-20
+3811,Bourgogne,6.0,2025-01-21
+3812,Bourgogne,-3.0,2025-01-22
+3813,Bourgogne,-2.0,2025-01-23
+3814,Bourgogne,-1.0,2025-01-24
+3815,Bourgogne,-1.0,2025-01-25
+3816,Bourgogne,2.0,2025-01-26
+3817,Bourgogne,-5.0,2025-01-27
+3818,Bourgogne,-9.0,2025-01-28
+3819,Bourgogne,-4.0,2025-01-29
+3820,Bourgogne,6.0,2025-01-30
+3821,Bourgogne,8.0,2025-01-31
+3822,Bourgogne,8.0,2025-02-01
+3823,Bourgogne,8.0,2025-02-02
+3824,Bourgogne,8.0,2025-02-03
+3825,Sostinės regionas,0.0,2025-01-20
+3826,Sostinės regionas,1.75,2025-01-21
+3827,Sostinės regionas,0.9,2025-01-22
+3828,Sostinės regionas,-4.5,2025-01-23
+3829,Sostinės regionas,-1.0,2025-01-24
+3830,Sostinės regionas,-7.0,2025-01-25
+3831,Sostinės regionas,0.0,2025-01-26
+3832,Sostinės regionas,-6.0,2025-01-27
+3833,Sostinės regionas,-13.0,2025-01-28
+3834,Sostinės regionas,-3.0,2025-01-29
+3835,Sostinės regionas,1.0,2025-01-30
+3836,Sostinės regionas,2.0,2025-01-31
+3837,Sostinės regionas,2.0,2025-02-01
+3838,Sostinės regionas,8.0,2025-02-02
+3839,Sostinės regionas,6.0,2025-02-03
+3840,Overijssel,3.0,2025-01-20
+3841,Overijssel,3.0,2025-01-21
+3842,Overijssel,-2.5,2025-01-22
+3843,Overijssel,-7.0,2025-01-23
+3844,Overijssel,-6.0,2025-01-24
+3845,Overijssel,-6.0,2025-01-25
+3846,Overijssel,2.0,2025-01-26
+3847,Overijssel,-6.0,2025-01-27
+3848,Overijssel,-8.0,2025-01-28
+3849,Overijssel,-3.0,2025-01-29
+3850,Overijssel,-3.0,2025-01-30
+3851,Overijssel,6.0,2025-01-31
+3852,Overijssel,8.0,2025-02-01
+3853,Overijssel,8.0,2025-02-02
+3854,Overijssel,8.0,2025-02-03
+3855,Languedoc-Roussillon,3.0,2025-01-20
+3856,Languedoc-Roussillon,4.0,2025-01-21
+3857,Languedoc-Roussillon,-1.0,2025-01-22
+3858,Languedoc-Roussillon,11.0,2025-01-23
+3859,Languedoc-Roussillon,4.0,2025-01-24
+3860,Languedoc-Roussillon,0.0,2025-01-25
+3861,Languedoc-Roussillon,0.0,2025-01-26
+3862,Languedoc-Roussillon,11.0,2025-01-27
+3863,Languedoc-Roussillon,2.0,2025-01-28
+3864,Languedoc-Roussillon,7.0,2025-01-29
+3865,Languedoc-Roussillon,13.0,2025-01-30
+3866,Languedoc-Roussillon,6.0,2025-01-31
+3867,Languedoc-Roussillon,13.0,2025-02-01
+3868,Languedoc-Roussillon,18.0,2025-02-02
+3869,Languedoc-Roussillon,13.0,2025-02-03
+3870,Övre Norrland,1.9,2025-01-20
+3871,Övre Norrland,-1.9,2025-01-21
+3872,Övre Norrland,2.0,2025-01-22
+3873,Övre Norrland,-1.4,2025-01-23
+3874,Övre Norrland,-2.2,2025-01-24
+3875,Övre Norrland,-7.65,2025-01-25
+3876,Övre Norrland,0.0,2025-01-26
+3877,Övre Norrland,-4.25,2025-01-27
+3878,Övre Norrland,-4.25,2025-01-28
+3879,Övre Norrland,-4.25,2025-01-29
+3880,Övre Norrland,-5.0,2025-01-30
+3881,Övre Norrland,-4.25,2025-01-31
+3882,Övre Norrland,-13.0,2025-02-01
+3883,Övre Norrland,0.0,2025-02-02
+3884,Övre Norrland,0.0,2025-02-03
+3885,Northern Ireland,5.0,2025-01-20
+3886,Northern Ireland,5.0,2025-01-21
+3887,Northern Ireland,3.0,2025-01-22
+3888,Northern Ireland,-5.65,2025-01-23
+3889,Northern Ireland,-7.8,2025-01-24
+3890,Northern Ireland,-5.1,2025-01-25
+3891,Northern Ireland,0.05,2025-01-26
+3892,Northern Ireland,-4.8,2025-01-27
+3893,Northern Ireland,-4.8,2025-01-28
+3894,Northern Ireland,-6.0,2025-01-29
+3895,Northern Ireland,1.0,2025-01-30
+3896,Northern Ireland,2.0,2025-01-31
+3897,Northern Ireland,8.0,2025-02-01
+3898,Northern Ireland,3.0,2025-02-02
+3899,Northern Ireland,-3.0,2025-02-03
+3900,Puglia,4.0,2025-01-20
+3901,Puglia,5.0,2025-01-21
+3902,Puglia,13.0,2025-01-22
+3903,Puglia,11.0,2025-01-23
+3904,Puglia,11.0,2025-01-24
+3905,Puglia,18.0,2025-01-25
+3906,Puglia,13.0,2025-01-26
+3907,Puglia,13.0,2025-01-27
+3908,Puglia,13.0,2025-01-28
+3909,Puglia,13.0,2025-01-29
+3910,Puglia,11.0,2025-01-30
+3911,Puglia,6.0,2025-01-31
+3912,Puglia,11.0,2025-02-01
+3913,Puglia,7.0,2025-02-02
+3914,Puglia,2.0,2025-02-03
+3915,Northern and Western,5.0,2025-01-20
+3916,Northern and Western,5.0,2025-01-21
+3917,Northern and Western,3.0,2025-01-22
+3918,Northern and Western,-6.5,2025-01-23
+3919,Northern and Western,-7.8,2025-01-24
+3920,Northern and Western,-6.8,2025-01-25
+3921,Northern and Western,-0.8,2025-01-26
+3922,Northern and Western,-5.65,2025-01-27
+3923,Northern and Western,-7.8,2025-01-28
+3924,Northern and Western,-6.0,2025-01-29
+3925,Northern and Western,0.0,2025-01-30
+3926,Northern and Western,2.0,2025-01-31
+3927,Northern and Western,8.0,2025-02-01
+3928,Northern and Western,5.0,2025-02-02
+3929,Northern and Western,1.0,2025-02-03
+3930,Southern,12.0,2025-01-21
+3931,Southern,9.0,2025-01-22
+3932,Southern,12.0,2025-01-23
+3933,Southern,12.0,2025-01-24
+3934,Southern,1.0,2025-01-25
+3935,Southern,4.0,2025-01-26
+3936,Southern,12.0,2025-01-27
+3937,Southern,9.0,2025-01-28
+3938,Southern,12.0,2025-01-29
+3939,Southern,9.0,2025-01-30
+3940,Southern,9.0,2025-01-31
+3941,Southern,9.0,2025-02-01
+3942,Southern,7.0,2025-02-02
+3943,Southern,6.0,2025-02-03
+3944,Southern,7.0,2025-02-04
+3945,Tees Valley and Durham,-8.0,2025-01-20
+3946,Tees Valley and Durham,-9.0,2025-01-21
+3947,Tees Valley and Durham,-7.0,2025-01-22
+3948,Tees Valley and Durham,-15.0,2025-01-23
+3949,Tees Valley and Durham,-9.0,2025-01-24
+3950,Tees Valley and Durham,-14.0,2025-01-25
+3951,Tees Valley and Durham,-5.0,2025-01-26
+3952,Tees Valley and Durham,-9.0,2025-01-27
+3953,Tees Valley and Durham,-9.0,2025-01-28
+3954,Tees Valley and Durham,-9.0,2025-01-29
+3955,Tees Valley and Durham,-7.0,2025-01-30
+3956,Tees Valley and Durham,-7.0,2025-01-31
+3957,Tees Valley and Durham,1.0,2025-02-01
+3958,Tees Valley and Durham,-3.0,2025-02-02
+3959,Tees Valley and Durham,-3.0,2025-02-03
+3960,Bedfordshire and Hertfordshire,6.0,2025-01-20
+3961,Bedfordshire and Hertfordshire,6.0,2025-01-21
+3962,Bedfordshire and Hertfordshire,-3.0,2025-01-22
+3963,Bedfordshire and Hertfordshire,-3.0,2025-01-23
+3964,Bedfordshire and Hertfordshire,-2.0,2025-01-24
+3965,Bedfordshire and Hertfordshire,0.0,2025-01-25
+3966,Bedfordshire and Hertfordshire,-6.0,2025-01-26
+3967,Bedfordshire and Hertfordshire,-9.0,2025-01-27
+3968,Bedfordshire and Hertfordshire,-12.0,2025-01-28
+3969,Bedfordshire and Hertfordshire,-12.0,2025-01-29
+3970,Bedfordshire and Hertfordshire,2.0,2025-01-30
+3971,Bedfordshire and Hertfordshire,2.0,2025-01-31
+3972,Bedfordshire and Hertfordshire,8.0,2025-02-01
+3973,Bedfordshire and Hertfordshire,8.0,2025-02-02
+3974,Bedfordshire and Hertfordshire,13.0,2025-02-03
+3975,South Yorkshire,-1.0,2025-01-20
+3976,South Yorkshire,-1.0,2025-01-21
+3977,South Yorkshire,2.0,2025-01-22
+3978,South Yorkshire,-1.0,2025-01-23
+3979,South Yorkshire,0.2,2025-01-24
+3980,South Yorkshire,-3.0,2025-01-25
+3981,South Yorkshire,-5.95,2025-01-26
+3982,South Yorkshire,0.2,2025-01-27
+3983,South Yorkshire,-13.0,2025-01-28
+3984,South Yorkshire,-13.0,2025-01-29
+3985,South Yorkshire,4.0,2025-01-30
+3986,South Yorkshire,4.0,2025-01-31
+3987,South Yorkshire,8.0,2025-02-01
+3988,South Yorkshire,8.0,2025-02-02
+3989,South Yorkshire,6.0,2025-02-03
+3990,Bratislavský kraj,1.8,2025-01-20
+3991,Bratislavský kraj,3.0,2025-01-21
+3992,Bratislavský kraj,-0.4,2025-01-22
+3993,Bratislavský kraj,0.6,2025-01-23
+3994,Bratislavský kraj,5.0,2025-01-24
+3995,Bratislavský kraj,6.0,2025-01-25
+3996,Bratislavský kraj,6.0,2025-01-26
+3997,Bratislavský kraj,8.0,2025-01-27
+3998,Bratislavský kraj,2.0,2025-01-28
+3999,Bratislavský kraj,3.0,2025-01-29
+4000,Bratislavský kraj,8.0,2025-01-30
+4001,Bratislavský kraj,8.0,2025-01-31
+4002,Bratislavský kraj,8.0,2025-02-01
+4003,Bratislavský kraj,2.0,2025-02-02
+4004,Bratislavský kraj,4.0,2025-02-03
+4005,Hampshire and Isle of Wight,0.0,2025-01-20
+4006,Hampshire and Isle of Wight,8.0,2025-01-21
+4007,Hampshire and Isle of Wight,1.0,2025-01-22
+4008,Hampshire and Isle of Wight,-5.0,2025-01-23
+4009,Hampshire and Isle of Wight,-10.0,2025-01-24
+4010,Hampshire and Isle of Wight,-1.0,2025-01-25
+4011,Hampshire and Isle of Wight,-14.0,2025-01-26
+4012,Hampshire and Isle of Wight,-9.0,2025-01-27
+4013,Hampshire and Isle of Wight,-13.0,2025-01-28
+4014,Hampshire and Isle of Wight,-8.0,2025-01-29
+4015,Hampshire and Isle of Wight,-4.0,2025-01-30
+4016,Hampshire and Isle of Wight,2.0,2025-01-31
+4017,Hampshire and Isle of Wight,3.0,2025-02-01
+4018,Hampshire and Isle of Wight,8.0,2025-02-02
+4019,Hampshire and Isle of Wight,8.0,2025-02-03
+4020,Közép-Dunántúl,3.8,2025-01-20
+4021,Közép-Dunántúl,0.45,2025-01-21
+4022,Közép-Dunántúl,3.0,2025-01-22
+4023,Közép-Dunántúl,-3.0,2025-01-23
+4024,Közép-Dunántúl,6.0,2025-01-24
+4025,Közép-Dunántúl,4.0,2025-01-25
+4026,Közép-Dunántúl,4.0,2025-01-26
+4027,Közép-Dunántúl,6.0,2025-01-27
+4028,Közép-Dunántúl,4.0,2025-01-28
+4029,Közép-Dunántúl,2.0,2025-01-29
+4030,Közép-Dunántúl,6.0,2025-01-30
+4031,Közép-Dunántúl,8.0,2025-01-31
+4032,Közép-Dunántúl,6.0,2025-02-01
+4033,Közép-Dunántúl,2.0,2025-02-02
+4034,Közép-Dunántúl,0.0,2025-02-03
+4035,Vzhodna Slovenija,3.0,2025-01-20
+4036,Vzhodna Slovenija,8.0,2025-01-21
+4037,Vzhodna Slovenija,5.0,2025-01-22
+4038,Vzhodna Slovenija,0.0,2025-01-23
+4039,Vzhodna Slovenija,1.0,2025-01-24
+4040,Vzhodna Slovenija,-1.0,2025-01-25
+4041,Vzhodna Slovenija,8.0,2025-01-26
+4042,Vzhodna Slovenija,3.0,2025-01-27
+4043,Vzhodna Slovenija,6.0,2025-01-28
+4044,Vzhodna Slovenija,3.0,2025-01-29
+4045,Vzhodna Slovenija,8.0,2025-01-30
+4046,Vzhodna Slovenija,8.0,2025-01-31
+4047,Vzhodna Slovenija,10.0,2025-02-01
+4048,Vzhodna Slovenija,8.0,2025-02-02
+4049,Vzhodna Slovenija,6.0,2025-02-03
+4050,Northumberland and Tyne and Wear,-1.0,2025-01-20
+4051,Northumberland and Tyne and Wear,5.0,2025-01-21
+4052,Northumberland and Tyne and Wear,8.0,2025-01-22
+4053,Northumberland and Tyne and Wear,0.9,2025-01-23
+4054,Northumberland and Tyne and Wear,1.05,2025-01-24
+4055,Northumberland and Tyne and Wear,-3.0,2025-01-25
+4056,Northumberland and Tyne and Wear,-5.1,2025-01-26
+4057,Northumberland and Tyne and Wear,0.2,2025-01-27
+4058,Northumberland and Tyne and Wear,-11.0,2025-01-28
+4059,Northumberland and Tyne and Wear,-6.0,2025-01-29
+4060,Northumberland and Tyne and Wear,2.0,2025-01-30
+4061,Northumberland and Tyne and Wear,4.0,2025-01-31
+4062,Northumberland and Tyne and Wear,6.0,2025-02-01
+4063,Northumberland and Tyne and Wear,8.0,2025-02-02
+4064,Northumberland and Tyne and Wear,2.0,2025-02-03
+4065,Norra Mellansverige,6.0,2025-01-20
+4066,Norra Mellansverige,-1.65,2025-01-21
+4067,Norra Mellansverige,-2.95,2025-01-22
+4068,Norra Mellansverige,2.0,2025-01-23
+4069,Norra Mellansverige,-2.8,2025-01-24
+4070,Norra Mellansverige,-7.65,2025-01-25
+4071,Norra Mellansverige,-4.25,2025-01-26
+4072,Norra Mellansverige,-1.95,2025-01-27
+4073,Norra Mellansverige,-6.8,2025-01-28
+4074,Norra Mellansverige,-5.1,2025-01-29
+4075,Norra Mellansverige,-5.0,2025-01-30
+4076,Norra Mellansverige,-2.25,2025-01-31
+4077,Norra Mellansverige,-3.0,2025-02-01
+4078,Norra Mellansverige,4.5,2025-02-02
+4079,Norra Mellansverige,6.0,2025-02-03
+4080,Bretagne,6.0,2025-01-20
+4081,Bretagne,-2.0,2025-01-21
+4082,Bretagne,0.0,2025-01-22
+4083,Bretagne,1.0,2025-01-23
+4084,Bretagne,-2.0,2025-01-24
+4085,Bretagne,0.0,2025-01-25
+4086,Bretagne,-9.0,2025-01-26
+4087,Bretagne,-9.0,2025-01-27
+4088,Bretagne,-13.0,2025-01-28
+4089,Bretagne,-1.0,2025-01-29
+4090,Bretagne,2.0,2025-01-30
+4091,Bretagne,11.0,2025-01-31
+4092,Bretagne,13.0,2025-02-01
+4093,Bretagne,6.0,2025-02-02
+4094,Bretagne,8.0,2025-02-03
+4095,West Midlands,0.0,2025-01-20
+4096,West Midlands,6.0,2025-01-21
+4097,West Midlands,0.0,2025-01-22
+4098,West Midlands,0.05,2025-01-23
+4099,West Midlands,-2.0,2025-01-24
+4100,West Midlands,-3.0,2025-01-25
+4101,West Midlands,-6.8,2025-01-26
+4102,West Midlands,-7.8,2025-01-27
+4103,West Midlands,-13.0,2025-01-28
+4104,West Midlands,-13.0,2025-01-29
+4105,West Midlands,4.0,2025-01-30
+4106,West Midlands,4.0,2025-01-31
+4107,West Midlands,8.0,2025-02-01
+4108,West Midlands,5.0,2025-02-02
+4109,West Midlands,8.0,2025-02-03
+4110,Cheshire,-3.0,2025-01-20
+4111,Cheshire,-2.0,2025-01-21
+4112,Cheshire,3.0,2025-01-22
+4113,Cheshire,-5.0,2025-01-23
+4114,Cheshire,-9.0,2025-01-24
+4115,Cheshire,-3.0,2025-01-25
+4116,Cheshire,-5.95,2025-01-26
+4117,Cheshire,-8.0,2025-01-27
+4118,Cheshire,-13.0,2025-01-28
+4119,Cheshire,-8.0,2025-01-29
+4120,Cheshire,-6.0,2025-01-30
+4121,Cheshire,4.0,2025-01-31
+4122,Cheshire,8.0,2025-02-01
+4123,Cheshire,13.0,2025-02-02
+4124,Cheshire,11.0,2025-02-03
+4125,Merseyside,-0.5,2025-01-20
+4126,Merseyside,-1.0,2025-01-21
+4127,Merseyside,3.0,2025-01-22
+4128,Merseyside,-3.0,2025-01-23
+4129,Merseyside,-1.0,2025-01-24
+4130,Merseyside,-4.0,2025-01-25
+4131,Merseyside,-5.95,2025-01-26
+4132,Merseyside,-1.0,2025-01-27
+4133,Merseyside,-8.0,2025-01-28
+4134,Merseyside,-8.0,2025-01-29
+4135,Merseyside,1.0,2025-01-30
+4136,Merseyside,1.0,2025-01-31
+4137,Merseyside,6.0,2025-02-01
+4138,Merseyside,3.0,2025-02-02
+4139,Merseyside,6.0,2025-02-03
+4140,East Anglia,-2.0,2025-01-20
+4141,East Anglia,6.0,2025-01-21
+4142,East Anglia,-2.0,2025-01-22
+4143,East Anglia,-4.0,2025-01-23
+4144,East Anglia,-2.0,2025-01-24
+4145,East Anglia,0.0,2025-01-25
+4146,East Anglia,-4.0,2025-01-26
+4147,East Anglia,-9.0,2025-01-27
+4148,East Anglia,-12.0,2025-01-28
+4149,East Anglia,-12.0,2025-01-29
+4150,East Anglia,-1.0,2025-01-30
+4151,East Anglia,2.0,2025-01-31
+4152,East Anglia,8.0,2025-02-01
+4153,East Anglia,8.0,2025-02-02
+4154,East Anglia,13.0,2025-02-03
+4155,Mellersta Norrland,3.3,2025-01-20
+4156,Mellersta Norrland,4.1,2025-01-21
+4157,Mellersta Norrland,4.1,2025-01-22
+4158,Mellersta Norrland,5.9,2025-01-23
+4159,Mellersta Norrland,3.8,2025-01-24
+4160,Mellersta Norrland,-15.65,2025-01-25
+4161,Mellersta Norrland,-3.0,2025-01-26
+4162,Mellersta Norrland,-2.4,2025-01-27
+4163,Mellersta Norrland,-5.95,2025-01-28
+4164,Mellersta Norrland,-5.1,2025-01-29
+4165,Mellersta Norrland,-2.55,2025-01-30
+4166,Mellersta Norrland,-13.1,2025-01-31
+4167,Mellersta Norrland,-4.25,2025-02-01
+4168,Mellersta Norrland,1.0,2025-02-02
+4169,Mellersta Norrland,3.0,2025-02-03
+4170,Outer London — West and North West,10.0,2025-01-20
+4171,Outer London — West and North West,-2.0,2025-01-21
+4172,Outer London — West and North West,-2.0,2025-01-22
+4173,Outer London — West and North West,2.0,2025-01-23
+4174,Outer London — West and North West,-2.0,2025-01-24
+4175,Outer London — West and North West,5.0,2025-01-25
+4176,Outer London — West and North West,-2.0,2025-01-26
+4177,Outer London — West and North West,8.0,2025-01-27
+4178,Outer London — West and North West,8.0,2025-01-28
+4179,Outer London — West and North West,5.0,2025-01-29
+4180,Outer London — West and North West,10.0,2025-01-30
+4181,Outer London — West and North West,8.0,2025-01-31
+4182,Outer London — West and North West,2.0,2025-02-01
+4183,Outer London — West and North West,8.0,2025-02-02
+4184,Outer London — West and North West,11.0,2025-02-03
+4185,Inner London — West,0.0,2025-01-20
+4186,Inner London — West,0.0,2025-01-21
+4187,Inner London — West,3.0,2025-01-22
+4188,Inner London — West,8.0,2025-01-23
+4189,Inner London — West,10.0,2025-01-24
+4190,Inner London — West,10.0,2025-01-25
+4191,Inner London — West,10.0,2025-01-26
+4192,Inner London — West,10.0,2025-01-27
+4193,Inner London — West,10.0,2025-01-28
+4194,Inner London — West,10.0,2025-01-29
+4195,Inner London — West,10.0,2025-01-30
+4196,Inner London — West,10.0,2025-01-31
+4197,Inner London — West,10.0,2025-02-01
+4198,Inner London — West,10.0,2025-02-02
+4199,Inner London — West,10.0,2025-02-03
+4200,Inner London — East,18.0,2025-01-20
+4201,Inner London — East,18.0,2025-01-21
+4202,Inner London — East,18.0,2025-01-22
+4203,Inner London — East,18.0,2025-01-23
+4204,Inner London — East,18.0,2025-01-24
+4205,Inner London — East,18.0,2025-01-25
+4206,Inner London — East,18.0,2025-01-26
+4207,Inner London — East,15.0,2025-01-27
+4208,Inner London — East,14.0,2025-01-28
+4209,Inner London — East,15.0,2025-01-29
+4210,Inner London — East,18.0,2025-01-30
+4211,Inner London — East,18.0,2025-01-31
+4212,Inner London — East,18.0,2025-02-01
+4213,Inner London — East,18.0,2025-02-02
+4214,Inner London — East,16.0,2025-02-03
+4215,Outer London — East and North East,-2.1,2025-01-20
+4216,Outer London — East and North East,-7.2,2025-01-21
+4217,Outer London — East and North East,-7.3,2025-01-22
+4218,Outer London — East and North East,-3.0,2025-01-23
+4219,Outer London — East and North East,1.0,2025-01-24
+4220,Outer London — East and North East,-3.0,2025-01-25
+4221,Outer London — East and North East,-2.5,2025-01-26
+4222,Outer London — East and North East,-2.5,2025-01-27
+4223,Outer London — East and North East,-4.25,2025-01-28
+4224,Outer London — East and North East,-12.25,2025-01-29
+4225,Outer London — East and North East,-10.7,2025-01-30
+4226,Outer London — East and North East,-12.25,2025-01-31
+4227,Outer London — East and North East,-4.25,2025-02-01
+4228,Outer London — East and North East,-2.5,2025-02-02
+4229,Outer London — East and North East,3.5,2025-02-03
+4230,Cumbria,-6.8,2025-01-20
+4231,Cumbria,1.0,2025-01-21
+4232,Cumbria,-1.0,2025-01-22
+4233,Cumbria,-7.65,2025-01-23
+4234,Cumbria,-12.8,2025-01-24
+4235,Cumbria,-5.95,2025-01-25
+4236,Cumbria,-5.95,2025-01-26
+4237,Cumbria,-5.65,2025-01-27
+4238,Cumbria,-12.8,2025-01-28
+4239,Cumbria,-14.0,2025-01-29
+4240,Cumbria,-11.95,2025-01-30
+4241,Cumbria,-4.0,2025-01-31
+4242,Cumbria,8.0,2025-02-01
+4243,Cumbria,3.0,2025-02-02
+4244,Cumbria,1.0,2025-02-03
+4245,Greater Manchester,-3.0,2025-01-20
+4246,Greater Manchester,-2.0,2025-01-21
+4247,Greater Manchester,3.0,2025-01-22
+4248,Greater Manchester,-2.0,2025-01-23
+4249,Greater Manchester,-1.0,2025-01-24
+4250,Greater Manchester,-2.25,2025-01-25
+4251,Greater Manchester,-2.8,2025-01-26
+4252,Greater Manchester,0.2,2025-01-27
+4253,Greater Manchester,-14.0,2025-01-28
+4254,Greater Manchester,-1.0,2025-01-29
+4255,Greater Manchester,2.0,2025-01-30
+4256,Greater Manchester,4.0,2025-01-31
+4257,Greater Manchester,8.0,2025-02-01
+4258,Greater Manchester,5.0,2025-02-02
+4259,Greater Manchester,8.0,2025-02-03
+4260,Lancashire,-3.0,2025-01-20
+4261,Lancashire,-2.0,2025-01-21
+4262,Lancashire,2.0,2025-01-22
+4263,Lancashire,-8.0,2025-01-23
+4264,Lancashire,-12.8,2025-01-24
+4265,Lancashire,-3.95,2025-01-25
+4266,Lancashire,-1.95,2025-01-26
+4267,Lancashire,-7.8,2025-01-27
+4268,Lancashire,-14.0,2025-01-28
+4269,Lancashire,-14.0,2025-01-29
+4270,Lancashire,-9.0,2025-01-30
+4271,Lancashire,2.0,2025-01-31
+4272,Lancashire,8.0,2025-02-01
+4273,Lancashire,3.0,2025-02-02
+4274,Lancashire,8.0,2025-02-03
+4275,West Yorkshire,-5.0,2025-01-20
+4276,West Yorkshire,0.0,2025-01-21
+4277,West Yorkshire,3.0,2025-01-22
+4278,West Yorkshire,-6.0,2025-01-23
+4279,West Yorkshire,0.2,2025-01-24
+4280,West Yorkshire,-3.0,2025-01-25
+4281,West Yorkshire,-5.95,2025-01-26
+4282,West Yorkshire,0.2,2025-01-27
+4283,West Yorkshire,-13.0,2025-01-28
+4284,West Yorkshire,-13.0,2025-01-29
+4285,West Yorkshire,4.0,2025-01-30
+4286,West Yorkshire,4.0,2025-01-31
+4287,West Yorkshire,8.0,2025-02-01
+4288,West Yorkshire,3.0,2025-02-02
+4289,West Yorkshire,8.0,2025-02-03
+4290,Észak-Alföld,3.0,2025-01-20
+4291,Észak-Alföld,1.75,2025-01-21
+4292,Észak-Alföld,3.45,2025-01-22
+4293,Észak-Alföld,-0.8,2025-01-23
+4294,Észak-Alföld,1.0,2025-01-24
+4295,Észak-Alföld,8.0,2025-01-25
+4296,Észak-Alföld,8.0,2025-01-26
+4297,Észak-Alföld,8.0,2025-01-27
+4298,Észak-Alföld,13.0,2025-01-28
+4299,Észak-Alföld,13.0,2025-01-29
+4300,Észak-Alföld,8.0,2025-01-30
+4301,Észak-Alföld,6.0,2025-01-31
+4302,Észak-Alföld,8.0,2025-02-01
+4303,Észak-Alföld,2.0,2025-02-02
+4304,Észak-Alföld,0.0,2025-02-03
+4305,Dél-Alföld,-3.8,2025-01-20
+4306,Dél-Alföld,3.45,2025-01-21
+4307,Dél-Alföld,3.45,2025-01-22
+4308,Dél-Alföld,1.2,2025-01-23
+4309,Dél-Alföld,1.0,2025-01-24
+4310,Dél-Alföld,13.0,2025-01-25
+4311,Dél-Alföld,11.0,2025-01-26
+4312,Dél-Alföld,13.0,2025-01-27
+4313,Dél-Alföld,13.0,2025-01-28
+4314,Dél-Alföld,13.0,2025-01-29
+4315,Dél-Alföld,8.0,2025-01-30
+4316,Dél-Alföld,8.0,2025-01-31
+4317,Dél-Alföld,8.0,2025-02-01
+4318,Dél-Alföld,2.0,2025-02-02
+4319,Dél-Alföld,0.0,2025-02-03
+4320,North Yorkshire,-1.65,2025-01-20
+4321,North Yorkshire,2.0,2025-01-21
+4322,North Yorkshire,3.0,2025-01-22
+4323,North Yorkshire,-5.0,2025-01-23
+4324,North Yorkshire,0.2,2025-01-24
+4325,North Yorkshire,-3.0,2025-01-25
+4326,North Yorkshire,-5.95,2025-01-26
+4327,North Yorkshire,0.2,2025-01-27
+4328,North Yorkshire,-12.0,2025-01-28
+4329,North Yorkshire,-12.0,2025-01-29
+4330,North Yorkshire,4.0,2025-01-30
+4331,North Yorkshire,4.0,2025-01-31
+4332,North Yorkshire,8.0,2025-02-01
+4333,North Yorkshire,8.0,2025-02-02
+4334,North Yorkshire,6.0,2025-02-03
+4335,Derbyshire and Nottinghamshire,-5.0,2025-01-20
+4336,Derbyshire and Nottinghamshire,-4.0,2025-01-21
+4337,Derbyshire and Nottinghamshire,2.05,2025-01-22
+4338,Derbyshire and Nottinghamshire,-3.95,2025-01-23
+4339,Derbyshire and Nottinghamshire,-2.0,2025-01-24
+4340,Derbyshire and Nottinghamshire,2.0,2025-01-25
+4341,Derbyshire and Nottinghamshire,-5.95,2025-01-26
+4342,Derbyshire and Nottinghamshire,-7.8,2025-01-27
+4343,Derbyshire and Nottinghamshire,-13.0,2025-01-28
+4344,Derbyshire and Nottinghamshire,-7.0,2025-01-29
+4345,Derbyshire and Nottinghamshire,-6.0,2025-01-30
+4346,Derbyshire and Nottinghamshire,4.0,2025-01-31
+4347,Derbyshire and Nottinghamshire,8.0,2025-02-01
+4348,Derbyshire and Nottinghamshire,13.0,2025-02-02
+4349,Derbyshire and Nottinghamshire,6.0,2025-02-03
+4350,Kent,8.0,2025-01-20
+4351,Kent,8.0,2025-01-21
+4352,Kent,-1.0,2025-01-22
+4353,Kent,-5.0,2025-01-23
+4354,Kent,-2.0,2025-01-24
+4355,Kent,-1.0,2025-01-25
+4356,Kent,-14.0,2025-01-26
+4357,Kent,-9.0,2025-01-27
+4358,Kent,-13.0,2025-01-28
+4359,Kent,-12.0,2025-01-29
+4360,Kent,2.0,2025-01-30
+4361,Kent,2.0,2025-01-31
+4362,Kent,8.0,2025-02-01
+4363,Kent,8.0,2025-02-02
+4364,Kent,13.0,2025-02-03
+4365,Outer London — South,4.0,2025-01-20
+4366,Outer London — South,1.0,2025-01-21
+4367,Outer London — South,4.0,2025-01-22
+4368,Outer London — South,-2.0,2025-01-23
+4369,Outer London — South,8.0,2025-01-24
+4370,Outer London — South,3.0,2025-01-25
+4371,Outer London — South,4.0,2025-01-26
+4372,Outer London — South,8.0,2025-01-27
+4373,Outer London — South,3.0,2025-01-28
+4374,Outer London — South,3.0,2025-01-29
+4375,Outer London — South,3.0,2025-01-30
+4376,Outer London — South,8.0,2025-01-31
+4377,Outer London — South,3.0,2025-02-01
+4378,Outer London — South,5.0,2025-02-02
+4379,Outer London — South,5.0,2025-02-03
+4380,"Leicestershire, Rutland and Northamptonshire",3.45,2025-01-20
+4381,"Leicestershire, Rutland and Northamptonshire",6.0,2025-01-21
+4382,"Leicestershire, Rutland and Northamptonshire",-3.0,2025-01-22
+4383,"Leicestershire, Rutland and Northamptonshire",-3.0,2025-01-23
+4384,"Leicestershire, Rutland and Northamptonshire",-2.0,2025-01-24
+4385,"Leicestershire, Rutland and Northamptonshire",1.0,2025-01-25
+4386,"Leicestershire, Rutland and Northamptonshire",-6.0,2025-01-26
+4387,"Leicestershire, Rutland and Northamptonshire",-9.0,2025-01-27
+4388,"Leicestershire, Rutland and Northamptonshire",-8.0,2025-01-28
+4389,"Leicestershire, Rutland and Northamptonshire",-13.0,2025-01-29
+4390,"Leicestershire, Rutland and Northamptonshire",-3.0,2025-01-30
+4391,"Leicestershire, Rutland and Northamptonshire",2.0,2025-01-31
+4392,"Leicestershire, Rutland and Northamptonshire",8.0,2025-02-01
+4393,"Leicestershire, Rutland and Northamptonshire",8.0,2025-02-02
+4394,"Leicestershire, Rutland and Northamptonshire",13.0,2025-02-03
+4395,Devon,5.0,2025-01-20
+4396,Devon,1.0,2025-01-21
+4397,Devon,2.05,2025-01-22
+4398,Devon,-5.0,2025-01-23
+4399,Devon,-10.0,2025-01-24
+4400,Devon,-5.0,2025-01-25
+4401,Devon,-6.0,2025-01-26
+4402,Devon,-9.0,2025-01-27
+4403,Devon,-13.0,2025-01-28
+4404,Devon,-12.0,2025-01-29
+4405,Devon,-6.0,2025-01-30
+4406,Devon,7.0,2025-01-31
+4407,Devon,8.0,2025-02-01
+4408,Devon,13.0,2025-02-02
+4409,Devon,13.0,2025-02-03
+4410,"Gloucestershire, Wiltshire and Bristol/Bath area",-5.0,2025-01-20
+4411,"Gloucestershire, Wiltshire and Bristol/Bath area",0.35,2025-01-21
+4412,"Gloucestershire, Wiltshire and Bristol/Bath area",-2.0,2025-01-22
+4413,"Gloucestershire, Wiltshire and Bristol/Bath area",-4.0,2025-01-23
+4414,"Gloucestershire, Wiltshire and Bristol/Bath area",8.0,2025-01-24
+4415,"Gloucestershire, Wiltshire and Bristol/Bath area",4.0,2025-01-25
+4416,"Gloucestershire, Wiltshire and Bristol/Bath area",3.0,2025-01-26
+4417,"Gloucestershire, Wiltshire and Bristol/Bath area",2.0,2025-01-27
+4418,"Gloucestershire, Wiltshire and Bristol/Bath area",2.0,2025-01-28
+4419,"Gloucestershire, Wiltshire and Bristol/Bath area",2.0,2025-01-29
+4420,"Gloucestershire, Wiltshire and Bristol/Bath area",8.0,2025-01-30
+4421,"Gloucestershire, Wiltshire and Bristol/Bath area",8.0,2025-01-31
+4422,"Gloucestershire, Wiltshire and Bristol/Bath area",8.0,2025-02-01
+4423,"Gloucestershire, Wiltshire and Bristol/Bath area",13.0,2025-02-02
+4424,"Gloucestershire, Wiltshire and Bristol/Bath area",8.0,2025-02-03
+4425,Dorset and Somerset,3.0,2025-01-20
+4426,Dorset and Somerset,8.0,2025-01-21
+4427,Dorset and Somerset,1.0,2025-01-22
+4428,Dorset and Somerset,-5.0,2025-01-23
+4429,Dorset and Somerset,-10.0,2025-01-24
+4430,Dorset and Somerset,-3.0,2025-01-25
+4431,Dorset and Somerset,-6.0,2025-01-26
+4432,Dorset and Somerset,-9.0,2025-01-27
+4433,Dorset and Somerset,-8.0,2025-01-28
+4434,Dorset and Somerset,-9.0,2025-01-29
+4435,Dorset and Somerset,2.0,2025-01-30
+4436,Dorset and Somerset,7.0,2025-01-31
+4437,Dorset and Somerset,8.0,2025-02-01
+4438,Dorset and Somerset,13.0,2025-02-02
+4439,Dorset and Somerset,13.0,2025-02-03
+4440,Sydsverige,3.0,2025-01-20
+4441,Sydsverige,-0.8,2025-01-21
+4442,Sydsverige,-2.5,2025-01-22
+4443,Sydsverige,-5.35,2025-01-23
+4444,Sydsverige,-1.95,2025-01-24
+4445,Sydsverige,-7.65,2025-01-25
+4446,Sydsverige,-5.1,2025-01-26
+4447,Sydsverige,-1.95,2025-01-27
+4448,Sydsverige,-6.0,2025-01-28
+4449,Sydsverige,-3.0,2025-01-29
+4450,Sydsverige,-1.0,2025-01-30
+4451,Sydsverige,-5.0,2025-01-31
+4452,Sydsverige,-3.0,2025-02-01
+4453,Sydsverige,6.0,2025-02-02
+4454,Sydsverige,6.0,2025-02-03
+4455,East Yorkshire and Northern Lincolnshire,-8.0,2025-01-20
+4456,East Yorkshire and Northern Lincolnshire,-8.0,2025-01-21
+4457,East Yorkshire and Northern Lincolnshire,-3.0,2025-01-22
+4458,East Yorkshire and Northern Lincolnshire,3.0,2025-01-23
+4459,East Yorkshire and Northern Lincolnshire,3.0,2025-01-24
+4460,East Yorkshire and Northern Lincolnshire,4.0,2025-01-25
+4461,East Yorkshire and Northern Lincolnshire,3.3,2025-01-26
+4462,East Yorkshire and Northern Lincolnshire,-5.55,2025-01-27
+4463,East Yorkshire and Northern Lincolnshire,-3.0,2025-01-28
+4464,East Yorkshire and Northern Lincolnshire,-2.7,2025-01-29
+4465,East Yorkshire and Northern Lincolnshire,0.0,2025-01-30
+4466,East Yorkshire and Northern Lincolnshire,-2.55,2025-01-31
+4467,East Yorkshire and Northern Lincolnshire,-5.55,2025-02-01
+4468,East Yorkshire and Northern Lincolnshire,1.5,2025-02-02
+4469,East Yorkshire and Northern Lincolnshire,3.0,2025-02-03
+4470,"Surrey, East and West Sussex",8.0,2025-01-20
+4471,"Surrey, East and West Sussex",8.0,2025-01-21
+4472,"Surrey, East and West Sussex",0.0,2025-01-22
+4473,"Surrey, East and West Sussex",-5.0,2025-01-23
+4474,"Surrey, East and West Sussex",-2.0,2025-01-24
+4475,"Surrey, East and West Sussex",-1.0,2025-01-25
+4476,"Surrey, East and West Sussex",-14.0,2025-01-26
+4477,"Surrey, East and West Sussex",-9.0,2025-01-27
+4478,"Surrey, East and West Sussex",-13.0,2025-01-28
+4479,"Surrey, East and West Sussex",-12.0,2025-01-29
+4480,"Surrey, East and West Sussex",2.0,2025-01-30
+4481,"Surrey, East and West Sussex",2.0,2025-01-31
+4482,"Surrey, East and West Sussex",8.0,2025-02-01
+4483,"Surrey, East and West Sussex",8.0,2025-02-02
+4484,"Surrey, East and West Sussex",13.0,2025-02-03
+4485,"Kastamonu, Çankırı, Sinop",-6.0,2025-01-20
+4486,"Kastamonu, Çankırı, Sinop",7.0,2025-01-21
+4487,"Kastamonu, Çankırı, Sinop",13.0,2025-01-22
+4488,"Kastamonu, Çankırı, Sinop",3.0,2025-01-23
+4489,"Kastamonu, Çankırı, Sinop",6.0,2025-01-24
+4490,"Kastamonu, Çankırı, Sinop",8.0,2025-01-25
+4491,"Kastamonu, Çankırı, Sinop",-3.0,2025-01-26
+4492,"Kastamonu, Çankırı, Sinop",2.0,2025-01-27
+4493,"Kastamonu, Çankırı, Sinop",2.0,2025-01-28
+4494,"Kastamonu, Çankırı, Sinop",2.0,2025-01-29
+4495,"Kastamonu, Çankırı, Sinop",-1.0,2025-01-30
+4496,"Kastamonu, Çankırı, Sinop",-2.0,2025-01-31
+4497,"Kastamonu, Çankırı, Sinop",-3.0,2025-02-01
+4498,"Kastamonu, Çankırı, Sinop",-4.0,2025-02-02
+4499,"Kastamonu, Çankırı, Sinop",-5.0,2025-02-03
+4500,"Şanlıurfa, Diyarbakır",7.0,2025-01-20
+4501,"Şanlıurfa, Diyarbakır",13.0,2025-01-21
+4502,"Şanlıurfa, Diyarbakır",13.0,2025-01-22
+4503,"Şanlıurfa, Diyarbakır",8.6,2025-01-23
+4504,"Şanlıurfa, Diyarbakır",1.0,2025-01-24
+4505,"Şanlıurfa, Diyarbakır",8.0,2025-01-25
+4506,"Şanlıurfa, Diyarbakır",13.0,2025-01-26
+4507,"Şanlıurfa, Diyarbakır",13.0,2025-01-27
+4508,"Şanlıurfa, Diyarbakır",13.0,2025-01-28
+4509,"Şanlıurfa, Diyarbakır",13.0,2025-01-29
+4510,"Şanlıurfa, Diyarbakır",13.0,2025-01-30
+4511,"Şanlıurfa, Diyarbakır",11.0,2025-01-31
+4512,"Şanlıurfa, Diyarbakır",13.0,2025-02-01
+4513,"Şanlıurfa, Diyarbakır",11.0,2025-02-02
+4514,"Şanlıurfa, Diyarbakır",2.0,2025-02-03
+4515,"Mardin, Batman, Şırnak, Siirt",0.2,2025-01-20
+4516,"Mardin, Batman, Şırnak, Siirt",8.0,2025-01-21
+4517,"Mardin, Batman, Şırnak, Siirt",13.0,2025-01-22
+4518,"Mardin, Batman, Şırnak, Siirt",8.5,2025-01-23
+4519,"Mardin, Batman, Şırnak, Siirt",4.0,2025-01-24
+4520,"Mardin, Batman, Şırnak, Siirt",2.0,2025-01-25
+4521,"Mardin, Batman, Şırnak, Siirt",8.0,2025-01-26
+4522,"Mardin, Batman, Şırnak, Siirt",8.0,2025-01-27
+4523,"Mardin, Batman, Şırnak, Siirt",8.0,2025-01-28
+4524,"Mardin, Batman, Şırnak, Siirt",8.0,2025-01-29
+4525,"Mardin, Batman, Şırnak, Siirt",13.0,2025-01-30
+4526,"Mardin, Batman, Şırnak, Siirt",13.0,2025-01-31
+4527,"Mardin, Batman, Şırnak, Siirt",8.0,2025-02-01
+4528,"Mardin, Batman, Şırnak, Siirt",8.0,2025-02-02
+4529,"Mardin, Batman, Şırnak, Siirt",4.0,2025-02-03
+4530,"Zonguldak, Karabük, Bartın",3.0,2025-01-20
+4531,"Zonguldak, Karabük, Bartın",15.0,2025-01-21
+4532,"Zonguldak, Karabük, Bartın",9.0,2025-01-22
+4533,"Zonguldak, Karabük, Bartın",2.0,2025-01-23
+4534,"Zonguldak, Karabük, Bartın",15.0,2025-01-24
+4535,"Zonguldak, Karabük, Bartın",0.0,2025-01-25
+4536,"Zonguldak, Karabük, Bartın",-3.0,2025-01-26
+4537,"Zonguldak, Karabük, Bartın",8.0,2025-01-27
+4538,"Zonguldak, Karabük, Bartın",6.0,2025-01-28
+4539,"Zonguldak, Karabük, Bartın",6.0,2025-01-29
+4540,"Zonguldak, Karabük, Bartın",4.0,2025-01-30
+4541,"Zonguldak, Karabük, Bartın",5.0,2025-01-31
+4542,"Zonguldak, Karabük, Bartın",0.0,2025-02-01
+4543,"Zonguldak, Karabük, Bartın",-4.0,2025-02-02
+4544,"Zonguldak, Karabük, Bartın",-3.0,2025-02-03
+4545,"Van, Muş, Bitlis, Hakkari",3.9,2025-01-20
+4546,"Van, Muş, Bitlis, Hakkari",6.0,2025-01-21
+4547,"Van, Muş, Bitlis, Hakkari",8.0,2025-01-22
+4548,"Van, Muş, Bitlis, Hakkari",4.5,2025-01-23
+4549,"Van, Muş, Bitlis, Hakkari",-1.8,2025-01-24
+4550,"Van, Muş, Bitlis, Hakkari",-3.8,2025-01-25
+4551,"Van, Muş, Bitlis, Hakkari",-1.25,2025-01-26
+4552,"Van, Muş, Bitlis, Hakkari",1.3,2025-01-27
+4553,"Van, Muş, Bitlis, Hakkari",1.0,2025-01-28
+4554,"Van, Muş, Bitlis, Hakkari",3.0,2025-01-29
+4555,"Van, Muş, Bitlis, Hakkari",6.0,2025-01-30
+4556,"Van, Muş, Bitlis, Hakkari",6.0,2025-01-31
+4557,"Van, Muş, Bitlis, Hakkari",6.0,2025-02-01
+4558,"Van, Muş, Bitlis, Hakkari",3.0,2025-02-02
+4559,"Van, Muş, Bitlis, Hakkari",3.5,2025-02-03
+4560,"Samsun, Tokat, Çorum, Amasya",8.0,2025-01-20
+4561,"Samsun, Tokat, Çorum, Amasya",8.0,2025-01-21
+4562,"Samsun, Tokat, Çorum, Amasya",13.0,2025-01-22
+4563,"Samsun, Tokat, Çorum, Amasya",3.0,2025-01-23
+4564,"Samsun, Tokat, Çorum, Amasya",2.0,2025-01-24
+4565,"Samsun, Tokat, Çorum, Amasya",3.0,2025-01-25
+4566,"Samsun, Tokat, Çorum, Amasya",2.0,2025-01-26
+4567,"Samsun, Tokat, Çorum, Amasya",8.0,2025-01-27
+4568,"Samsun, Tokat, Çorum, Amasya",8.0,2025-01-28
+4569,"Samsun, Tokat, Çorum, Amasya",8.0,2025-01-29
+4570,"Samsun, Tokat, Çorum, Amasya",8.0,2025-01-30
+4571,"Samsun, Tokat, Çorum, Amasya",8.0,2025-01-31
+4572,"Samsun, Tokat, Çorum, Amasya",6.0,2025-02-01
+4573,"Samsun, Tokat, Çorum, Amasya",0.9,2025-02-02
+4574,"Samsun, Tokat, Çorum, Amasya",0.9,2025-02-03
+4575,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",-6.5,2025-01-20
+4576,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",6.0,2025-01-21
+4577,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",6.0,2025-01-22
+4578,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",6.3,2025-01-23
+4579,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.3,2025-01-24
+4580,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.0,2025-01-25
+4581,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.5,2025-01-26
+4582,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.0,2025-01-27
+4583,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.0,2025-01-28
+4584,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.0,2025-01-29
+4585,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.0,2025-01-30
+4586,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",0.45,2025-01-31
+4587,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.0,2025-02-01
+4588,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.0,2025-02-02
+4589,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",3.7,2025-02-03
+4590,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",8.0,2025-01-20
+4591,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",8.0,2025-01-21
+4592,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",0.35,2025-01-22
+4593,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",-1.35,2025-01-23
+4594,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",3.75,2025-01-24
+4595,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",8.0,2025-01-25
+4596,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",2.6,2025-01-26
+4597,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",8.0,2025-01-27
+4598,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",8.0,2025-01-28
+4599,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",8.0,2025-01-29
+4600,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",6.0,2025-01-30
+4601,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",6.0,2025-01-31
+4602,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",6.0,2025-02-01
+4603,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",-2.4,2025-02-02
+4604,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",1.4,2025-02-03
+4605,"Gaziantep, Adıyaman, Kilis",7.0,2025-01-20
+4606,"Gaziantep, Adıyaman, Kilis",13.0,2025-01-21
+4607,"Gaziantep, Adıyaman, Kilis",7.0,2025-01-22
+4608,"Gaziantep, Adıyaman, Kilis",-6.0,2025-01-23
+4609,"Gaziantep, Adıyaman, Kilis",-1.0,2025-01-24
+4610,"Gaziantep, Adıyaman, Kilis",5.0,2025-01-25
+4611,"Gaziantep, Adıyaman, Kilis",13.0,2025-01-26
+4612,"Gaziantep, Adıyaman, Kilis",13.0,2025-01-27
+4613,"Gaziantep, Adıyaman, Kilis",13.0,2025-01-28
+4614,"Gaziantep, Adıyaman, Kilis",13.0,2025-01-29
+4615,"Gaziantep, Adıyaman, Kilis",13.0,2025-01-30
+4616,"Gaziantep, Adıyaman, Kilis",13.0,2025-01-31
+4617,"Gaziantep, Adıyaman, Kilis",13.0,2025-02-01
+4618,"Gaziantep, Adıyaman, Kilis",13.0,2025-02-02
+4619,"Gaziantep, Adıyaman, Kilis",2.0,2025-02-03
+4620,"Ağrı, Kars, Iğdır, Ardahan",-2.2,2025-01-20
+4621,"Ağrı, Kars, Iğdır, Ardahan",3.0,2025-01-21
+4622,"Ağrı, Kars, Iğdır, Ardahan",3.0,2025-01-22
+4623,"Ağrı, Kars, Iğdır, Ardahan",3.0,2025-01-23
+4624,"Ağrı, Kars, Iğdır, Ardahan",3.0,2025-01-24
+4625,"Ağrı, Kars, Iğdır, Ardahan",3.0,2025-01-25
+4626,"Ağrı, Kars, Iğdır, Ardahan",3.3,2025-01-26
+4627,"Ağrı, Kars, Iğdır, Ardahan",5.0,2025-01-27
+4628,"Ağrı, Kars, Iğdır, Ardahan",5.0,2025-01-28
+4629,"Ağrı, Kars, Iğdır, Ardahan",3.0,2025-01-29
+4630,"Ağrı, Kars, Iğdır, Ardahan",3.0,2025-01-30
+4631,"Ağrı, Kars, Iğdır, Ardahan",5.3,2025-01-31
+4632,"Ağrı, Kars, Iğdır, Ardahan",3.3,2025-02-01
+4633,"Ağrı, Kars, Iğdır, Ardahan",3.3,2025-02-02
+4634,"Ağrı, Kars, Iğdır, Ardahan",3.0,2025-02-03
+4635,"Malatya, Elazığ, Bingöl, Tunceli",2.0,2025-01-20
+4636,"Malatya, Elazığ, Bingöl, Tunceli",8.0,2025-01-21
+4637,"Malatya, Elazığ, Bingöl, Tunceli",10.0,2025-01-22
+4638,"Malatya, Elazığ, Bingöl, Tunceli",8.7,2025-01-23
+4639,"Malatya, Elazığ, Bingöl, Tunceli",1.2,2025-01-24
+4640,"Malatya, Elazığ, Bingöl, Tunceli",5.0,2025-01-25
+4641,"Malatya, Elazığ, Bingöl, Tunceli",6.0,2025-01-26
+4642,"Malatya, Elazığ, Bingöl, Tunceli",8.0,2025-01-27
+4643,"Malatya, Elazığ, Bingöl, Tunceli",10.0,2025-01-28
+4644,"Malatya, Elazığ, Bingöl, Tunceli",10.0,2025-01-29
+4645,"Malatya, Elazığ, Bingöl, Tunceli",10.0,2025-01-30
+4646,"Malatya, Elazığ, Bingöl, Tunceli",8.0,2025-01-31
+4647,"Malatya, Elazığ, Bingöl, Tunceli",6.0,2025-02-01
+4648,"Malatya, Elazığ, Bingöl, Tunceli",1.75,2025-02-02
+4649,"Malatya, Elazığ, Bingöl, Tunceli",0.9,2025-02-03
+4650,"Erzurum, Erzincan, Bayburt",-2.1,2025-01-20
+4651,"Erzurum, Erzincan, Bayburt",3.0,2025-01-21
+4652,"Erzurum, Erzincan, Bayburt",3.0,2025-01-22
+4653,"Erzurum, Erzincan, Bayburt",6.0,2025-01-23
+4654,"Erzurum, Erzincan, Bayburt",3.3,2025-01-24
+4655,"Erzurum, Erzincan, Bayburt",3.3,2025-01-25
+4656,"Erzurum, Erzincan, Bayburt",3.0,2025-01-26
+4657,"Erzurum, Erzincan, Bayburt",3.3,2025-01-27
+4658,"Erzurum, Erzincan, Bayburt",3.0,2025-01-28
+4659,"Erzurum, Erzincan, Bayburt",3.0,2025-01-29
+4660,"Erzurum, Erzincan, Bayburt",3.0,2025-01-30
+4661,"Erzurum, Erzincan, Bayburt",3.3,2025-01-31
+4662,"Erzurum, Erzincan, Bayburt",3.3,2025-02-01
+4663,"Erzurum, Erzincan, Bayburt",3.0,2025-02-02
+4664,"Erzurum, Erzincan, Bayburt",3.3,2025-02-03
+4665,"Hatay, Kahramanmaraş, Osmaniye",12.0,2025-01-20
+4666,"Hatay, Kahramanmaraş, Osmaniye",18.0,2025-01-21
+4667,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-01-22
+4668,"Hatay, Kahramanmaraş, Osmaniye",1.0,2025-01-23
+4669,"Hatay, Kahramanmaraş, Osmaniye",8.0,2025-01-24
+4670,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-01-25
+4671,"Hatay, Kahramanmaraş, Osmaniye",10.0,2025-01-26
+4672,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-01-27
+4673,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-01-28
+4674,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-01-29
+4675,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-01-30
+4676,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-01-31
+4677,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-02-01
+4678,"Hatay, Kahramanmaraş, Osmaniye",13.0,2025-02-02
+4679,"Hatay, Kahramanmaraş, Osmaniye",9.0,2025-02-03
+4680,"Kayseri, Sivas, Yozgat",6.0,2025-01-20
+4681,"Kayseri, Sivas, Yozgat",8.0,2025-01-21
+4682,"Kayseri, Sivas, Yozgat",2.05,2025-01-22
+4683,"Kayseri, Sivas, Yozgat",-2.5,2025-01-23
+4684,"Kayseri, Sivas, Yozgat",0.9,2025-01-24
+4685,"Kayseri, Sivas, Yozgat",3.0,2025-01-25
+4686,"Kayseri, Sivas, Yozgat",1.75,2025-01-26
+4687,"Kayseri, Sivas, Yozgat",8.0,2025-01-27
+4688,"Kayseri, Sivas, Yozgat",8.0,2025-01-28
+4689,"Kayseri, Sivas, Yozgat",8.0,2025-01-29
+4690,"Kayseri, Sivas, Yozgat",6.0,2025-01-30
+4691,"Kayseri, Sivas, Yozgat",6.0,2025-01-31
+4692,"Kayseri, Sivas, Yozgat",6.0,2025-02-01
+4693,"Kayseri, Sivas, Yozgat",3.4,2025-02-02
+4694,"Kayseri, Sivas, Yozgat",1.4,2025-02-03
+4695,Innlandet,3.0,2025-01-20
+4696,Innlandet,6.0,2025-01-21
+4697,Innlandet,6.0,2025-01-22
+4698,Innlandet,5.7,2025-01-23
+4699,Innlandet,3.8,2025-01-24
+4700,Innlandet,-7.65,2025-01-25
+4701,Innlandet,3.0,2025-01-26
+4702,Innlandet,3.7,2025-01-27
+4703,Innlandet,-6.8,2025-01-28
+4704,Innlandet,-5.95,2025-01-29
+4705,Innlandet,1.5,2025-01-30
+4706,Innlandet,-3.4,2025-01-31
+4707,Innlandet,-2.55,2025-02-01
+4708,Innlandet,3.0,2025-02-02
+4709,Innlandet,3.0,2025-02-03
+4710,"Antalya, Isparta, Burdur",13.0,2025-01-20
+4711,"Antalya, Isparta, Burdur",1.0,2025-01-21
+4712,"Antalya, Isparta, Burdur",-1.35,2025-01-22
+4713,"Antalya, Isparta, Burdur",7.05,2025-01-23
+4714,"Antalya, Isparta, Burdur",13.0,2025-01-24
+4715,"Antalya, Isparta, Burdur",3.0,2025-01-25
+4716,"Antalya, Isparta, Burdur",1.45,2025-01-26
+4717,"Antalya, Isparta, Burdur",8.0,2025-01-27
+4718,"Antalya, Isparta, Burdur",8.0,2025-01-28
+4719,"Antalya, Isparta, Burdur",8.0,2025-01-29
+4720,"Antalya, Isparta, Burdur",8.0,2025-01-30
+4721,"Antalya, Isparta, Burdur",8.0,2025-01-31
+4722,"Antalya, Isparta, Burdur",8.0,2025-02-01
+4723,"Antalya, Isparta, Burdur",1.75,2025-02-02
+4724,"Antalya, Isparta, Burdur",-0.25,2025-02-03
+4725,"Adana, Mersin",12.0,2025-01-20
+4726,"Adana, Mersin",18.0,2025-01-21
+4727,"Adana, Mersin",4.0,2025-01-22
+4728,"Adana, Mersin",-2.0,2025-01-23
+4729,"Adana, Mersin",18.0,2025-01-24
+4730,"Adana, Mersin",13.0,2025-01-25
+4731,"Adana, Mersin",8.0,2025-01-26
+4732,"Adana, Mersin",13.0,2025-01-27
+4733,"Adana, Mersin",13.0,2025-01-28
+4734,"Adana, Mersin",13.0,2025-01-29
+4735,"Adana, Mersin",13.0,2025-01-30
+4736,"Adana, Mersin",13.0,2025-01-31
+4737,"Adana, Mersin",13.0,2025-02-01
+4738,"Adana, Mersin",8.0,2025-02-02
+4739,"Adana, Mersin",6.0,2025-02-03
+4740,Sjeverna Hrvatska,6.0,2025-01-20
+4741,Sjeverna Hrvatska,3.75,2025-01-21
+4742,Sjeverna Hrvatska,8.0,2025-01-22
+4743,Sjeverna Hrvatska,-1.0,2025-01-23
+4744,Sjeverna Hrvatska,0.0,2025-01-24
+4745,Sjeverna Hrvatska,11.0,2025-01-25
+4746,Sjeverna Hrvatska,13.0,2025-01-26
+4747,Sjeverna Hrvatska,8.0,2025-01-27
+4748,Sjeverna Hrvatska,8.0,2025-01-28
+4749,Sjeverna Hrvatska,2.0,2025-01-29
+4750,Sjeverna Hrvatska,8.0,2025-01-30
+4751,Sjeverna Hrvatska,3.0,2025-01-31
+4752,Sjeverna Hrvatska,10.0,2025-02-01
+4753,Sjeverna Hrvatska,8.0,2025-02-02
+4754,Sjeverna Hrvatska,6.0,2025-02-03
+4755,Trøndelag,-4.0,2025-01-20
+4756,Trøndelag,-7.65,2025-01-21
+4757,Trøndelag,1.9,2025-01-22
+4758,Trøndelag,3.3,2025-01-23
+4759,Trøndelag,-13.55,2025-01-24
+4760,Trøndelag,-5.95,2025-01-25
+4761,Trøndelag,-14.8,2025-01-26
+4762,Trøndelag,-5.95,2025-01-27
+4763,Trøndelag,-12.25,2025-01-28
+4764,Trøndelag,-12.25,2025-01-29
+4765,Trøndelag,-6.8,2025-01-30
+4766,Trøndelag,-14.8,2025-01-31
+4767,Trøndelag,-14.8,2025-02-01
+4768,Trøndelag,-1.95,2025-02-02
+4769,Trøndelag,-6.8,2025-02-03
+4770,Nord-Norge,1.0,2025-01-20
+4771,Nord-Norge,4.0,2025-01-21
+4772,Nord-Norge,4.1,2025-01-22
+4773,Nord-Norge,3.5,2025-01-23
+4774,Nord-Norge,-2.2,2025-01-24
+4775,Nord-Norge,-18.65,2025-01-25
+4776,Nord-Norge,-3.0,2025-01-26
+4777,Nord-Norge,3.7,2025-01-27
+4778,Nord-Norge,-2.2,2025-01-28
+4779,Nord-Norge,-2.4,2025-01-29
+4780,Nord-Norge,1.5,2025-01-30
+4781,Nord-Norge,-3.4,2025-01-31
+4782,Nord-Norge,-15.25,2025-02-01
+4783,Nord-Norge,3.0,2025-02-02
+4784,Nord-Norge,3.0,2025-02-03
+4785,"Manisa, Afyonkarahisar, Kütahya, Uşak",7.0,2025-01-20
+4786,"Manisa, Afyonkarahisar, Kütahya, Uşak",5.0,2025-01-21
+4787,"Manisa, Afyonkarahisar, Kütahya, Uşak",-3.0,2025-01-22
+4788,"Manisa, Afyonkarahisar, Kütahya, Uşak",1.0,2025-01-23
+4789,"Manisa, Afyonkarahisar, Kütahya, Uşak",8.0,2025-01-24
+4790,"Manisa, Afyonkarahisar, Kütahya, Uşak",8.0,2025-01-25
+4791,"Manisa, Afyonkarahisar, Kütahya, Uşak",5.0,2025-01-26
+4792,"Manisa, Afyonkarahisar, Kütahya, Uşak",8.0,2025-01-27
+4793,"Manisa, Afyonkarahisar, Kütahya, Uşak",13.0,2025-01-28
+4794,"Manisa, Afyonkarahisar, Kütahya, Uşak",13.0,2025-01-29
+4795,"Manisa, Afyonkarahisar, Kütahya, Uşak",8.0,2025-01-30
+4796,"Manisa, Afyonkarahisar, Kütahya, Uşak",8.0,2025-01-31
+4797,"Manisa, Afyonkarahisar, Kütahya, Uşak",8.0,2025-02-01
+4798,"Manisa, Afyonkarahisar, Kütahya, Uşak",1.45,2025-02-02
+4799,"Manisa, Afyonkarahisar, Kütahya, Uşak",6.3,2025-02-03
+4800,"Bursa, Eskişehir, Bilecik",13.0,2025-01-20
+4801,"Bursa, Eskişehir, Bilecik",8.0,2025-01-21
+4802,"Bursa, Eskişehir, Bilecik",-0.5,2025-01-22
+4803,"Bursa, Eskişehir, Bilecik",1.0,2025-01-23
+4804,"Bursa, Eskişehir, Bilecik",8.0,2025-01-24
+4805,"Bursa, Eskişehir, Bilecik",8.0,2025-01-25
+4806,"Bursa, Eskişehir, Bilecik",3.0,2025-01-26
+4807,"Bursa, Eskişehir, Bilecik",6.0,2025-01-27
+4808,"Bursa, Eskişehir, Bilecik",6.0,2025-01-28
+4809,"Bursa, Eskişehir, Bilecik",8.0,2025-01-29
+4810,"Bursa, Eskişehir, Bilecik",6.0,2025-01-30
+4811,"Bursa, Eskişehir, Bilecik",6.0,2025-01-31
+4812,"Bursa, Eskişehir, Bilecik",-4.25,2025-02-01
+4813,"Bursa, Eskişehir, Bilecik",-4.25,2025-02-02
+4814,"Bursa, Eskişehir, Bilecik",0.5,2025-02-03
+4815,"Tekirdağ, Edirne, Kırklareli",8.0,2025-01-20
+4816,"Tekirdağ, Edirne, Kırklareli",8.0,2025-01-21
+4817,"Tekirdağ, Edirne, Kırklareli",3.0,2025-01-22
+4818,"Tekirdağ, Edirne, Kırklareli",13.0,2025-01-23
+4819,"Tekirdağ, Edirne, Kırklareli",13.0,2025-01-24
+4820,"Tekirdağ, Edirne, Kırklareli",13.0,2025-01-25
+4821,"Tekirdağ, Edirne, Kırklareli",13.0,2025-01-26
+4822,"Tekirdağ, Edirne, Kırklareli",13.0,2025-01-27
+4823,"Tekirdağ, Edirne, Kırklareli",13.0,2025-01-28
+4824,"Tekirdağ, Edirne, Kırklareli",7.0,2025-01-29
+4825,"Tekirdağ, Edirne, Kırklareli",2.0,2025-01-30
+4826,"Tekirdağ, Edirne, Kırklareli",2.0,2025-01-31
+4827,"Tekirdağ, Edirne, Kırklareli",0.0,2025-02-01
+4828,"Tekirdağ, Edirne, Kırklareli",2.0,2025-02-02
+4829,"Tekirdağ, Edirne, Kırklareli",-2.55,2025-02-03
+4830,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",11.0,2025-01-20
+4831,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",8.0,2025-01-21
+4832,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",5.0,2025-01-22
+4833,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",7.0,2025-01-23
+4834,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",13.0,2025-01-24
+4835,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",8.0,2025-01-25
+4836,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",7.0,2025-01-26
+4837,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",13.0,2025-01-27
+4838,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",13.0,2025-01-28
+4839,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",11.0,2025-01-29
+4840,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",-1.0,2025-01-30
+4841,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",-1.0,2025-01-31
+4842,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",-3.0,2025-02-01
+4843,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",0.0,2025-02-02
+4844,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",-4.0,2025-02-03
+4845,"Balıkesir, Çanakkale",7.0,2025-01-20
+4846,"Balıkesir, Çanakkale",12.0,2025-01-21
+4847,"Balıkesir, Çanakkale",4.0,2025-01-22
+4848,"Balıkesir, Çanakkale",13.0,2025-01-23
+4849,"Balıkesir, Çanakkale",13.0,2025-01-24
+4850,"Balıkesir, Çanakkale",10.0,2025-01-25
+4851,"Balıkesir, Çanakkale",13.0,2025-01-26
+4852,"Balıkesir, Çanakkale",13.0,2025-01-27
+4853,"Balıkesir, Çanakkale",13.0,2025-01-28
+4854,"Balıkesir, Çanakkale",2.0,2025-01-29
+4855,"Balıkesir, Çanakkale",-1.0,2025-01-30
+4856,"Balıkesir, Çanakkale",-1.0,2025-01-31
+4857,"Balıkesir, Çanakkale",-5.0,2025-02-01
+4858,"Balıkesir, Çanakkale",0.9,2025-02-02
+4859,"Balıkesir, Çanakkale",0.6,2025-02-03
+4860,İzmir,7.0,2025-01-20
+4861,İzmir,4.0,2025-01-21
+4862,İzmir,4.0,2025-01-22
+4863,İzmir,13.0,2025-01-23
+4864,İzmir,13.0,2025-01-24
+4865,İzmir,18.0,2025-01-25
+4866,İzmir,13.0,2025-01-26
+4867,İzmir,13.0,2025-01-27
+4868,İzmir,15.0,2025-01-28
+4869,İzmir,13.0,2025-01-29
+4870,İzmir,13.0,2025-01-30
+4871,İzmir,13.0,2025-01-31
+4872,İzmir,6.0,2025-02-01
+4873,İzmir,6.0,2025-02-02
+4874,İzmir,2.0,2025-02-03
+4875,İstanbul,7.0,2025-01-20
+4876,İstanbul,8.0,2025-01-21
+4877,İstanbul,7.0,2025-01-22
+4878,İstanbul,8.0,2025-01-23
+4879,İstanbul,13.0,2025-01-24
+4880,İstanbul,10.0,2025-01-25
+4881,İstanbul,11.0,2025-01-26
+4882,İstanbul,13.0,2025-01-27
+4883,İstanbul,13.0,2025-01-28
+4884,İstanbul,11.0,2025-01-29
+4885,İstanbul,3.0,2025-01-30
+4886,İstanbul,-1.0,2025-01-31
+4887,İstanbul,-3.0,2025-02-01
+4888,İstanbul,-4.0,2025-02-02
+4889,İstanbul,-4.0,2025-02-03
+4890,Oslo og Viken,0.0,2025-01-20
+4891,Oslo og Viken,-0.25,2025-01-21
+4892,Oslo og Viken,-1.1,2025-01-22
+4893,Oslo og Viken,-8.5,2025-01-23
+4894,Oslo og Viken,-9.0,2025-01-24
+4895,Oslo og Viken,-15.0,2025-01-25
+4896,Oslo og Viken,-14.0,2025-01-26
+4897,Oslo og Viken,-6.0,2025-01-27
+4898,Oslo og Viken,-14.0,2025-01-28
+4899,Oslo og Viken,-3.0,2025-01-29
+4900,Oslo og Viken,-5.0,2025-01-30
+4901,Oslo og Viken,-3.0,2025-01-31
+4902,Oslo og Viken,-9.0,2025-02-01
+4903,Oslo og Viken,4.0,2025-02-02
+4904,Oslo og Viken,-5.0,2025-02-03
+4905,"Aydın, Denizli, Muğla",18.0,2025-01-20
+4906,"Aydın, Denizli, Muğla",2.0,2025-01-21
+4907,"Aydın, Denizli, Muğla",2.0,2025-01-22
+4908,"Aydın, Denizli, Muğla",7.0,2025-01-23
+4909,"Aydın, Denizli, Muğla",13.0,2025-01-24
+4910,"Aydın, Denizli, Muğla",13.0,2025-01-25
+4911,"Aydın, Denizli, Muğla",13.0,2025-01-26
+4912,"Aydın, Denizli, Muğla",13.0,2025-01-27
+4913,"Aydın, Denizli, Muğla",15.0,2025-01-28
+4914,"Aydın, Denizli, Muğla",13.0,2025-01-29
+4915,"Aydın, Denizli, Muğla",13.0,2025-01-30
+4916,"Aydın, Denizli, Muğla",13.0,2025-01-31
+4917,"Aydın, Denizli, Muğla",13.0,2025-02-01
+4918,"Aydın, Denizli, Muğla",2.0,2025-02-02
+4919,"Aydın, Denizli, Muğla",2.0,2025-02-03
+4920,Agder og Sør-Østlandet,-2.55,2025-01-20
+4921,Agder og Sør-Østlandet,-6.65,2025-01-21
+4922,Agder og Sør-Østlandet,7.0,2025-01-22
+4923,Agder og Sør-Østlandet,-5.35,2025-01-23
+4924,Agder og Sør-Østlandet,-7.65,2025-01-24
+4925,Agder og Sør-Østlandet,-6.8,2025-01-25
+4926,Agder og Sør-Østlandet,-6.8,2025-01-26
+4927,Agder og Sør-Østlandet,-7.65,2025-01-27
+4928,Agder og Sør-Østlandet,-7.0,2025-01-28
+4929,Agder og Sør-Østlandet,-6.0,2025-01-29
+4930,Agder og Sør-Østlandet,-5.95,2025-01-30
+4931,Agder og Sør-Østlandet,-4.0,2025-01-31
+4932,Agder og Sør-Østlandet,-4.0,2025-02-01
+4933,Agder og Sør-Østlandet,0.0,2025-02-02
+4934,Agder og Sør-Østlandet,6.0,2025-02-03
+4935,Vestlandet,0.0,2025-01-20
+4936,Vestlandet,-3.35,2025-01-21
+4937,Vestlandet,-0.8,2025-01-22
+4938,Vestlandet,1.75,2025-01-23
+4939,Vestlandet,-13.65,2025-01-24
+4940,Vestlandet,-13.65,2025-01-25
+4941,Vestlandet,-7.65,2025-01-26
+4942,Vestlandet,-6.8,2025-01-27
+4943,Vestlandet,-14.0,2025-01-28
+4944,Vestlandet,-14.0,2025-01-29
+4945,Vestlandet,-14.0,2025-01-30
+4946,Vestlandet,-14.0,2025-01-31
+4947,Vestlandet,-14.0,2025-02-01
+4948,Vestlandet,-5.95,2025-02-02
+4949,Vestlandet,-6.0,2025-02-03
+4950,Ankara,8.0,2025-01-20
+4951,Ankara,8.0,2025-01-21
+4952,Ankara,-3.0,2025-01-22
+4953,Ankara,-1.65,2025-01-23
+4954,Ankara,8.0,2025-01-24
+4955,Ankara,1.0,2025-01-25
+4956,Ankara,3.75,2025-01-26
+4957,Ankara,8.0,2025-01-27
+4958,Ankara,10.0,2025-01-28
+4959,Ankara,8.0,2025-01-29
+4960,Ankara,8.0,2025-01-30
+4961,Ankara,8.0,2025-01-31
+4962,Ankara,8.0,2025-02-01
+4963,Ankara,4.0,2025-02-02
+4964,Ankara,1.75,2025-02-03
+4965,"Konya, Karaman",8.0,2025-01-20
+4966,"Konya, Karaman",8.0,2025-01-21
+4967,"Konya, Karaman",-6.5,2025-01-22
+4968,"Konya, Karaman",-1.35,2025-01-23
+4969,"Konya, Karaman",5.45,2025-01-24
+4970,"Konya, Karaman",8.0,2025-01-25
+4971,"Konya, Karaman",3.45,2025-01-26
+4972,"Konya, Karaman",3.45,2025-01-27
+4973,"Konya, Karaman",8.0,2025-01-28
+4974,"Konya, Karaman",8.0,2025-01-29
+4975,"Konya, Karaman",6.0,2025-01-30
+4976,"Konya, Karaman",6.0,2025-01-31
+4977,"Konya, Karaman",8.0,2025-02-01
+4978,"Konya, Karaman",-4.25,2025-02-02
+4979,"Konya, Karaman",6.5,2025-02-03
+4980,Grad Zagreb,3.0,2025-01-20
+4981,Grad Zagreb,5.0,2025-01-21
+4982,Grad Zagreb,6.0,2025-01-22
+4983,Grad Zagreb,6.0,2025-01-23
+4984,Grad Zagreb,-5.0,2025-01-24
+4985,Grad Zagreb,11.0,2025-01-25
+4986,Grad Zagreb,11.0,2025-01-26
+4987,Grad Zagreb,10.0,2025-01-27
+4988,Grad Zagreb,13.0,2025-01-28
+4989,Grad Zagreb,13.0,2025-01-29
+4990,Grad Zagreb,13.0,2025-01-30
+4991,Grad Zagreb,8.0,2025-01-31
+4992,Grad Zagreb,10.0,2025-02-01
+4993,Grad Zagreb,8.0,2025-02-02
+4994,Grad Zagreb,8.0,2025-02-03
+4995,Jan Mayen and Svalbard,-8.0,2025-01-20
+4996,Jan Mayen and Svalbard,-3.7,2025-01-21
+4997,Jan Mayen and Svalbard,-7.6,2025-01-22
+4998,Jan Mayen and Svalbard,-1.7,2025-01-23
+4999,Jan Mayen and Svalbard,-1.7,2025-01-24
+5000,Jan Mayen and Svalbard,-1.7,2025-01-25
+5001,Jan Mayen and Svalbard,-3.3,2025-01-26
+5002,Jan Mayen and Svalbard,1.8,2025-01-27
+5003,Jan Mayen and Svalbard,1.8,2025-01-28
+5004,Jan Mayen and Svalbard,3.5,2025-01-29
+5005,Jan Mayen and Svalbard,3.6,2025-01-30
+5006,Jan Mayen and Svalbard,-2.0,2025-01-31
+5007,Jan Mayen and Svalbard,-1.4,2025-02-01
+5008,Jan Mayen and Svalbard,-1.3,2025-02-02
+5009,Jan Mayen and Svalbard,3.8,2025-02-03

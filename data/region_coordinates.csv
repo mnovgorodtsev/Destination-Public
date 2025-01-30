@@ -1,0 +1,335 @@
+,Location,Latitude,Longitude
+0,Karlsruhe,49.01,8.4
+1,Ostschweiz,47.41,9.04
+2,Střední Čechy,50.06,13.83
+3,Région lémanique,46.44,6.52
+4,Prov. Vlaams-Brabant,50.92,4.58
+5,Severoiztochen,43.59,27.23
+6,Jihozápad,49.33,13.94
+7,Kýpros,34.92,32.89
+8,Praha,50.06,14.45
+9,Yugoiztochen,42.43,26.82
+10,Burgenland,47.5,16.42
+11,Tübingen,48.52,9.05
+12,Steiermark,47.25,15.17
+13,Prov. West-Vlaanderen,51.0,3.0
+14,Prov. Limburg (BE),51.25,6.0
+15,Veri,42.47,0.53
+16,Prov. Oost-Vlaanderen,51.0,3.75
+17,Yugozapaden,42.64,23.29
+18,Jihovýchod,49.24,16.14
+19,Ticino,46.34,8.75
+20,Illes Balears,39.61,2.88
+21,Tirol,47.22,11.53
+22,Niederösterreich,48.28,15.76
+23,Freiburg,48.0,7.85
+24,Oberbayern,48.24,11.97
+25,Zentralschweiz,46.87,8.18
+26,Severen tsentralen,43.40,25.09
+27,Vorarlberg,47.25,9.92
+28,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,50.84,4.38
+29,Prov. Antwerpen,51.22,4.4
+30,Prov. Liège,-22.27,166.45
+31,Espace Mittelland,47.38,9.43
+32,Nordwestschweiz,47.45,7.43
+33,Yuzhen tsentralen,41.71,24.79
+34,Oberösterreich,48.25,14.0
+35,Qender,42.2,19.36
+36,Jug,59.99,46.05
+37,Zürich,47.37,8.54
+38,Severovýchod,49.89,16.88
+39,Salzburg,47.8,13.05
+40,Kärnten,46.75,13.83
+41,Prov. Brabant Wallon,50.75,4.58
+42,Moravskoslezsko,49.86,18.04
+43,Wien,48.21,16.37
+44,Prov. Hainaut,50.47,3.91
+45,Andalucía,37.34,-4.58
+46,Región de Murcia,37.92,-1.48
+47,Ciudad de Ceuta,35.89,-5.33
+48,Ciudad de Melilla,35.3,-2.94
+49,Schleswig-Holstein,54.19,9.82
+50,Helsinki-Uusimaa,60.17,24.94
+51,Galicia,42.62,-7.86
+52,Ile-de-France,48.64,2.75
+53,Berlin,52.51,13.4
+54,Dytiki Makedonia,41.67,21.75
+55,Düsseldorf,51.23,6.78
+56,Sterea Elláda,40.32,23.13
+57,Thüringen,50.9,11.04
+58,Sardegna,40.09,9.03
+59,Provincia Autonoma di Bolzano/Bozen,46.5,11.35
+60,Hovedstaden,55.86,12.31
+61,Åland,60.17,20.08
+62,Cantabria,43.16,-4.09
+63,Ipeiros,39.67,20.67
+64,Köln,50.94,6.96
+65,Mittelfranken,49.32,10.69
+66,Dresden,51.05,13.74
+67,Bremen,53.08,8.81
+68,Hamburg,53.55,10.0
+69,Castilla-La Mancha,39.42,-2.62
+70,Kriti,33.61,75.38
+71,Saarland,49.38,6.95
+72,Detmold,51.94,8.88
+73,Extremadura,39.17,-6.15
+74,Etelä-Suomi,64.0,26.0
+75,Pohjois- ja Itä-Suomi,64.0,26.0
+76,Peloponnisos,37.5,22.33
+77,Attiki,38.0,23.72
+78,Gießen,50.58,8.69
+79,Sachsen-Anhalt,52.01,11.7
+80,Castilla y León,41.55,-5.14
+81,Leipzig,51.34,12.37
+82,Comunidad Foral de Navarra,42.61,-1.83
+83,Chemnitz,50.83,12.92
+84,Principado de Asturias,43.31,-5.94
+85,Prov. Luxembourg (BE),-22.3,166.44
+86,Sjælland,55.55,11.7
+87,Comunitat Valenciana,39.68,0.77
+88,País Vasco,42.73,-1.97
+89,Aragón,41.38,0.76
+90,Comunidad de Madrid,40.52,-3.77
+91,Canarias,28.29,-16.62
+92,Niederbayern,48.69,12.75
+93,Severozapaden,6.38,10.39
+94,Länsi-Suomi,64.0,26.0
+95,Region Šumadije i Zapadne Srbije,44.09,20.80
+96,Prov. Namur,50.46,4.84
+97,Rheinhessen-Pfalz,49.54,8.36
+98,Stuttgart,48.78,9.18
+99,Severozápad,50.47,13.75
+100,Cataluña,41.85,1.57
+101,La Rioja,-29.97,-67.05
+102,Střední Morava,49.65,17.29
+103,Centre — Val de Loire,47.55,1.73
+104,Nord-Est,19.52,-71.87
+105,Stockholm,59.33,18.07
+106,Östra Mellansverige,59.17,15.18
+107,Friuli-Venezia Giulia,46.15,13.06
+108,Severna Makedonija,41.62,21.72
+109,Área Metropolitana de Lisboa,38.72,-9.12
+110,Centro (PT),40.68,-7.7
+111,Śląskie,50.57,19.23
+112,Småland med öarna,56.69,14.94
+113,Luxembourg,49.82,6.13
+114,Kujawsko-pomorskie,53.32,18.34
+115,Wielkopolskie,52.15,17.4
+116,Latvija,56.84,24.75
+117,Autonomous Province of Vojvodina,45.41,19.98
+118,Warmińsko-mazurskie,53.93,21.13
+119,Limousin,44.89,4.85
+120,Zachodniopomorskie,53.55,15.57
+121,Dolnośląskie,50.92,16.49
+122,Opolskie,50.89,17.93
+123,Łódzkie,51.47,19.35
+124,Region Južne i Istočne Srbije,43.80,22.06
+125,Vidurio ir vakarų Lietuvos regionas,54.79,25.30
+126,Poitou-Charentes,46.17,0.07
+127,Alentejo,38.06,-7.86
+128,Zahodna Slovenija,46.08,15.0
+129,Pomorskie,54.25,18.11
+130,Lubuskie,52.1,15.36
+131,Algarve,-30.03,-51.08
+132,Crna Gora,42.99,19.52
+133,Friesland (NL),53.09,5.78
+134,Drenthe,52.91,6.64
+135,Mazowiecki regionalny,52.83,20.27
+136,Sud-Muntenia,44.63,25.25
+137,Toscana,43.46,11.14
+138,Umbria,42.97,12.49
+139,Groningen,53.22,6.57
+140,Emilia-Romagna,44.53,11.04
+141,Noord-Brabant,51.6,5.44
+142,Limburg (NL),51.2,5.9
+143,Haute-Normandie,49.42,1.0
+144,Brandenburg,52.85,13.25
+145,Eesti,58.75,25.33
+146,Sicilia,37.59,14.16
+147,Sud-Est,18.3,-72.37
+148,Świętokrzyskie,50.75,20.78
+149,"Anatoliki Makedonia, Thraki",41.14,23.82
+150,Unterfranken,50.02,9.89
+151,Gelderland,52.1,5.95
+152,Syddanmark,55.38,9.13
+153,Lüneburg,53.25,10.41
+154,Norte,50.53,3.09
+155,Weser-Ems,46.83,9.45
+156,Voreio Aigaio,39.18,25.92
+157,Ionia Nisia,38.5,20.5
+158,Centru,47.02,28.83
+159,Dytiki Elláda,38.69,22.1
+160,Thessalia,39.58,22.16
+161,Arnsberg,51.4,8.06
+162,Podkarpackie,49.99,22.18
+163,Oberfranken,50.06,11.55
+164,Trier,49.76,6.64
+165,Lubelskie,50.94,22.83
+166,Lazio,41.98,12.77
+167,Braunschweig,52.26,10.52
+168,Kentriki Makedonia,39.66,20.71
+169,Notio Aigaio,37.02,25.48
+170,Mecklenburg-Vorpommern,53.77,12.58
+171,Midtjylland,56.24,9.23
+172,Veneto,45.65,11.87
+173,Nord-Vest,45.81,24.11
+174,Zeeland,51.42,3.7
+175,Nordjylland,57.08,10.04
+176,Oberpfalz,49.41,12.14
+177,Münster,51.96,7.63
+178,Região Autónoma dos Açores,37.81,-25.47
+179,Região Autónoma da Madeira,32.75,-16.98
+180,Małopolskie,49.79,20.38
+181,Provincia Autonoma di Trento,46.1,11.13
+182,Schwaben,48.15,10.47
+183,Darmstadt,49.89,8.67
+184,Kassel,51.32,9.49
+185,Hannover,52.37,9.74
+186,Basse-Normandie,48.93,0.53
+187,Koblenz,50.35,7.59
+188,"Herefordshire, Worcestershire and Warwickshire",52.33,-1.58
+189,East Wales,44.16,-70.04
+190,North Eastern Scotland,56.0,-4.0
+191,Highlands and Islands,22.26,113.96
+192,Lincolnshire,53.18,0.2
+193,Cornwall and Isles of Scilly,50.42,-4.75
+194,Stredné Slovensko,48.83,19.47
+195,West Central Scotland,56.08,-4.12
+196,Picardie,50.1,2.72
+197,Východné Slovensko,48.9,21.31
+198,Southern Scotland,56.0,-4.0
+199,Basilicata,40.5,16.08
+200,Calabria,39.06,16.52
+201,Západné Slovensko,48.53,17.91
+202,Rhône-Alpes,45.5,5.33
+203,Corse,42.19,9.07
+204,Alsace,33.98,-118.41
+205,Västsverige,57.58,12.38
+206,Nord-Pas de Calais,50.47,2.7
+207,"Berkshire, Buckinghamshire and Oxfordshire",51.83,-1.25
+208,Nyugat-Dunántúl,47.18,16.89
+209,Liguria,44.48,8.7
+210,Eastern Scotland,56.0,-4.0
+211,Panonska Hrvatska,45.17,15.5
+212,La Réunion,-21.13,55.54
+213,Mayotte,-12.82,45.15
+214,Podlaskie,53.27,22.85
+215,Midi-Pyrénées,43.75,1.5
+216,Malta,35.89,14.45
+217,Flevoland,52.45,5.42
+218,Utrecht,52.08,5.13
+219,Noord-Holland,52.72,4.82
+220,Észak-Magyarország,48.1,20.79
+221,Bucureşti-Ilfov,44.58,26.17
+222,City of Belgrade,44.68,20.38
+223,Valle d’Aosta/Vallée d’Aoste,45.73,7.39
+224,Zuid-Holland,52.0,4.56
+225,Abruzzo,42.23,13.85
+226,Jadranska Hrvatska,45.17,15.5
+227,Eastern and Midland,53.4,-6.26
+228,Shropshire and Staffordshire,52.83,-2.0
+229,Molise,41.68,14.6
+230,Warszawski stołeczny,52.23,21.01
+231,Pays de la Loire,47.66,0.82
+232,Sud-Vest Oltenia,44.30,23.12
+233,Lombardia,45.57,9.77
+234,Campania,40.86,14.84
+235,Piemonte,45.06,7.92
+236,Dél-Dunántúl,47.7,19.04
+237,Essex,51.77,0.46
+238,Guyane,4.84,-58.64
+239,Vest,37.4,-83.01
+240,Champagne-Ardenne,48.75,4.5
+241,Pest,47.49,19.05
+242,West Wales and The Valleys,41.12,-111.69
+243,Provence-Alpes-Côte d’Azur,44.06,6.06
+244,Ísland,64.98,-18.11
+245,Guadeloupe,16.25,-61.57
+246,Martinique,14.61,-60.96
+247,Aquitaine,45.4,0.38
+248,Lorraine,38.57,-98.32
+249,Franche-Comté,48.68,2.18
+250,Budapest,47.48,19.15
+251,Marche,43.35,13.14
+252,Liechtenstein,47.14,9.55
+253,Auvergne,49.65,-107.44
+254,Bourgogne,49.36,4.07
+255,Sostinės regionas,55.86,12.31
+256,Overijssel,52.43,6.46
+257,Languedoc-Roussillon,43.53,3.23
+258,Övre Norrland,63.83,20.25
+259,Northern Ireland,54.59,-6.96
+260,Puglia,40.98,16.62
+261,Northern and Western,53.9,-8.58
+262,Southern,22.22,114.23
+263,Tees Valley and Durham,53.28,-4.56
+264,Bedfordshire and Hertfordshire,51.83,0.25
+265,South Yorkshire,53.48,-1.38
+266,Bratislavský kraj,48.33,17.18
+267,Hampshire and Isle of Wight,50.67,-1.33
+268,Közép-Dunántúl,47.23,18.03
+269,Vzhodna Slovenija,46.08,15.0
+270,Northumberland and Tyne and Wear,54.92,-1.57
+271,Norra Mellansverige,59.91,13.13
+272,Bretagne,48.26,-2.92
+273,West Midlands,52.51,-1.96
+274,Cheshire,53.21,-2.47
+275,Merseyside,53.5,-2.97
+276,East Anglia,52.62,1.24
+277,Mellersta Norrland,62.06,13.82
+278,Outer London — West and North West,-26.5,26.0
+279,Inner London — West,5.5,10.67
+280,Inner London — East,27.24,87.15
+281,Outer London — East and North East,42.22,-79.83
+282,Cumbria,54.61,-2.94
+283,Greater Manchester,53.51,-2.34
+284,Lancashire,53.86,-2.57
+285,West Yorkshire,53.74,-1.72
+286,Észak-Alföld,47.46,21.33
+287,Dél-Alföld,46.48,20.14
+288,North Yorkshire,54.13,-1.5
+289,Derbyshire and Nottinghamshire,53.17,-1.0
+290,Kent,51.21,0.72
+291,Outer London — South,6.67,2.25
+292,"Leicestershire, Rutland and Northamptonshire",52.25,0.83
+293,Devon,50.72,-3.66
+294,"Gloucestershire, Wiltshire and Bristol/Bath area",44.83,9.42
+295,Dorset and Somerset,51.08,-3.0
+296,Sydsverige,57.33,13.89
+297,East Yorkshire and Northern Lincolnshire,42.19,-87.91
+298,"Surrey, East and West Sussex",51.0,0.42
+299,"Kastamonu, Çankırı, Sinop",42.03,35.16
+300,"Şanlıurfa, Diyarbakır",37.92,40.16
+301,"Mardin, Batman, Şırnak, Siirt",37.93,41.94
+302,"Zonguldak, Karabük, Bartın",41.64,32.34
+303,"Van, Muş, Bitlis, Hakkari",37.57,43.74
+304,"Samsun, Tokat, Çorum, Amasya",40.65,35.83
+305,"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",40.46,39.47
+306,"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",39.15,34.16
+307,"Gaziantep, Adıyaman, Kilis",36.72,37.12
+308,"Ağrı, Kars, Iğdır, Ardahan",41.11,42.7
+309,"Malatya, Elazığ, Bingöl, Tunceli",39.1,39.54
+310,"Erzurum, Erzincan, Bayburt",40.25,40.25
+311,"Hatay, Kahramanmaraş, Osmaniye",37.07,36.25
+312,"Kayseri, Sivas, Yozgat",39.82,34.8
+313,Innlandet,61.27,10.49
+314,"Antalya, Isparta, Burdur",37.66,30.72
+315,"Adana, Mersin",36.93,34.71
+316,Sjeverna Hrvatska,45.17,15.5
+317,Trøndelag,63.88,10.2
+318,Nord-Norge,62.0,10.0
+319,"Manisa, Afyonkarahisar, Kütahya, Uşak",38.67,29.41
+320,"Bursa, Eskişehir, Bilecik",39.87,30.19
+321,"Tekirdağ, Edirne, Kırklareli",41.74,27.23
+322,"Kocaeli, Sakarya, Düzce, Bolu, Yalova",40.66,29.28
+323,"Balıkesir, Çanakkale",40.01,26.91
+324,İzmir,38.23,27.03
+325,İstanbul,41.08,29.05
+326,Oslo og Viken,56.16,12.61
+327,"Aydın, Denizli, Muğla",37.22,28.37
+328,Agder og Sør-Østlandet,58.33,7.74
+329,Vestlandet,60.37,5.35
+330,Ankara,39.92,32.85
+331,"Konya, Karaman",37.2,33.1
+332,Grad Zagreb,45.81,15.98
+333,Jan Mayen and Svalbard,78.72,20.35
